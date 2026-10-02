@@ -1,0 +1,27 @@
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+
+# Data manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Hugging Face
+datasets
+transformers
+tokenizers
+accelerate
+
+# Deep Learning
+torch
+
+# NER evaluation
+seqeval
+
+# Utilities
+scikit-learn

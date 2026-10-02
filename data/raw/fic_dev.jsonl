@@ -1,0 +1,1051 @@
+{"text": "L' agitazione dei più ardenti e impazienti fra i patrioti si fece più intensa nel 1862.", "entities": []}
+{"text": "Garibaldi viaggiò nelle province libere dell' Italia Settentrionale per accaparrarsi volontari che si trovassero pronti a un suo cenno, poi scese in Sicilia, e al grido Roma o morte!", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Italia Settentrionale", "type": "LOC"}, {"entity_text": "Sicilia", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "si preparò a passare sul continente, contando di risalire di là verso la città eterna.", "entities": []}
+{"text": "Il governo italiano aveva lusingato dapprincipio segretamente Garibaldi, non facendosi un esatto concetto delle necessità politiche del momento, specialmente riguardo alle varie Potenze;", "entities": [{"entity_text": "governo italiano", "type": "ORG"}, {"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "poi era stato costretto a negare che lo avesse appoggiato;", "entities": []}
+{"text": "indi lo aveva ancora favorito.", "entities": []}
+{"text": "Ma, appreso il concentramento dei garibaldini in Sicilia e avendo varie Potenze mosso rimostranze e minacce, e sopratutto avendo la Francia dichiarato, per bocca di Napoleone III, che avrebbe difeso ad ogni costo il Papa, – lo stesso Vittorio Emanuele si vide costretto a rivolgere un proclama agli Italiani, in cui, pur dichiarando che « a Roma tendevano concordi i voti e gli scopi comuni » li esortava a guardarsi « dalle impazienze e dalle improvvide agitazioni ».", "entities": [{"entity_text": "Sicilia", "type": "LOC"}, {"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Vittorio Emanuele aggiungeva:", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}]}
+{"text": "« Quando l' ora del compimento della grande opera sarà giunta, la voce del vostro Re si farà udire fra voi.", "entities": []}
+{"text": "Ogni appello che non è il suo è un appello alla ribellione e alla guerra civile.", "entities": []}
+{"text": "La responsabilità e il rigore delle leggi cadranno su coloro che non ascolteranno le mie parole.", "entities": []}
+{"text": "Re acclamato dalla Nazione, conosco i miei doveri.", "entities": []}
+{"text": "Saprò conservare integra la dignità della Corona e del Parlamento1 per aver diritto di chiedere all' Europa intera giustizia per l' Italia. »", "entities": [{"entity_text": "Europa", "type": "LOC"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Alle quali parole Garibaldi, che non poteva più ritirarsi, rispondeva da Catania:", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Catania", "type": "LOC"}]}
+{"text": "« Io sono risoluto ad entrare in Roma o a cadere sotto le sue mura.", "entities": [{"entity_text": "Roma", "type": "LOC"}]}
+{"text": "In questo caso ho fede che vendicherete degnamente la mia morte e compirete l' opera mia.", "entities": []}
+{"text": "Viva l' Italia!", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "viva Vittorio Emanuele in Campidoglio! »", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Campidoglio", "type": "LOC"}]}
+{"text": "E sbarcava nella Calabria.", "entities": [{"entity_text": "Calabria", "type": "LOC"}]}
+{"text": "Fu allora scritta la più triste pagina di questi cinquant' anni di storia, poiché il Governo italiano, per la gravità del momento, per le minacce di varie Potenze europee e perché se l' impresa, non ancora matura, non fosse riuscita si sarebbe certamente fortificata e radicata in Roma l' occupazione straniera, – fu costretto a far accerchiare Garibaldi dall' esercito regolare;", "entities": [{"entity_text": "Governo italiano", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "a farlo, in una breve mischia, in cui l' Eroe fu ferito, prigioniero( Aspromonte), e a confinarlo nel forte di Varignano.", "entities": [{"entity_text": "Aspromonte", "type": "LOC"}, {"entity_text": "Varignano", "type": "LOC"}]}
+{"text": "Fa un sole su questi bricchi, un riverbero di grillaia e di tufi che mi ero dimenticato.", "entities": []}
+{"text": "Qui il caldo piú che scendesse dal cielo esce da sotto- dalla terra, dal fondo tra le viti che sembra si sia mangiato ogni verde per andare tutto in tralcio.", "entities": []}
+{"text": "È un caldo che mi piace, sa un odore:", "entities": []}
+{"text": "ci sono dentro anch' io a quest' odore,- ci sono dentro tante vendemmie e fienagioni e sfogliature, tanti sapori e tante voglie che non sapevo piú d' avere addosso.", "entities": []}
+{"text": "Cosí mi piace uscire dall' Angelo e tener d' occhio le campagne quasi quasi vorrei non aver fatto la mia vita, poterla cambiare;", "entities": [{"entity_text": "Angelo", "type": "LOC"}]}
+{"text": "dar ragione alle ciance di quelli che mi vedono passare e si chiedono se sono venuto a comprar l' uva o che cosa.", "entities": []}
+{"text": "Qui nel paese piú nessuno si ricorda di me, piú nessuno tiene conto che sono stato servitore e bastardo.", "entities": []}
+{"text": "Sanno che a Genova ho dei soldi.", "entities": [{"entity_text": "Genova", "type": "LOC"}]}
+{"text": "Magari c' è qualche ragazzo, servitore com' io sono stato, qualche donna che si annoia dietro le persiane chiuse, che pensa a me com' io pensavo alle collinette di Canelli, alla gente di laggiú, del mondo, che guadagna, se la gode, va lontano sul mare.", "entities": [{"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "Di cascine, un po' per scherzo un po' sul serio, già diversi me n' hanno offerte.", "entities": []}
+{"text": "Io sto a sentire, con le mani dietro la schiena, non tutti sanno che me ne intendo- mi dicono dei gran raccolti di questi anni ma che adesso ci vorrebbe uno scasso, un muretto, un trapianto, e non possono farlo.", "entities": []}
+{"text": "- Dove sono questi raccolti?", "entities": []}
+{"text": "- gli dico,- questi profitti?", "entities": []}
+{"text": "Perché non li spendete nei beni?", "entities": []}
+{"text": "- I concimi ... Io che i concimi li ho venduti all' ingrosso, taglio corto.", "entities": []}
+{"text": "Ma il discorso mi piace.", "entities": []}
+{"text": "E piú mi piace quando andiamo nei beni, quando traversiamo un' aia, visitiamo una stalla, beviamo un bicchiere.", "entities": []}
+{"text": "Il giorno che tornai al casotto di Gaminella, conoscevo già il vecchio Valino.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}, {"entity_text": "Valino", "type": "PER"}]}
+{"text": "L' aveva fermato Nuto in piazza in mia presenza e gli aveva chiesto se mi conosceva.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Un uomo secco e nero, con gli occhi da talpa, che mi guardò circospetto, e quando Nuto gli disse ridendo ch' ero uno che gli aveva mangiato del pane e bevuto del vino, restò lí senza decidersi, torbido.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Allora gli chiesi se era lui che aveva tagliato i noccioli e se sopra la stalla c' era sempre quella spalliera di uva passera.", "entities": []}
+{"text": "Gli dicemmo chi ero e di dove venivo;", "entities": []}
+{"text": "Valino non cambiò quella faccia scura disse soltanto che la terra della riva era magra e tutti gli anni la pioggia ne portava via un pezzo.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Prima di andarsene mi guardò, guardò Nuto e gli disse:", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Vieni una volta su di là.", "entities": []}
+{"text": "Voglio farti vedere quella tina che perde.", "entities": []}
+{"text": "Poi Nuto mi aveva detto:", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Tu in Gaminella non mangiavi tutti i giorni ...- Non scherzava piú, adesso.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "- Eppure non vi toccava spartire.", "entities": []}
+{"text": "Adesso il casotto l' ha comprato la madama della Villa e viene a spartire i raccolti con la bilancia ... Una che ha già due cascine e il negozio.", "entities": []}
+{"text": "Poi dicono i villani ci rubano, i villani sono gente perversa ... Da solo ero tornato su quella strada e pensavo alla vita che poteva aver fatto il Valino in tanti anni- sessanta?", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "forse nemmeno- che lavorava da mezzadro.", "entities": []}
+{"text": "Da quante case era uscito, da quante terre, dopo averci dormito, mangiato, zappato col sole e col freddo, caricando i mobili su un carretto non suo, per delle strade dove non sarebbe ripassato.", "entities": []}
+{"text": "Sapevo ch' era vedovo, gli era morta la moglie nella cascina prima di questa e dei figli i piú vecchi erano morti in guerra- non gli restava che un ragazzo e delle donne.", "entities": []}
+{"text": "Che altro faceva in questo mondo?", "entities": []}
+{"text": "Dalla valle del Belbo non era mai uscito.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Senza volerlo mi fermai sul sentiero pensando che, se vent' anni prima non fossi scappato, quello era pure il mio destino.", "entities": []}
+{"text": "Eppure io per il mondo, lui per quelle colline, avevamo girato girato, senza mai poter dire:", "entities": []}
+{"text": "“ Questi sono i miei beni.", "entities": []}
+{"text": "Su questa trave invecchierò.", "entities": []}
+{"text": "Morirò in questa stanza ”.", "entities": []}
+{"text": "Arrivai sotto il fico, davanti all' aia, e rividi il sentiero tra i due rialti erbosi.", "entities": []}
+{"text": "Adesso ci avevano messo delle pietre per scalini.", "entities": []}
+{"text": "Il salto dal prato alla strada era come una volta- erba morta sotto il mucchio delle fascine, un cesto rotto, delle mele marce e schiacciate.", "entities": []}
+{"text": "Sentii il cane di sopra scorrere lungo il filo di ferro.", "entities": []}
+{"text": "Quando sporsi la testa dagli scalini, il cane impazzí.", "entities": []}
+{"text": "Si buttò in piedi, ululava, si strozzava.", "entities": []}
+{"text": "Seguitai a salire, e vidi il portico, il tronco del fico, un rastrello appoggiato all' uscio- la stessa corda col nodo pendeva dal foro dell' uscio.", "entities": []}
+{"text": "La stessa macchia di verderame intorno alla spalliera del muro.", "entities": []}
+{"text": "La stessa pianta di rosmarino sull' angolo della casa.", "entities": []}
+{"text": "E l' odore, l' odore della casa, della riva, di mele marce, d' erba secca e di rosmarino.", "entities": []}
+{"text": "Su una ruota stesa per terra era seduto un ragazzo, in camminino e calzoni strappati, una sola bretella, e teneva una gamba divaricata, scostata in un modo innaturale.", "entities": []}
+{"text": "Era un gioco quello?", "entities": []}
+{"text": "Mi guardò sotto il sole, aveva in mano una pelle di coniglio secca, e chiudeva le palpebre magre per guadagnar tempo.", "entities": []}
+{"text": "Io mi fermai, lui continuava a batter gli occhi;", "entities": []}
+{"text": "il cane urlava e strappava il filo.", "entities": []}
+{"text": "Il ragazzo era scalzo, aveva una crosta sotto l' occhio, le spalle ossute e non muoveva la gamba.", "entities": []}
+{"text": "D' improvviso mi ricordai quante volte avevo avuto i geloni, le croste sulle ginocchia, le labbra spaccate.", "entities": []}
+{"text": "Mi ricordai che mettevo gli zoccoli soltanto d' inverno.", "entities": []}
+{"text": "Mi ricordai come la mamma Virgilia strappava la pelle ai conigli dopo averli sventrati.", "entities": [{"entity_text": "Virgilia", "type": "PER"}]}
+{"text": "Mossi la mano e feci un cenno.", "entities": []}
+{"text": "Sull' uscio era comparsa una donna, due donne, sottane nere, una decrepita e storta, una piú giovane e ossuta, mi guardavano.", "entities": []}
+{"text": "Gridai che cercavo il Valino.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Non c' era, era andato su per la riva.", "entities": []}
+{"text": "La meno vecchia gridò al cane e prese il filo e lo tirò, che rantolava.", "entities": []}
+{"text": "Il ragazzo si alzò dalla ruota- si alzò a fatica, puntando la gamba per traverso, fu in piedi e strisciò verso il cane.", "entities": []}
+{"text": "Era zoppo, rachitico, vidi il ginocchio non piú grosso del suo braccio, si tirava il piede dietro come un peso.", "entities": []}
+{"text": "Avrà avuto dieci anni, e vederlo su quell' aia era come vedere me stesso.", "entities": []}
+{"text": "Al punto che diedi un' occhiata sotto il portico, dietro il fico, alle melighe, se comparissero Angiolina e Giulia.", "entities": [{"entity_text": "Angiolina", "type": "PER"}, {"entity_text": "Giulia", "type": "PER"}]}
+{"text": "Chi sa dov' erano?", "entities": []}
+{"text": "Se in qualche luogo erano vive, dovevano avere l' età di quella donna.", "entities": []}
+{"text": "Calmato il cane, non mi dissero niente e mi guardavano.", "entities": []}
+{"text": "Come vi ho già accennato nella prima parte di questo libretto, fu necessario pensar subito, fin dal 1861, a importanti opere pubbliche di cui l' Italia aveva bisogno.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Strade, ponti, canali, acquedotti, arsenali, porti, ferrovie, dighe, e va dicendo, mancavano in gran parte, sia per le condizioni in cui le varie regioni erano vissute durante il servaggio, sia per le conseguenze delle guerre sostenute.", "entities": []}
+{"text": "A questi lavori l' Italia, con le finanze dello Stato e con quelle dei Comuni, attese senza tregua per soddisfare ai bisogni del commercio e alle esigenze della civiltà.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Stato", "type": "ORG"}]}
+{"text": "Si costruirono ponti meravigliosi come quello sul Po a Piacenza e quelli di Mezzanacorti, di Annibale sul Volturno, del Diavolo sul Sole, di Pontelagoscuro, di Borgoforte, di Sestocalende, dell' arsenale di Taranto, oltre a quelli magnifici e monumentali sul Tevere, a Roma, che portano il nome di Garibaldi, Umberto, Margherita.", "entities": [{"entity_text": "Po", "type": "LOC"}, {"entity_text": "Piacenza", "type": "LOC"}, {"entity_text": "Mezzanacorti", "type": "LOC"}, {"entity_text": "Annibale", "type": "PER"}, {"entity_text": "Volturno", "type": "LOC"}, {"entity_text": "Pontelagoscuro", "type": "LOC"}, {"entity_text": "Borgoforte", "type": "LOC"}, {"entity_text": "Sestocalende", "type": "LOC"}, {"entity_text": "Taranto", "type": "LOC"}, {"entity_text": "Tevere", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Umberto", "type": "PER"}, {"entity_text": "Margherita", "type": "PER"}]}
+{"text": "Si fondò l' Arsenale di Spezia, si iniziarono e compirono gli acquedotti di Cagliari, di Genova( Galliera), di Venezia, di Bologna, di Napoli( Serino), di Ferrara ecc., che recano acque saluberrime a città che ne erano sprovvedute.", "entities": [{"entity_text": "Spezia", "type": "LOC"}, {"entity_text": "Cagliari", "type": "LOC"}, {"entity_text": "Genova", "type": "LOC"}, {"entity_text": "Galliera", "type": "LOC"}, {"entity_text": "Venezia", "type": "LOC"}, {"entity_text": "Bologna", "type": "LOC"}, {"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Serino", "type": "LOC"}, {"entity_text": "Ferrara", "type": "LOC"}]}
+{"text": "Si costruirono dighe imponenti( muraglioni) per inalveare corsi di fiumi e impedire inondazioni di città, come i Muraglioni del Tevere a Roma e quelli dell' Adige a Verona.", "entities": [{"entity_text": "Tevere", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Adige", "type": "LOC"}, {"entity_text": "Verona", "type": "LOC"}]}
+{"text": "Si compirono, d' accordo con le nazioni dei confini, celebri trafori di montagne come quelli del Frejus e del Sempione e si diedero 55 milioni come sussidio per quello del Gottardo, tutto su territorio svizzero ma interessante direttamente il commercio italiano.", "entities": [{"entity_text": "Frejus", "type": "LOC"}, {"entity_text": "Sempione", "type": "LOC"}, {"entity_text": "Gottardo", "type": "LOC"}]}
+{"text": "Si scavarono canali per la navigazione interna e per l' irrigazione delle terre, come il canale Cavour e il Villoresi;", "entities": []}
+{"text": "si prosciugarono laghi malarici come quello di Agnano, e terre che il Po aveva tolte all' agricoltura( basso Po Ferrarese);", "entities": [{"entity_text": "Agnano", "type": "LOC"}, {"entity_text": "Po", "type": "LOC"}, {"entity_text": "basso Po Ferrarese", "type": "LOC"}]}
+{"text": "si mutò il corso a fiumi( Brenta e Bacchiglione).", "entities": [{"entity_text": "Brenta", "type": "LOC"}, {"entity_text": "Bacchiglione", "type": "LOC"}]}
+{"text": "Si allacciarono città a città, paesi a paesi, con strade nuove carrozzabili e con una fitta rete di ferrovie che, se non è peranco compiuta, è però tale da onorare la nostra nazione.", "entities": []}
+{"text": "Per opera infine dello Stato, di Comuni, di privati, si fece tesoro dell' abbondanza d' acque, di cui l' Italia è favorita, per produrre la forza elettrica, cosicchè, mediante impianti idroelettrici colossali, che il mondo tutto ci invidia, si è potuto dare illuminazione elettrica a città e a paesi, forza elettrica a migliaia e migliaia di opifici, e movimento a treni e a tranvie.", "entities": [{"entity_text": "Stato", "type": "ORG"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Altri patrioti, che s' erano illustrati nelle battaglie dell' Indipendenza, morivano in questi cinquant' anni fra il compianto della Patria", "entities": []}
+{"text": "Nel 1861 Giuseppe Montanelli, già triunviro della Costituente toscana nel 1849, eroe a Curtatone nel 1848 e prigioniero degli Austriaci;", "entities": [{"entity_text": "Giuseppe Montanelli", "type": "PER"}, {"entity_text": "Costituente toscana", "type": "ORG"}, {"entity_text": "Curtatone", "type": "LOC"}]}
+{"text": "nel 1862 Livio Zambeccari, mazziniano, che nel 1848 aveva condotto 600 bolognesi sul Mincio per coadiuvare l' esercito di Carlo Alberto;", "entities": [{"entity_text": "Livio Zambeccari", "type": "PER"}, {"entity_text": "Mincio", "type": "LOC"}, {"entity_text": "esercito", "type": "ORG"}, {"entity_text": "Carlo Alberto", "type": "PER"}]}
+{"text": "nel 1863 Giuseppe La Farina, siciliano, che nel 1856 aveva fondato, d' accordo con Cavour, la Società nazionale per propugnare negli Italiani l' idea d' unirsi al Piemonte onde liberare l' Italia, e nel 1860 aveva raccolto armi e danaro per la spedizione dei Mille e in seguito era stato rappresentante di Cavour a fianco di Garibaldi.", "entities": [{"entity_text": "Giuseppe La Farina", "type": "PER"}, {"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Società nazionale", "type": "ORG"}, {"entity_text": "Piemonte", "type": "ORG"}, {"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "– Francesco Nullo, patriota e soldato, colonnello di Garibaldi nella spedizione dei Mille, moriva da eroe nel 1863 in Polonia, combattendo per la libertà dei Polacchi.", "entities": [{"entity_text": "Francesco Nullo", "type": "PER"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Polonia", "type": "LOC"}]}
+{"text": "Nello stesso anno moriva Ruggero Settimo, grande patriota siciliano, che aveva nel 1848 capitanato la rivolta di Palermo contro i Borboni e presieduto il governo provvisorio palermitano.", "entities": [{"entity_text": "Ruggero Settimo", "type": "PER"}, {"entity_text": "Palermo", "type": "LOC"}, {"entity_text": "governo provvisorio palermitano", "type": "ORG"}]}
+{"text": "– Manfredo Fanti, che nel 1855 aveva combattuto eroicamente in Crimea, nel 1859 a Magenta e a S. Martino, e nel 1860 era entrato con Cialdini nello Stato Pontificio a ristabilir l' ordine e a dare la libertà, e nel 1861 era stato Ministro della Guerra e della Marina, moriva nel 1864.", "entities": [{"entity_text": "Manfredo Fanti", "type": "PER"}, {"entity_text": "Crimea", "type": "LOC"}, {"entity_text": "Magenta", "type": "LOC"}, {"entity_text": "S. Martino", "type": "LOC"}, {"entity_text": "Cialdini", "type": "PER"}, {"entity_text": "Stato Pontificio", "type": "ORG"}, {"entity_text": "Marina", "type": "ORG"}]}
+{"text": "Nel 1866, nella battaglia navale di Lissa, i capitani di Vascello Alfredo Capellini e Faa di Bruno, comandanti di due navi da guerra, si lasciavano affondare con le loro corazzate, non volendo sopravvivere al dolore della immeritata sconfitta.", "entities": [{"entity_text": "Lissa", "type": "LOC"}, {"entity_text": "Alfredo Capellini", "type": "PER"}, {"entity_text": "Faa di Bruno", "type": "PER"}]}
+{"text": "L' anno seguente, l' Italia piangeva i morti di Villa Glori, fra cui Enrico Cairoli, sopraffatto, con essi, dai soldati del Papa;", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Villa Glori", "type": "LOC"}, {"entity_text": "Enrico Cairoli", "type": "PER"}]}
+{"text": "e nel 1868, fremeva d' orrore alla notizia che due popolani di Roma, Giuseppe Monti e Gaetano Tognetti, erano stati mandati a morte dal governo papale, per aver tentato, l' anno prima, di sollevare il popolo a libertà.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Giuseppe Monti", "type": "PER"}, {"entity_text": "Gaetano Tognetti", "type": "PER"}, {"entity_text": "governo papale", "type": "ORG"}]}
+{"text": "Il Monti e il Tognetti erano operai muratori.", "entities": [{"entity_text": "Monti", "type": "PER"}, {"entity_text": "Tognetti", "type": "PER"}]}
+{"text": "– Per le ferite riportate a Villa Glori nel 1867, moriva nel 1869 un altro degli eroici fratelli Cairoli:", "entities": [{"entity_text": "Villa Glori", "type": "LOC"}, {"entity_text": "Cairoli", "type": "PER"}]}
+{"text": "Giovanni, e nel 1871 la Patria piangeva la perdita della madre loro, Adelaide Cairoli, che nel 1848 aveva accompagnato ella stessa i suoi cinque figli ad inscriversi fra i cacciatori delle Alpi.", "entities": [{"entity_text": "Giovanni", "type": "PER"}, {"entity_text": "Adelaide Cairoli", "type": "PER"}, {"entity_text": "Alpi", "type": "LOC"}]}
+{"text": "Quattro di essi eran morti per l' Italia;", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "e la madre eroica, a chi aveva voluto confortarla, aveva risposto:", "entities": []}
+{"text": "Io non piango punto, perchè li ho perduti gloriosamente.", "entities": []}
+{"text": "Subito il Parlamento discusse e votò il trasporto della Capitale a Roma e una legge apposita, detta delle Guarentigie, in favore del Papa.", "entities": [{"entity_text": "Parlamento", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Questa legge stabilisce che la persona del Papa dev' essere sacra e inviolabile come quella del Re;", "entities": []}
+{"text": "che al Papa spettano onori reali;", "entities": []}
+{"text": "che tutti gli anni gli si versi un assegno di 3,225,000 lire a carico dell' Erario;", "entities": []}
+{"text": "ch' egli abbia il godimento assoluto dei palazzi Vaticano, Laterano e della gran Villa di Castel Gandolfo;", "entities": [{"entity_text": "Vaticano", "type": "LOC"}, {"entity_text": "Laterano", "type": "LOC"}, {"entity_text": "Villa di Castel Gandolfo", "type": "LOC"}]}
+{"text": "gli si garantisce inoltre piena ed assoluta libertà pel suo ministero spirituale.", "entities": []}
+{"text": "Pio IX dichiarò di non voler riconoscere questa legge e che non sarebbe più uscito dal Vaticano.", "entities": [{"entity_text": "Pio IX", "type": "PER"}, {"entity_text": "Vaticano", "type": "ORG"}]}
+{"text": "Infatti non ne uscì mai, e non ne uscirono i suoi successori.", "entities": []}
+{"text": "Tanto egli come essi, più volte reclamarono dalle Potenze la restituzione del potere temporale e dichiararono la presa di Roma una usurpazione;", "entities": [{"entity_text": "Roma", "type": "LOC"}]}
+{"text": "ma nè le Potenze nè gli Italiani li secondarono:", "entities": []}
+{"text": "Roma rimase e rimarrà la nostra capitale finchè il suolo e il nome d' Italia durino nelle vicende del mondo.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Gli uffizi tutti del Governo vi furono trasferiti da Firenze il 2 luglio 1871, e il 27 novembre il Parlamento Italiano teneva la sua prima seduta nel palazzo di Montecitorio.", "entities": [{"entity_text": "Firenze", "type": "LOC"}, {"entity_text": "Parlamento Italiano", "type": "ORG"}, {"entity_text": "palazzo di Montecitorio", "type": "LOC"}]}
+{"text": "Morto Cavour, il Governo italiano si trovò di fronte a gravi difficoltà e in critici momenti:", "entities": [{"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Governo italiano", "type": "ORG"}]}
+{"text": "Nell' Italia meridionale s' era inacerbito il brigantaggio:", "entities": [{"entity_text": "Italia meridionale", "type": "LOC"}]}
+{"text": "numerosi malfattori, fuggiti dalle carceri, s' erano internati nelle montagne e, sussidiati dal danaro dell' ex re di Napoli, il quale sperava di suscitare col loro mezzo una rivoluzione in suo favore, inalberavano la bandiera borbonica e commettevano ogni sorta di violenze e di delitti.", "entities": [{"entity_text": "Napoli", "type": "LOC"}]}
+{"text": "Perciò era occorso cominciare un' aspra lotta militare contro i briganti.", "entities": []}
+{"text": "Altra difficoltà consisteva, riguardo alle aspirazioni nazionali su Roma, nell' attitudine di Napoleone III, imperatore dei Francesi, il quale, ora che Cavour era morto, pur riconoscendo il Regno d' Italia, aveva dichiarato che dava valore alle proteste del Papa contro l' occupazione da noi fatta di parecchie delle province pontificie e che perciò continuava a occupare Roma per difenderla da possibili invasioni.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Regno d' Italia", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Questa attitudine di Napoleone III, che era in contrasto con le aspirazioni nazionali dell' Italia, spinse i patrioti più ardenti ad agire.", "entities": [{"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "In Genova si formò una società per procurare armi ed armati all' intento di liberare Roma e il Veneto.", "entities": [{"entity_text": "Genova", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Veneto", "type": "LOC"}]}
+{"text": "Garibaldi proclamò che tale liberazione era indispensabile.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "La fine del 1861, che tramontava fra queste agitazioni patriottiche, si chiudeva col primo censimento della popolazione del Regno d' Italia, che dava la cifra di 21.777.334 abitanti.", "entities": [{"entity_text": "Regno d' Italia", "type": "ORG"}]}
+{"text": "Giuseppe Mazzini, cospiratore, patriota, letterato, pensatore moriva nel 1872.", "entities": [{"entity_text": "Giuseppe Mazzini", "type": "PER"}]}
+{"text": "Egli aveva cospirato tutta la vita per la libertà d' Italia, che sognava risorta a repubblica.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Con gli scritti e con l' opera aveva infiammato gli animi dei giovani e cooperato grandemente a incrementare l' amor della Patria e il desiderio di agire per redimerla.", "entities": []}
+{"text": "Sebbene costretto a vivere molti anni in esilio, aveva saputo fondare associazioni segrete di patrioti, diffondere proclami, libri, giornali, inspirare congiure e moti, esortare gli uomini d' azione perchè lavorassero per la redenzione italiana.", "entities": []}
+{"text": "Era stato triunviro nella breve repubblica romana del 1849.", "entities": []}
+{"text": "Pochi uomini celebri lo uguagliarono per l' altezza del pensiero, del sentimento e dell' amor patrio.", "entities": []}
+{"text": "Nino Bixio, volontario del 1848, soldato valorosissimo nelle guerre del 1849 e del 1859, comandante d' una delle navi che portarono i Mille a Marsala nel 1860, salvatore di Garibaldi in quella guerra, generale eroico nel 1866 e nel 1870, aveva lasciato l' esercito per recarsi in Oriente ad aprire nuovi commerci all' Italia nuova.", "entities": [{"entity_text": "Nino Bixio", "type": "PER"}, {"entity_text": "Marsala", "type": "LOC"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "esercito", "type": "ORG"}, {"entity_text": "Oriente", "type": "LOC"}, {"entity_text": "Italia", "type": "LOC"}]}
+{"text": "La morte lo colse colà nel 1873.", "entities": []}
+{"text": "E nel 1874 morì Giuseppe Sirtori, altro eroe, che fu capo di Stato maggiore di Garibaldi nel 1860 e che dal", "entities": [{"entity_text": "Giuseppe Sirtori", "type": "PER"}, {"entity_text": "Stato", "type": "ORG"}, {"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "48 combatteva per l' Italia.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "– Nel 1878 il più grave dei lutti colpiva l' Italia:", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "la morte di Vittorio Emanuele II, primo re d' Italia.", "entities": [{"entity_text": "Vittorio Emanuele II", "type": "PER"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Salito al trono nel 1849 per l' abdicazione di C. Alberto dopo la sconfitta di Novara, s' era dato a riordinare le finanze e l' esercito.", "entities": [{"entity_text": "C. Alberto", "type": "PER"}, {"entity_text": "Novara", "type": "LOC"}, {"entity_text": "esercito", "type": "ORG"}]}
+{"text": "Alleatosi nel 1855 con la Francia e l' Inghilterra, mandava 15.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Inghilterra", "type": "ORG"}]}
+{"text": "0 soldati in Crimea.", "entities": [{"entity_text": "Crimea", "type": "LOC"}]}
+{"text": "Alleatosi nel 1859 con la Francia, riprendeva la guerra per l' Indipendenza italiana, che gli valse la conquista della Lombardia e l' annessione delle province della Toscana e dell' Emilia.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Lombardia", "type": "LOC"}, {"entity_text": "Toscana", "type": "LOC"}, {"entity_text": "Emilia", "type": "LOC"}]}
+{"text": "Nel 1860, dopo la spedizione dei Mille, occupava lo Stato della Chiesa, eccettuata Roma.", "entities": [{"entity_text": "Chiesa", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Nel 1861 prendeva il titolo di Re d' Italia.", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Nel 1865 trasferiva la capitale da Torino a Firenze.", "entities": [{"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Firenze", "type": "LOC"}]}
+{"text": "Alleatosi con la Prussia, riprendeva la guerra contro l' Austria nel 1866 e, sebbene l' esercito e la flotta subissero parecchi rovesci, aveva il Veneto.", "entities": [{"entity_text": "Prussia", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}, {"entity_text": "esercito", "type": "ORG"}, {"entity_text": "Veneto", "type": "LOC"}]}
+{"text": "Nel 1870 occupava Roma.", "entities": [{"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Valorosissimo, leale, democratico, ebbe il titolo di Re Galantuomo.", "entities": []}
+{"text": "– Un lutto non meno grave affliggeva l' Italia nel 1882:", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "moriva a Caprera Giuseppe Garibaldi, l' Eroe gloriosissimo della nostra indipendenza.", "entities": [{"entity_text": "Caprera", "type": "LOC"}, {"entity_text": "Giuseppe Garibaldi", "type": "PER"}]}
+{"text": "Giovanissimo, affiliato alla Giovine Italia, s' accorda con Mazzini per una spedizione rivoluzionaria in Piemonte;", "entities": [{"entity_text": "Giovine Italia", "type": "ORG"}, {"entity_text": "Mazzini", "type": "PER"}, {"entity_text": "Piemonte", "type": "LOC"}]}
+{"text": "ma la spedizione fallì ed egli esulò in America.", "entities": [{"entity_text": "America", "type": "LOC"}]}
+{"text": "Combattè colà per due anni eroicamente per la libertà della provincia di Rio Grande contro il Brasile.", "entities": [{"entity_text": "provincia di Rio Grande", "type": "LOC"}, {"entity_text": "Brasile", "type": "ORG"}]}
+{"text": "Nel 1842 si trovava nell' Uruguay a difenderne la libertà e organizzava una Legione italiana di 800 uomini e con essa compiva prodigi.", "entities": [{"entity_text": "Uruguay", "type": "LOC"}]}
+{"text": "Nel 1848, avuta notizia dei moti italiani, partì per l' Italia, offerse la sua spada inutilmente a Carlo Alberto, poi si recò a Milano, che gli affidò il comando d' un battaglione.", "entities": [{"entity_text": "Italia", "type": "LOC"}, {"entity_text": "Carlo Alberto", "type": "PER"}, {"entity_text": "Milano", "type": "LOC"}]}
+{"text": "Circondato a Luino da 7000 austriaci li vinceva.", "entities": [{"entity_text": "Luino", "type": "LOC"}]}
+{"text": "Li batteva ancora a Morazzone e si rifugiava in Isvizzera.", "entities": [{"entity_text": "Morazzone", "type": "LOC"}, {"entity_text": "Isvizzera", "type": "LOC"}]}
+{"text": "Passava poi a Roma, da cui il Papa era fuggito e dove s' era proclamata la Repubblica Romana, e la difendeva dai Francesi accorsi a ristabilirvi il Pontefice.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Repubblica Romana", "type": "ORG"}]}
+{"text": "Li vinceva a S. Pancrazio, e vinceva anche i Borboni a Palestrina e a Velletri;", "entities": [{"entity_text": "S. Pancrazio", "type": "LOC"}, {"entity_text": "Palestrina", "type": "LOC"}, {"entity_text": "Velletri", "type": "LOC"}]}
+{"text": "teneva testa di nuovo ai Francesi al Vascello, a Villa Corsini, a Villa Spada.", "entities": [{"entity_text": "Vascello", "type": "LOC"}, {"entity_text": "Villa Corsini", "type": "LOC"}, {"entity_text": "Villa Spada", "type": "LOC"}]}
+{"text": "Costretta Roma a capitolare, Garibaldi usciva e si ritirava con 3000 uomini verso Ravenna, sfuggendo a quattro eserciti, che credevano di averlo accerchiato.", "entities": [{"entity_text": "Roma", "type": "ORG"}, {"entity_text": "Ravenna", "type": "LOC"}]}
+{"text": "Riparato a Genova, si imbarcava, e, dopo essere stato a Tunisi, in Cina, al Perù, si recava a Nuova York.", "entities": [{"entity_text": "Genova", "type": "LOC"}, {"entity_text": "Tunisi", "type": "LOC"}, {"entity_text": "Cina", "type": "LOC"}, {"entity_text": "Perù", "type": "LOC"}, {"entity_text": "Nuova York", "type": "LOC"}]}
+{"text": "Nel 1854 tornava dall' America e attendeva a Caprera che i fati d' Italia maturassero.", "entities": [{"entity_text": "America", "type": "LOC"}, {"entity_text": "Caprera", "type": "LOC"}, {"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Nel 1859, ricevuto da Cavour il comando dei Cacciatori delle Alpi, cooperò con essi alla guerra contro l' Austria.", "entities": [{"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Cacciatori delle Alpi", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "Sbaragliò gli Austriaci a San Fermo e a Varese.", "entities": [{"entity_text": "San Fermo", "type": "LOC"}, {"entity_text": "Varese", "type": "LOC"}]}
+{"text": "Tornato dopo l' armistizio a Caprera, eccolo l' anno seguente( 1860) a capo della spedizione dei Mille.", "entities": [{"entity_text": "Caprera", "type": "LOC"}]}
+{"text": "Calatafimi, Palermo, Milazzo, Capua, Volturno sono le più gloriose fra le battaglie ch' egli vinse, segnando la fine del regno dei Borboni e la liberazione delle due Sicilie, ch' egli consegnò a Vittorio Emanuele.", "entities": [{"entity_text": "Calatafimi", "type": "LOC"}, {"entity_text": "Palermo", "type": "LOC"}, {"entity_text": "Milazzo", "type": "LOC"}, {"entity_text": "Capua", "type": "LOC"}, {"entity_text": "Volturno", "type": "LOC"}, {"entity_text": "Sicilie", "type": "LOC"}, {"entity_text": "Vittorio Emanuele", "type": "PER"}]}
+{"text": "Tornò, dopo questi prodigi, modestamente a Caprera;", "entities": [{"entity_text": "Caprera", "type": "LOC"}]}
+{"text": "ma nel 1862 tentò una spedizione su Roma, che, per ragioni politiche, il governo italiano dovette arrestare.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "governo italiano", "type": "ORG"}]}
+{"text": "Nel 1866 ha ancora il comando dei volontari e sconfigge gli Austriaci nel Tirolo:", "entities": [{"entity_text": "Tirolo", "type": "LOC"}]}
+{"text": "a Caffaro, Storo, Monte Suello, Ampola, Bezzecca, Condino.", "entities": [{"entity_text": "Caffaro", "type": "LOC"}, {"entity_text": "Storo", "type": "LOC"}, {"entity_text": "Monte Suello", "type": "LOC"}, {"entity_text": "Ampola", "type": "LOC"}, {"entity_text": "Bezzecca", "type": "LOC"}, {"entity_text": "Condino", "type": "LOC"}]}
+{"text": "Tornato dopo la guerra a Caprera, tenta un' altra spedizione su Roma e riesce a vincere i papalini, a Monte Rotondo;", "entities": [{"entity_text": "Caprera", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Monte Rotondo", "type": "LOC"}]}
+{"text": "ma a Mentana è sconfitto dai Francesi, che difendevano il Pontefice.", "entities": [{"entity_text": "Mentana", "type": "LOC"}]}
+{"text": "Tuttavia nel 1870, quando la Francia era in grande pericolo, ecco che Garibaldi, tutto dimenticando, corre in sua difesa, ed è l' unico condottiero che riporti parecchie vittorie contro i Prussiani.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "Nessuna gloria italiana è più pura e più grande di Garibaldi.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "Egli ebbe il nome di Eroe dei due Mondi e di Cavaliere dell' Umanità.", "entities": []}
+{"text": "– Nel 1883 morivano Alberto Mario e Giacomo Medici:", "entities": [{"entity_text": "Alberto Mario", "type": "PER"}, {"entity_text": "Giacomo Medici", "type": "PER"}]}
+{"text": "il primo patriota e scrittore, che nel 1848, nel 1849, nel 1860, nel 1866 aveva seguito Garibaldi e nel 1870 s' era recato con lui a combattere per la Francia;", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Francia", "type": "ORG"}]}
+{"text": "il secondo soldato valorosissimo, di tutte le campagne del Risorgimento, amico di Garibaldi e amico e aiutante di campo di Vittorio Emanuele II.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Vittorio Emanuele II", "type": "PER"}]}
+{"text": "Le più belle figure di patrioti e di eroi dovevano pur troppo, come dobbiam tutti, pagare il loro tributo alla morte.", "entities": []}
+{"text": "– Nel 1885 moriva Nicola Fabrizi, che dal 1831 in poi aveva dato molte prove di amor patrio e di valore:", "entities": [{"entity_text": "Nicola Fabrizi", "type": "PER"}]}
+{"text": "difensore di Palermo nel 1848, di Venezia nel 1849;", "entities": [{"entity_text": "Palermo", "type": "LOC"}, {"entity_text": "Venezia", "type": "LOC"}]}
+{"text": "ministro della Guerra durante la Dittatura di Garibaldi nel 1860, suo capo di Stato Maggiore nel 1866.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "– Nel 1890 moriva Aurelio Saffi amico, confidente, discepolo di Giuseppe Mazzini, che con lui era stato triunviro della Repubblica romana nel 1849 e lo aveva seguito in esilio.", "entities": [{"entity_text": "Aurelio Saffi", "type": "PER"}, {"entity_text": "Giuseppe Mazzini", "type": "PER"}, {"entity_text": "Repubblica romana", "type": "ORG"}]}
+{"text": "Nel 1892 moriva Enrico Cialdini che aveva cospirato giovanissimo per la Patria e combattuto fra i volontari prima, nell' esercito regolare poi.", "entities": [{"entity_text": "Enrico Cialdini", "type": "PER"}, {"entity_text": "esercito", "type": "ORG"}]}
+{"text": "Nel 1860 aveva sconfitto le milizie del papa a Castelfidardo, s' era impadronito delle Marche e dell' Umbria, aveva battuto i borbonici a Sessa e ad Isernia, bombardata e presa Capua, e nel 1861 espugnato Gaeta e la Cittadella di Messina.", "entities": [{"entity_text": "Castelfidardo", "type": "LOC"}, {"entity_text": "Marche", "type": "LOC"}, {"entity_text": "Umbria", "type": "LOC"}, {"entity_text": "Sessa", "type": "LOC"}, {"entity_text": "Isernia", "type": "LOC"}, {"entity_text": "Capua", "type": "LOC"}, {"entity_text": "Gaeta", "type": "LOC"}, {"entity_text": "Messina", "type": "LOC"}]}
+{"text": "Nel 1866 fece la campagna contro l' Austria ed ebbe il dolore di vedersi rimproverati errori che altri e non lui aveva commessi.", "entities": [{"entity_text": "Austria", "type": "ORG"}]}
+{"text": "– Una schiera d' eroi militari lasciarono la vita in Africa nel 1895-1896 nella sfortunata guerra italo-abissina.", "entities": [{"entity_text": "Africa", "type": "LOC"}]}
+{"text": "Fra essi i maggiori Toselli e Galliano e i generali Da Bormida e Arimondi.", "entities": [{"entity_text": "Toselli", "type": "PER"}, {"entity_text": "Galliano", "type": "PER"}, {"entity_text": "Da Bormida", "type": "PER"}, {"entity_text": "Arimondi", "type": "PER"}]}
+{"text": "Nel 1899 moriva Alberto Cavalletto patriota ardentissimo e virtuosissimo, che in giovinezza era stato condannato alla forca dall' Austria.", "entities": [{"entity_text": "Alberto Cavalletto", "type": "PER"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "Nel 1858-59 fu in Piemonte organizzatore dei Comitati per la preparazione della guerra.", "entities": [{"entity_text": "Piemonte", "type": "LOC"}]}
+{"text": "Gli anni dal 1862 al 1865 non furono gloriosi per la Patria nostra.", "entities": []}
+{"text": "Dopo Aspromonte, da una parte c' era il fermento del popolo che poteva produrre da un momento all' altro dolorosi avvenimenti;", "entities": [{"entity_text": "Aspromonte", "type": "LOC"}]}
+{"text": "dall' altra la guerra acerba che il clero faceva al nuovo Regno, e il brigantaggio che aumentava;", "entities": []}
+{"text": "sicché il Governo, che aveva l' esercito impegnato nella lotta contro i briganti, le finanze stremate dalle passività antiche e dalle nuove spese, le potenze europee in gran parte diffidenti, non era certo in un letto di rose.", "entities": [{"entity_text": "Governo", "type": "ORG"}]}
+{"text": "Esso però non aveva perduto la speranza di soddisfare le aspirazioni degli Italiani su Roma senza ricorrere alle armi, e perciò aveva più volte trattato con la Francia perché ritirasse i suoi soldati dalla città eterna.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Francia", "type": "ORG"}]}
+{"text": "Napoleone III, che dapprima aveva rifiutato, dichiarò finalmente nel 1864, che avrebbe accondisceso soltanto a questi patti:", "entities": [{"entity_text": "Napoleone III", "type": "PER"}]}
+{"text": "che l' Italia non occupasse Roma e ne impedisse anche con la forza l' occupazione da qualunque parte venisse tentata, e che la capitale del Regno fosse trasferita da Torino in altra città.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Torino", "type": "LOC"}]}
+{"text": "Il governo italiano ebbe il torto di accettare questi patti( che per fortuna, in causa di avvenimenti di cui vi parlerò in seguito, non ebbero le tristi conseguenze che altrimenti avrebbero avuto), e decise di trasportare la capitale a Firenze.", "entities": [{"entity_text": "governo italiano", "type": "ORG"}, {"entity_text": "Firenze", "type": "LOC"}]}
+{"text": "Ma ciò non accadde senza gravi tumulti, che si verificarono a Torino, dove la folla, il 21 e il 22 settembre 1864, percorse le vie al grido « Vogliamo la capitale a Roma! »", "entities": [{"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Questi tumulti furono soffocati con la forza, sicché si dovettero contare ben 200 cittadini fra morti e feriti.", "entities": []}
+{"text": "La capitale venne, com' era stato stabilito, trasferita a Firenze nel maggio 1865.", "entities": [{"entity_text": "Firenze", "type": "LOC"}]}
+{"text": "Lo Stato Italiano aveva allora un passivo di 200.000.000 di lire in confronto delle entrate, e debiti per oltre 600 milioni di lire, relativi agli anni precedenti.", "entities": [{"entity_text": "Stato Italiano", "type": "ORG"}]}
+{"text": "Ma l' amor patrio seppe sostenere gravi sacrifizi di imposte e di prestiti perché il nuovo Regno potesse dimostrare all' Europa che sapeva bastare ai propri impegni.", "entities": [{"entity_text": "Europa", "type": "LOC"}]}
+{"text": "Il regno di Vittorio Emanuele III, l' attuale Re, iniziatosi il 29 luglio 1900, parve segnare il principio del rifiorire dell' Italia.", "entities": [{"entity_text": "Vittorio Emanuele III", "type": "PER"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Con savi provvedimenti di legge e con una politica prudente, si provvide a restaurare le finanze, a dare agli operai garanzie maggiori sia per il lavoro, sia per la pensione di vecchiaia, a condurre a fine importanti lavori pubblici, a riscattare dalle società private le Ferrovie dello Stato e ad aumentarne le linee e il traffico, a migliorare le condizioni delle scuole e a rendere l' istruzione più diffusa ed efficace.", "entities": [{"entity_text": "Stato", "type": "ORG"}]}
+{"text": "Si svolse tutta un' opera grande di pace, di lavoro, di saviezza, e, pur rimanendo fedeli alla Triplice Alleanza, si strinsero amichevoli relazioni con l' altre potenze, in ispecie con la Francia e con l' Inghilterra.", "entities": [{"entity_text": "Triplice Alleanza", "type": "ORG"}, {"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Inghilterra", "type": "ORG"}]}
+{"text": "Il frutto di tale savia politica è questo:", "entities": []}
+{"text": "che ora le finanze dello Stato, i commerci, le industrie, sono in ottime condizioni e che, di riflesso, le condizioni di quasi tutti i cittadini sono migliorate di molto.", "entities": [{"entity_text": "Stato", "type": "ORG"}]}
+{"text": "Può dirsi che, passato il periodo delle guerre e quello del disagio economico e delle aspre gare dei partiti, l' Italia abbia iniziato quello del suo splendore economico e civile.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Essa continuerà certamente in questa floridezza, se voi, che siete le sue più care speranze, saprete essere, come i vostri padri, cittadini attivi, leali, onesti, laboriosi.", "entities": []}
+{"text": "Queste pagine non hanno la pretesa, o figlioli, di avervi narrato la storia dei cinquant' anni ora decorsi:", "entities": []}
+{"text": "non basterebbe un grosso volume per narrarvela tutta.", "entities": []}
+{"text": "Io ho voluto soltanto ricordarvi gli avvenimenti, i fatti, gli uomini più notevoli e le più notevoli cose compiute in mezzo secolo di Regno, affinchè voi vi rammentiate che siete cittadini d' una patria grande e che, se a renderla tale hanno molto cooperato i padri e i nonni vostri, a conservarla illustre e potente dovete cooperare voi.", "entities": []}
+{"text": "Voi avete il dovere di diventare cittadini laboriosi, colti ed onesti perchè essa possa continuare il cammino di gloria e di prosperità così bene iniziato.", "entities": []}
+{"text": "Tanto più essa varrà, quanto più voi sarete degni di lei e dei suoi figli più illustri.", "entities": []}
+{"text": "Non occorre ambire a diventare uomini grandi per onorare l' Italia:", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "i grandi uomini non sono la maggioranza;", "entities": []}
+{"text": "ma occorre divenire, con lo studio e col lavoro, degni cittadini di questa nostra magnifica Patria, per conservare e completare l' opera dei grandi che la resero libera e illustre.", "entities": []}
+{"text": "Occorre sopratutto amarla:", "entities": []}
+{"text": "amarla nelle sue memorie, nelle sue bellezze naturali, nelle sue bellezze artistiche, e sentire l' orgoglio d' esserne figli.", "entities": []}
+{"text": "Poche nazioni infatti vi sono nel mondo che uguaglino l' Italia nostra nelle bellezze naturali, nelle gemme artistiche, nelle glorie patriottiche;", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "nessuna che la superi.", "entities": []}
+{"text": "Cinquant' anni fa la Patria era appena uscita da una guerra gloriosa e il Parlamento Italiano proclamava a Torino il Regno d' Italia.", "entities": [{"entity_text": "Parlamento Italiano", "type": "ORG"}, {"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Regno d' Italia", "type": "ORG"}]}
+{"text": "Ma il Regno d' Italia era allora ben diverso, per estensione di territorio e per condizioni economiche, da quello che è attualmente.", "entities": [{"entity_text": "Regno d' Italia", "type": "ORG"}]}
+{"text": "Il Veneto era ancora sotto il dominio dell' Austria, Roma sotto quello del Papa;", "entities": [{"entity_text": "Veneto", "type": "LOC"}, {"entity_text": "Austria", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "il resto della nazione, sebbene libero ed unito, difettava di strade, di porti, di ferrovie, di scuole, di tutto ciò che concorre a incrementare i commerci, a diffondere la civiltà, ad assicurare la prosperità d' un popolo.", "entities": []}
+{"text": "Per di più le dominazioni straniere, – che avevano spadroneggiato negli staterelli in cui l' Italia era stata fino a poco prima divisa, – e le guerre sostenute, avevano dato in retaggio al nuovo Regno un grave peso di debiti e di disagi.", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Questo libretto si propone di ricordarvi gli avvenimenti storici di questi cinquant' anni di Regno, gli uomini che più onorarono la Patria nel detto periodo e i progressi veramente notevoli e meravigliosi da essa compiuti.", "entities": []}
+{"text": "Si preparavano intanto in Europa gravi avvenimenti:", "entities": [{"entity_text": "Europa", "type": "LOC"}]}
+{"text": "In Ispagna scoppiava una rivoluzione;", "entities": [{"entity_text": "Ispagna", "type": "LOC"}]}
+{"text": "la Regina Isabella, che reggeva quella nazione, era costretta a fuggire;", "entities": [{"entity_text": "Isabella", "type": "PER"}]}
+{"text": "i vari partiti venivano a lotta fra loro e quello vincitore – il costituzionale monarchico, – si poneva alla ricerca d' un re.", "entities": []}
+{"text": "In Francia le cose cominciavano a volgere a male per Napoleone III:", "entities": [{"entity_text": "Francia", "type": "LOC"}, {"entity_text": "Napoleone III", "type": "PER"}]}
+{"text": "il partito repubblicano s' era fatto forte, e l' Imperatore prevedeva che non sarebbe passato molto tempo che i repubblicani sarebbero divenuti una maggioranza nel paese.", "entities": []}
+{"text": "Bisognava perciò – egli pensava – consolidare il trono con nuove glorie militari.", "entities": []}
+{"text": "L' occasione buona parve essersi presentata quando si seppe che gli Spagnoli avevano offerto il trono di Spagna a un principe prussiano.", "entities": [{"entity_text": "Spagna", "type": "LOC"}]}
+{"text": "Napoleone fece tosto sapere che quella nomina non gli sarebbe stata gradita e chiese al re Guglielmo di Prussia che non permettesse a nessuno della sua famiglia di accettare quella corona.", "entities": [{"entity_text": "Napoleone", "type": "PER"}, {"entity_text": "Guglielmo", "type": "PER"}, {"entity_text": "Prussia", "type": "LOC"}]}
+{"text": "Era allora ministro degli Esteri in Prussia Ottone Bismarck, grand' uomo di Stato, il quale, sapendo la Francia non troppo forte militarmente, e confidando di poterla vincere in guerra per poter poi fondare, come avvenne, l' Impero Germanico, si destreggiò in modo da costringere la Francia a dichiarare la guerra.", "entities": [{"entity_text": "Prussia", "type": "LOC"}, {"entity_text": "Ottone Bismarck", "type": "PER"}, {"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Impero Germanico", "type": "ORG"}, {"entity_text": "Francia", "type": "ORG"}]}
+{"text": "La guerra, che si svolse dall' agosto del 1870 al gennaio 1871, fu disastrosa per la Francia, che perdette 200000 soldati fra morti e feriti e ne ebbe quasi altrettanti prigionieri, vide invaso dai nemici più di metà del suo territorio, fu gravemente sconfitta a Sedan( 31 0000-1 ° settembre 1870) fu costretta a chiedere pace, a cedere alla Germania due province e a pagarle in tre anni cinque miliardi di lire( cinque mila milioni).", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Sedan", "type": "LOC"}, {"entity_text": "Germania", "type": "ORG"}]}
+{"text": "Napoleone III s' era arreso prigioniero dei nemici a Sedan.", "entities": [{"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Sedan", "type": "LOC"}]}
+{"text": "La sua potenza e la sua dinastia erano così rapidamente tramontate.", "entities": []}
+{"text": "Non potendo, per i patti intervenuti con la Francia, impadronirsi di Roma, il Governo italiano pensò al modo di liberare il Veneto.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Governo italiano", "type": "ORG"}, {"entity_text": "Veneto", "type": "LOC"}]}
+{"text": "L' Austria aveva allora un nemico:", "entities": [{"entity_text": "Austria", "type": "ORG"}]}
+{"text": "la Prussia, che mirava ad ottenere la supremazia su tutti gli Stati tedeschi.", "entities": [{"entity_text": "Prussia", "type": "ORG"}]}
+{"text": "La Prussia strinse dapprima un trattato di commercio col Regno d' Italia, poi un trattato segreto di alleanza militare per movere guerra all' Austria da due parti.", "entities": [{"entity_text": "Prussia", "type": "ORG"}, {"entity_text": "Regno d' Italia", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "L' Austria, che lo seppe, fece proporre, col mezzo di Napoleone III, a Vittorio Emanuele, di cedergli, mediante un compenso, il Veneto, purché egli si mantenesse neutrale nella guerra che stava per iscoppiare fra essa e la Prussia.", "entities": [{"entity_text": "Austria", "type": "ORG"}, {"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Veneto", "type": "LOC"}, {"entity_text": "Prussia", "type": "ORG"}]}
+{"text": "Ma Vittorio Emanuele non volle mancare alla parola data ai Prussiani e respinse l' offerta.", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}]}
+{"text": "La guerra fra Prussia e Austria scoppiò nel 1866 e l' Italia, secondo i patti, dichiarò anch' essa la guerra a quest' ultima.", "entities": [{"entity_text": "Prussia", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Benché l' Italia non fosse molto ben preparata, tuttavia l' idea di tornare in campo contro l' Austria fu accolta con entusiasmo da tutta la Nazione, e i cittadini accorsero a inscriversi numerosi sia nell' esercito regolare sia in quello dei volontari.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "Garibaldi, dimenticando ogni dissenso, si mise a capo di questi.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "Ma la guerra non fu molto fortunata.", "entities": []}
+{"text": "Noi avevamo 260 soldati dell' esercito regolare e circa 35 volontari;", "entities": []}
+{"text": "tuttavia le difficoltà erano grandi, sia perché bisognava superare la barriera del Quadrilatero( le fortezze austriache di Verona, Legnago, Mantova e Peschiera) sia perché, sebbene avessimo fatto un prestito di 300.000.000 di lire, le nostre finanze non erano in buone condizioni.", "entities": [{"entity_text": "Verona", "type": "LOC"}, {"entity_text": "Legnago", "type": "LOC"}, {"entity_text": "Mantova", "type": "LOC"}, {"entity_text": "Peschiera", "type": "LOC"}]}
+{"text": "Inoltre non tutti i comandanti dell' esercito erano all' altezza del loro compito.", "entities": []}
+{"text": "A Custoza( 24 giugno 1866) noi fummo sconfitti e costretti a ritirarci su Piacenza e su Modena, e a Lissa, in battaglia navale, ebbimo la peggio( 20 luglio);", "entities": [{"entity_text": "Custoza", "type": "LOC"}, {"entity_text": "Piacenza", "type": "LOC"}, {"entity_text": "Modena", "type": "LOC"}, {"entity_text": "Lissa", "type": "LOC"}]}
+{"text": "mentre invece l' esercito dei volontari, comandato da Garibaldi, riportava considerevoli vittorie nel Trentino, dove s' era inoltrato per divergere le forze austriache, e una parte dell' esercito regolare, comandata dal generale Cialdini, aveva notevoli successi occupando Rovigo, Padova e giungendo a due ore da Gradisca, e un' altra parte, comandata dal Medici, correndo in aiuto di Garibaldi, vinceva ripetutamente gli Austriaci e si avviava su Trento.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Trentino", "type": "LOC"}, {"entity_text": "Cialdini", "type": "PER"}, {"entity_text": "Rovigo", "type": "LOC"}, {"entity_text": "Padova", "type": "LOC"}, {"entity_text": "Gradisca", "type": "LOC"}, {"entity_text": "Medici", "type": "PER"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Trento", "type": "LOC"}]}
+{"text": "Per i Prussiani invece la guerra era stata fortunatissima, sicché l' Austria fu costretta a stringer pace con essi e da quella pace ebbe vita la Confederazione degli Stati Germanici.", "entities": [{"entity_text": "Austria", "type": "ORG"}, {"entity_text": "Confederazione degli Stati Germanici", "type": "ORG"}]}
+{"text": "Anche con noi essa strinse la pace, ma a condizioni non troppo onorevoli:", "entities": []}
+{"text": "noi ricevemmo infatti il Veneto dalla Francia, a cui l' Austria lo aveva ceduto per non subire l' umiliazione di consegnarlo direttamente a noi;", "entities": [{"entity_text": "Veneto", "type": "LOC"}, {"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "e ci impegnammo di pagare alla nostra nemica 35.000.000 di fiorini( quasi novanta milioni di lire) e la parte del debito pubblico austriaco relativa al Veneto.", "entities": [{"entity_text": "Veneto", "type": "LOC"}]}
+{"text": "Con quel trattato di pace, l' Austria riconobbe anche il Regno d' Italia.", "entities": [{"entity_text": "Austria", "type": "ORG"}, {"entity_text": "Regno d' Italia", "type": "ORG"}]}
+{"text": "Dopo la guerra, il Governo italiano si diè tosto ad assestare le finanze, che le spese militari e la convenzione con l' Austria avevano scosse.", "entities": [{"entity_text": "Governo italiano", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "La Camera già nel 1866 aveva soppresso le numerose congregazioni religiose che si erano formate e moltiplicate abusivamente, e aveva incamerato i loro beni per distribuirli, con modico affitto, o venderli a mite prezzo, ai cittadini.", "entities": [{"entity_text": "Camera", "type": "ORG"}]}
+{"text": "Dal 1871 ad oggi la storia nostra non fu più quella delle gloriose battaglie per la liberazione del nostro suolo dallo straniero e per la nostra unità nazionale e politica, ma fu la storia della consolidazione, dello sviluppo economico, del progresso civile d' una nazione giovane, che, sorta quasi per miracolo ad unità, doveva affratellare le genti delle sue diverse regioni, tenute fin lì quasi straniere le une alle altre, consolidare le finanze del nuovo Stato, assicurarsi il rispetto delle altre nazioni, antiche per potenza e per ordinamenti civili.", "entities": [{"entity_text": "Stato", "type": "ORG"}]}
+{"text": "Non poteva quindi avere vicende e glorie militari, e, tranne pochissime in Africa, essa infatti non ne ebbe.", "entities": [{"entity_text": "Africa", "type": "LOC"}]}
+{"text": "Otto anni dopo l' acquisto di Roma, moriva Vittorio Emanuele II( 9 gennaio 1878).", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Vittorio Emanuele II", "type": "PER"}]}
+{"text": "Quegli otto anni erano stati spesi dal Governo italiano, sotto l' impulso del gran Re, nel dotare la patria di opere pubbliche( strade, ferrovie, ponti, lavori portuari, ecc.), nel riordinare l' esercito, nell' organizzare l' istruzione obbligatoria del popolo, nel consolidare le finanze dello Stato.", "entities": [{"entity_text": "Governo italiano", "type": "ORG"}, {"entity_text": "esercito", "type": "ORG"}, {"entity_text": "Stato", "type": "ORG"}]}
+{"text": "Il pareggio fra le entrate e le uscite fu infatti raggiunto nel 1875, per opera del ministero Minghetti.", "entities": [{"entity_text": "ministero", "type": "ORG"}, {"entity_text": "Minghetti", "type": "PER"}]}
+{"text": "Per opera dello stesso ministero vennero gettate le basi della Triplice alleanza, che fu in seguito stretta, a scopo pacifico, fra l' Italia, la Germania e l' Austria.", "entities": [{"entity_text": "Triplice alleanza", "type": "ORG"}, {"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Germania", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "La morte di Vittorio Emanuele II immerse nel lutto la Nazione, che lo amava assai per le prove di valore date sui campi di battaglia, per l' energia, la lealtà e la bontà.", "entities": [{"entity_text": "Vittorio Emanuele II", "type": "PER"}]}
+{"text": "Egli fu sepolto nel Pantheon.", "entities": [{"entity_text": "Pantheon", "type": "LOC"}]}
+{"text": "Pochi giorni dopo la morte di Vittorio Emanuele II, il 7 febbraio 1878, moriva nel Vaticano il papa Pio IX.", "entities": [{"entity_text": "Vittorio Emanuele II", "type": "PER"}, {"entity_text": "Vaticano", "type": "LOC"}, {"entity_text": "Pio IX", "type": "PER"}]}
+{"text": "Quest' estate sono sceso all' albergo dell' Angelo, sulla piazza del paese, dove piú nessuno mi conosceva, tanto sono grand' e grosso.", "entities": [{"entity_text": "albergo dell' Angelo", "type": "LOC"}]}
+{"text": "Neanch' io in paese conoscevo nessuno;", "entities": []}
+{"text": "ai miei tempi ci si veniva di rado, si viveva sulla strada, per le rive, nelle aie.", "entities": []}
+{"text": "Il paese è molto in su nella valle, l' acqua del Belbo passa davanti alla chiesa mezz' ora prima di allargarsi sotto le mie colline.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Ero venuto per riposarmi un quindici giorni e càpito che è la Madonna d' agosto.", "entities": []}
+{"text": "Tanto meglio, il va e vieni della gente forestiera, la confusione e il baccano della piazza, avrebbero mimetizzato anche un negro.", "entities": []}
+{"text": "Ho sentito urlare, cantare, giocare al pallone;", "entities": []}
+{"text": "col buio, fuochi e mortaretti, hanno bevuto, sghignazzato, fatto la processione, tutta la notte per tre notti sulla piazza è andato il ballo, e si sentivano le macchine, le cornette, gli schianti dei fucili pneumatici.", "entities": []}
+{"text": "Stessi rumori, stesso vino, stesse facce di una volta.", "entities": []}
+{"text": "I ragazzotti che correvano tra le gambe alla gente erano quelli i fazzolettoni, le coppie di buoi, il profumo, il sudore, le calze delle donne sulle gambe scure, erano quelli.", "entities": []}
+{"text": "E le allegrie, le tragedie, le promesse in riva a Belbo.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "C' era di nuovo che una volta, coi quattro soldi del mio primo salario in mano, m' ero buttato nella festa, al tiro a segno, sull' altalena, avevamo fatto piangere le ragazzine dalle trecce, e nessuno di noialtri sapeva ancora perché uomini e donne, giovanotti impomatati e figliole superbe, si scontravano, si prendevano, si ridevano in faccia e ballavano insieme.", "entities": []}
+{"text": "C' era di nuovo che adesso lo sapevo, e quel tempo era passato.", "entities": []}
+{"text": "Me n' ero andato dalla valle quando appena cominciavo a saperlo.", "entities": []}
+{"text": "Nuto che c' era rimasto, Nuto il falegname del Salto, il mio complice delle prime fughe a Canelli, aveva poi per dieci anni suonato il clarino su tutte le feste, su tutti i balli della vallata.", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Salto", "type": "LOC"}, {"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "Per lui il mondo era stato una festa continua di dieci anni, sapeva tutti i bevitori, i saltimbanchi, le allegrie dei paesi.", "entities": []}
+{"text": "Da un anno tutte le volte che faccio la scappata passo a trovarlo.", "entities": []}
+{"text": "La sua casa è a mezza costa sul Salto, dà sul libero stradone;", "entities": [{"entity_text": "Salto", "type": "PER"}]}
+{"text": "c' è un odore di legno fresco, di fiori e di trucioli che, nei primi tempi della Mora, a me che venivo da un casotto e da un' aia sembrava un altro mondo:", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "era l' odore della strada, dei musicanti, delle ville di Canelli dove non ero mai stato.", "entities": [{"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "Adesso Nuto è sposato, un uomo fatto, lavora e dà lavoro, la sua casa è sempre quella e sotto il sole sa di gerani e di leandri, ne ha delle pentole alle finestre e davanti.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Il clarino è appeso all' armadio;", "entities": []}
+{"text": "si cammina sui trucioli;", "entities": []}
+{"text": "li buttano a ceste nella riva sotto il Salto- una riva di gaggie, di felci e di sambuchi, sempre asciutta d' estate.", "entities": [{"entity_text": "Salto", "type": "LOC"}]}
+{"text": "Nuto mi ha detto che ha dovuto decidersi- o falegname o musicante-, e così dopo dieci anni di festa ha posato il clarino alla morte del padre.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Quando gli raccontai dov' ero stato, lui disse che ne sapeva già qualcosa da gente di Genova e che in paese ormai raccontavano che prima di partire avevo trovato una pentola d' oro sotto la pila del ponte.", "entities": [{"entity_text": "Genova", "type": "LOC"}]}
+{"text": "Scherzammo.", "entities": []}
+{"text": "- Forse adesso,- dicevo,- salterà fuori anche mio padre.", "entities": []}
+{"text": "- Tuo padre,- mi disse,- sei tu.", "entities": []}
+{"text": "- In America,- dissi,- c' è di bello che sono tutti bastardi.", "entities": [{"entity_text": "America", "type": "LOC"}]}
+{"text": "- Anche questa,- fece Nuto,- è una cosa da aggiustare.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Perché ci dev' essere chi non ha nome né casa?", "entities": []}
+{"text": "Non siamo tutti uomini?", "entities": []}
+{"text": "- Lascia le cose come sono.", "entities": []}
+{"text": "Io ce l' ho fatta, anche senza nome.", "entities": []}
+{"text": "- Tu ce l' hai fatta,- disse Nuto,- e piú nessuno osa parlartene;", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "ma quelli che non ce l' hanno fatta?", "entities": []}
+{"text": "Non sai quanti meschini ci sono ancora su queste colline.", "entities": []}
+{"text": "Quando giravo con la musica, dappertutto davanti alle cucine si trovava l' idiota, il deficiente, il venturino.", "entities": []}
+{"text": "Figli di alcolizzati e di serve ignoranti, che li riducono a vivere di torsi di cavolo e di croste.", "entities": []}
+{"text": "C' era anche chi li scherzava.", "entities": []}
+{"text": "Tu ce l' hai fatta,- disse Nuto,- perché bene o male hai trovato una casa;", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "mangiavi poco dal Padrino, ma mangiavi.", "entities": [{"entity_text": "Padrino", "type": "PER"}]}
+{"text": "Non bisogna dire, gli altri ce la facciano, bisogna aiutarli.", "entities": []}
+{"text": "A me piace parlare con Nuto;", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "adesso siamo uomini e ci conosciamo;", "entities": []}
+{"text": "ma prima, ai tempi della Mora, del lavoro in cascina, lui che ha tre anni piú di me sapeva già fischiare e suonare la chitarra, era cercato e ascoltato, ragionava coi grandi, con noi ragazzi, strizzava l' occhio alle donne.", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "Già allora gli andavo dietro e alle volte scappavo dai beni per correre con lui nella riva o dentro il Belbo, a caccia di nidi.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Lui mi diceva come fare per essere rispettato alla Mora;", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "poi la sera veniva in cortile a vegliare con noi della cascina.", "entities": []}
+{"text": "E adesso mi raccontava della sua vita di musicante.", "entities": []}
+{"text": "I paesi dov' era stato li avevamo intorno a noi, di giorno chiari e boscosi sotto il sole, di notte nidi di stelle nel cielo nero.", "entities": []}
+{"text": "Coi colleghi di banda che istruiva lui sotto una tettoia il sabato sera alla Stazione, arrivavano sulla festa leggeri e spediti;", "entities": []}
+{"text": "poi per due tre giorni non chiudevano piú la bocca né gli occhi- via il clarino il bicchiere, via il bicchiere la forchetta, poi di nuovo il clarino, la cornetta, la tromba, poi un' altra mangiata, poi un' altra bevuta e l' assolo, poi la merenda, il cenone, la veglia fino al mattino.", "entities": []}
+{"text": "C' erano feste, processioni, nozze;", "entities": []}
+{"text": "c' erano gare con le bande rivali.", "entities": []}
+{"text": "La mattina del secondo, del terzo giorno scendevano dal palchetto stralunati, era un piacere cacciare la faccia in un secchio d' acqua e magari buttarsi sull' erba di quei prati tra i carri, i birocci e lo stallatico dei cavalli e dei buoi.", "entities": []}
+{"text": "- Chi pagava?", "entities": []}
+{"text": "- dicevo.", "entities": []}
+{"text": "I comuni, le famiglie, gli ambiziosi, tutti quanti.", "entities": []}
+{"text": "E a mangiare, diceva, erano sempre gli stessi.", "entities": []}
+{"text": "Che cosa mangiavano bisognava sentire.", "entities": []}
+{"text": "Mi tornavano in mente le cene di cui si raccontava alla Mora, cene d' altri paesi e d' altri tempi.", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "Ma i piatti erano sempre gli stessi, e a sentirli mi pareva di rientrare nella cucina della Mora, di rivedere le donne grattugiare, impastare, farcire, scoperchiare e far fuoco, e mi tornava in bocca quel sapore, sentivo lo schiocco dei sarmenti rotti.", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "- Tu ci avevi la passione,- gli dicevo.", "entities": []}
+{"text": "- Perché hai smesso?", "entities": []}
+{"text": "Perché è morto tuo padre?", "entities": []}
+{"text": "E Nuto diceva che, prima cosa, suonando se ne portano a casa pochi, e poi che tutto quello spreco e non sapere mai bene chi paga, alla fine disgusta.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Poi c' è stata la guerra,- diceva.", "entities": []}
+{"text": "- Magari alle ragazze prudevano ancora le gambe, ma chi le faceva piú ballare?", "entities": []}
+{"text": "La gente si è divertita diverso, negli anni di guerra.", "entities": []}
+{"text": "- Però la musica mi piace,- continuò Nuto ripensandoci,- c' è soltanto il guaio ch' è un cattivo padrone ... Diventa un vizio, bisogna smettere.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Mio padre diceva ch' è meglio il vizio delle donne ...", "entities": []}
+{"text": "- Già,- gli dissi,- come sei stato con le donne?", "entities": []}
+{"text": "Una volta ti piacevano.", "entities": []}
+{"text": "Sul ballo ci passano tutte.", "entities": []}
+{"text": "Nuto ha un modo di ridere fischiettando, anche se fa sul serio.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Non hai fornito l' ospedale di Alessandria?", "entities": [{"entity_text": "Alessandria", "type": "LOC"}]}
+{"text": "- Spero di no,- disse lui.", "entities": []}
+{"text": "- Per uno come te, quanti meschini.", "entities": []}
+{"text": "Poi mi disse che, delle due, preferiva la musica.", "entities": []}
+{"text": "Mettersi in gruppo- a volte succedeva- le notti che rientravano tardi, e suonare, suonare, lui, la cornetta, e il mandolino, andando per lo stradone nel buio, lontano dalle case, lontano dalle donne e dai cani che rispondono da matti, suonare così.", "entities": []}
+{"text": "- Serenate non ne ho mai fatte,- diceva,- una ragazza, se è bella, non è la musica che cerca.", "entities": []}
+{"text": "Cerca la sua soddisfazione davanti alle amiche, cerca l' uomo.", "entities": []}
+{"text": "Non ho mai conosciuto una ragazza che capisse cos' è suonare ...", "entities": []}
+{"text": "Nuto s' accorse che ridevo e disse subito:", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Te ne conto una.", "entities": []}
+{"text": "Avevo un musicante, Arboreto, che suonava il bombardino.", "entities": [{"entity_text": "Arboreto", "type": "PER"}]}
+{"text": "Faceva tante serenate che di lui dicevamo:", "entities": []}
+{"text": "Quei due non si parlano mica, si suonano ...", "entities": []}
+{"text": "Questi discorsi li facevamo sullo stradone, o alla sua finestra bevendo un bicchiere, e sotto avevamo la piana del Belbo, le albere che segnavano quel filo d' acqua, e davanti la grossa collina di Gaminella, tutta vigne e macchie di rive.", "entities": [{"entity_text": "Belbo", "type": "LOC"}, {"entity_text": "collina di Gaminella", "type": "LOC"}]}
+{"text": "Da quanto tempo non bevevo di quel vino?", "entities": []}
+{"text": "- Te l' ho già detto,- dissi a Nuto,- che il Cola vuol vendere?", "entities": [{"entity_text": "Nuto", "type": "LOC"}, {"entity_text": "Cola", "type": "PER"}]}
+{"text": "- Soltanto la terra?", "entities": []}
+{"text": "- disse lui.", "entities": []}
+{"text": "- Stai attento che ti vende anche il letto.", "entities": []}
+{"text": "- Di sacco o di piuma?", "entities": []}
+{"text": "- dissi tra i denti.", "entities": []}
+{"text": "- Sono vecchio.", "entities": []}
+{"text": "- Tutte le piume diventano sacco,- disse Nuto.", "entities": []}
+{"text": "Poi mi fa:", "entities": []}
+{"text": "- Sei già andato a dare un' occhiata alla Mora?", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "Difatti.", "entities": []}
+{"text": "Non c' ero andato.", "entities": []}
+{"text": "Era a due passi dalla casa del Salto e non c' ero andato.", "entities": [{"entity_text": "Salto", "type": "LOC"}]}
+{"text": "Sapevo che il vecchio, le figlie, i ragazzi, i servitori, tutti erano dispersi, spariti chi morto chi lontano.", "entities": []}
+{"text": "Restava soltanto Nicoletto, quel nipote scemo che mi aveva gridato tante volte bastardo pestando i piedi e metà della roba era venduta.", "entities": [{"entity_text": "Nicoletto", "type": "PER"}]}
+{"text": "Dissi:", "entities": []}
+{"text": "- Un giorno ci andrò.", "entities": []}
+{"text": "Sono tornato.", "entities": []}
+{"text": "L' Inghilterra fu la prima fra le Potenze a riconoscere il nuovo regno, e a grado a grado lo riconobbero l' altre, all' infuori dell' Austria, che dichiarò di non ritener valide le annessioni, della Spagna, che protestò contro i territori già del Pontefice e ora facenti parte del nuovo Stato, e della Francia, che era ancora titubante.", "entities": [{"entity_text": "Inghilterra", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}, {"entity_text": "Spagna", "type": "ORG"}, {"entity_text": "Francia", "type": "ORG"}]}
+{"text": "Il principio del nuovo regno fu difficile non soltanto per le relazioni politiche con gli Stati europei, ma anche per gravi problemi e questioni interne.", "entities": []}
+{"text": "Bisognava creare leggi nuove, organizzare in tutto il territorio l' amministrazione dello Stato, dar vita civile a popolazioni ch' erano vissute fin lì nell' abbrutimento.", "entities": []}
+{"text": "Per di più era scoppiato fra Cavour e Garibaldi un acuto dissenso perché, essendosi deliberato di fondere l' esercito garibaldino con quello nazionale, se ne volevano escludere taluni ufficiali, che Garibaldi desiderava vi fossero ammessi.", "entities": [{"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "Garibaldi veramente non aveva mai potuto perdonare a Cavour la cessione di Nizza, sua patria, alla Francia, e la ragione prima del suo dissidio era da ricercarsi in quell' atto, che gli aveva fatto sanguinare il cuore.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Nizza", "type": "LOC"}, {"entity_text": "Francia", "type": "ORG"}]}
+{"text": "Il dissenso scoppiò violento in una seduta della Camera( 18 aprile 1861) nella quale i due grandi uomini vennero ad acerbo diverbio e Garibaldi accusò Cavour di averlo reso straniero in Patria e di voler provocare la guerra civile.", "entities": [{"entity_text": "Camera", "type": "ORG"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Cavour", "type": "PER"}]}
+{"text": "Nino Bixio, dopo il tumulto che ne seguì, lamentò l' accaduto e pronunziò queste parole:", "entities": [{"entity_text": "Nino Bixio", "type": "PER"}]}
+{"text": "« Io ho una famiglia che amo quanto la Patria:", "entities": []}
+{"text": "ebbene, darei volontieri la mia famiglia pur di vedere riconciliati questi due uomini cari all' Italia! »", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "A riconciliarli pensò il Re, chiamandoli entrambi alla sua presenza e mettendo la destra dell' uno in quella dell' altro.", "entities": []}
+{"text": "Di Nuto musicante avevo avuto notizie fresche addirittura in America- quanti anni fa?", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "America", "type": "LOC"}]}
+{"text": "- quando ancora non pensavo a tornare, quando avevo mollato la squadra ferrovieri e di stazione in stazione ero arrivato in California e vedendo quelle lunghe colline sotto il sole avevo detto:", "entities": [{"entity_text": "California", "type": "LOC"}]}
+{"text": "“ Sono a casa ”.", "entities": []}
+{"text": "Anche l' America finiva nel mare, e stavolta era inutile imbarcarmi ancora, così m' ero fermato tra i pini e le vigne.", "entities": [{"entity_text": "America", "type": "LOC"}]}
+{"text": "“ A vedermi la zappa in mano,- dicevo,- quelli di casa riderebbero ”.", "entities": []}
+{"text": "Ma non si zappa in California.", "entities": [{"entity_text": "California", "type": "LOC"}]}
+{"text": "Sembra di fare i giardinieri, piuttosto.", "entities": []}
+{"text": "Ci trovai dei piemontesi e mi seccai:", "entities": []}
+{"text": "non valeva la pena aver traversato tanto mondo, per vedere della gente come me, che per giunta mi guardava di traverso.", "entities": []}
+{"text": "Piantai le campagne e feci il lattaio a Oakland.", "entities": [{"entity_text": "Oakland", "type": "LOC"}]}
+{"text": "La sera, traverso il mare della baia, si vedevano i lampioni di San Francisco.", "entities": [{"entity_text": "San Francisco", "type": "LOC"}]}
+{"text": "Ci andai, feci un mese di fame e, quando uscii di prigione, ero al punto che invidiavo i cinesi.", "entities": []}
+{"text": "Adesso mi chiedevo se valeva la pena di traversare il mondo per vedere chiunque.", "entities": []}
+{"text": "Ritornai sulle colline.", "entities": []}
+{"text": "Ci vivevo da un pezzo e m' ero fatto una ragazza che non mi piaceva piú da quando lavorava con me nel locale sulla strada del Cerrito.", "entities": [{"entity_text": "Cerrito", "type": "LOC"}]}
+{"text": "A forza di venire a prendermi sull' uscio, s' era fatta assumere come cassiera, e adesso tutto il giorno mi guardava attraverso il banco, mentre friggevo il lardo e riempivo bicchieri.", "entities": []}
+{"text": "La sera uscivo fuori e lei mi raggiungeva correndo sull' asfalto coi tacchetti, mi prendeva a braccio e voleva che fermassimo una macchina per scendere al mare, per andare al cinema.", "entities": []}
+{"text": "Appena fuori della luce del locale, si era soli sotto le stelle, in un baccano di grilli e di rospi.", "entities": []}
+{"text": "Io avrei voluto portarmela in quella campagna, tra i meli, i boschetti, o anche soltanto l' erba corta dei ciglioni, rovesciarla su quella terra, dare un senso a tutto il baccano sotto le stelle.", "entities": []}
+{"text": "Non voleva saperne.", "entities": []}
+{"text": "Strillava come fanno le donne, chiedeva di entrare in un altro locale.", "entities": []}
+{"text": "Per lasciarsi toccare- avevamo una stanza in un vicolo di Oakland- voleva essere sbronza.", "entities": [{"entity_text": "Oakland", "type": "LOC"}]}
+{"text": "Fu una di quelle notti che sentii raccontare di Nuto.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Da un uomo che veniva da Bubbio.", "entities": [{"entity_text": "Bubbio", "type": "LOC"}]}
+{"text": "Lo capii dalla statura e dal passo, prima ancora che aprisse bocca.", "entities": []}
+{"text": "Portava un camion di legname e, mentre fuori gli facevano il pieno della benzina, lui mi chiese una birra.", "entities": []}
+{"text": "- Sarebbe meglio una bottiglia,- dissi in dialetto, a labbra strette.", "entities": []}
+{"text": "Gli risero gli occhi e mi guardò.", "entities": []}
+{"text": "Parlammo tutta la sera, fin che da fuori non sfiatarono il clacson.", "entities": []}
+{"text": "Nora, dalla cassa, tendeva l' orecchio, si agitava, ma Nora non era mai stata nell' Alessandrino e non capiva.", "entities": [{"entity_text": "Nora", "type": "PER"}, {"entity_text": "Nora", "type": "PER"}, {"entity_text": "Alessandrino", "type": "LOC"}]}
+{"text": "Versai perfino al mio amico una tazza di whisky proibito.", "entities": []}
+{"text": "Mi raccontò che lui a casa aveva fatto il conducente, i paesi dove aveva girato, perché era venuto in America.", "entities": [{"entity_text": "America", "type": "LOC"}]}
+{"text": "- Ma se sapevo che si beve questa roba ... Mica da dire, riscalda, ma un vino da pasto non c' è ...", "entities": []}
+{"text": "- Non c' è niente,- gli dissi,- è come la luna.", "entities": []}
+{"text": "Nora, irritata, si aggiustava i capelli.", "entities": [{"entity_text": "Nora", "type": "PER"}]}
+{"text": "Si girò sulla sedia e aprì la radio sui ballabili.", "entities": []}
+{"text": "Il mio amico strinse le spalle, si chinò e mi disse sul banco facendo cenno all' indietro con la mano:", "entities": []}
+{"text": "- A te queste donne ti piacciono?", "entities": []}
+{"text": "Passai lo straccio sul banco.", "entities": []}
+{"text": "- Colpa nostra,- dissi.", "entities": []}
+{"text": "- Questo paese è casa loro.", "entities": []}
+{"text": "Lui stette zitto ascoltando la radio.", "entities": []}
+{"text": "Io sentivo sotto la musica, uguale, la voce dei rospi.", "entities": []}
+{"text": "Nora, impettita, gli guardava la schiena con disprezzo.", "entities": [{"entity_text": "Nora", "type": "PER"}]}
+{"text": "- È come questa musichetta,- disse lui.", "entities": []}
+{"text": "- C' è confronto?", "entities": []}
+{"text": "Non sanno mica suonare ...", "entities": []}
+{"text": "E mi raccontò della gara di Nizza l' anno prima, quando erano venute le bande di tutti i paesi, da Cortemilia, da San Marzano, da Canelli, da Neive, e avevano suonato suonato, la gente non si muoveva piú, s' era dovuta rimandare la corsa dei cavalli, anche il parroco ascoltava i ballabili, bevevano soltanto per farcela, a mezzanotte suonavano ancora, e aveva vinto il Tiberio, la banda di Neive.", "entities": [{"entity_text": "Nizza", "type": "LOC"}, {"entity_text": "Cortemilia", "type": "LOC"}, {"entity_text": "San Marzano", "type": "LOC"}, {"entity_text": "Canelli", "type": "LOC"}, {"entity_text": "Neive", "type": "LOC"}, {"entity_text": "Tiberio", "type": "PER"}, {"entity_text": "Neive", "type": "LOC"}]}
+{"text": "Ma c' era stata discussione, fughe, bottiglie in testa, e secondo lui meritava il premio quel Nuto del Salto ...", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Salto", "type": "LOC"}]}
+{"text": "- Nuto?", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "ma lo conosco.", "entities": []}
+{"text": "E allora l' amico disse a me chi era Nuto e che cosa faceva.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Raccontò che quella stessa notte, per farla vedere agli ignoranti, Nuto s' era messo sullo stradone e avevano suonato senza smettere fino a Calamandrana.", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Calamandrana", "type": "LOC"}]}
+{"text": "Lui li aveva seguiti in bicicletta, sotto la luna, e suonavano così bene che dalle case le donne saltavano giú dal letto e battevano le mani e allora la banda si fermava e cominciava un altro pezzo.", "entities": []}
+{"text": "Nuto, in mezzo, portava tutti col clarino.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Nora gridò che facessi smettere il clacson.", "entities": [{"entity_text": "Nora", "type": "PER"}]}
+{"text": "Versai un' altra tazza al mio amico e gli chiesi quando tornava a Bubbio.", "entities": [{"entity_text": "Bubbio", "type": "LOC"}]}
+{"text": "- Anche domani,- disse lui,- se potessi.", "entities": []}
+{"text": "Quella notte, prima di scendere a Oakland, andai a fumare una sigaretta sull' erba, lontano dalla strada dove passavano le macchine, sul ciglione vuoto.", "entities": [{"entity_text": "Oakland", "type": "LOC"}]}
+{"text": "Non c' era luna ma un mare di stelle, tante quante le voci dei rospi e dei grilli.", "entities": []}
+{"text": "Quella notte, se anche Nora si fosse lasciata rovesciare sull' erba non mi sarebbe bastato.", "entities": [{"entity_text": "Nora", "type": "PER"}]}
+{"text": "I rospi non avrebbero smesso di urlare, né le automobili di buttarsi per la discesa accelerando, né l' America di finire con quella strada, con quelle città illuminate sotto la costa.", "entities": [{"entity_text": "America", "type": "LOC"}]}
+{"text": "Capii nel buio, in quell' odore di giardino e di pini, che quelle stelle non erano le mie, che come Nora e gli avventori mi facevano paura.", "entities": [{"entity_text": "Nora", "type": "PER"}]}
+{"text": "Le uova al lardo, le buone paghe, le arance grosse come angurie, non erano niente, somigliavano a quei grilli e a quei rospi.", "entities": []}
+{"text": "Valeva la pena esser venuto?", "entities": []}
+{"text": "Dove potevo ancora andare?", "entities": []}
+{"text": "Buttarmi dal molo?", "entities": []}
+{"text": "Adesso sapevo perché ogni tanto sulle strade si trovava una ragazza strangolata in un' automobile, o dentro una stanza o in fondo a un vicolo.", "entities": []}
+{"text": "Che anche loro, questa gente, avesse voglia di buttarsi sull' erba, di andare d' accordo coi rospi, di esser padrona di un pezzo di terra quant' è lunga una donna, e dormirci davvero, senza paura?", "entities": []}
+{"text": "Eppure il paese era grande, ce n' era per tutti.", "entities": []}
+{"text": "C' erano donne, c' era terra, c' era denari.", "entities": []}
+{"text": "Ma nessuno ne aveva abbastanza, nessuno per quanto ne avesse si fermava, e le campagne, anche le vigne, sembravano giardini pubblici, aiuole finte come quelle delle stazioni, oppure incolti, terre bruciate, montagne di ferraccio.", "entities": []}
+{"text": "Non era un paese che uno potesse rassegnarsi, posare la testa e dire agli altri:", "entities": []}
+{"text": "“ Per male che vada mi conoscete.", "entities": []}
+{"text": "Per male che vada lasciatemi vivere ”.", "entities": []}
+{"text": "Era questo che faceva paura.", "entities": []}
+{"text": "Neanche tra loro non si conoscevano;", "entities": []}
+{"text": "traversando quelle montagne si capiva a ogni svolta che nessuno lì si era mai fermato, nessuno le aveva toccate con le mani.", "entities": []}
+{"text": "Per questo un ubriaco lo caricavano di botte, lo mettevano dentro, lo lasciavano per morto.", "entities": []}
+{"text": "E avevano non soltanto la sbornia ma anche la donna cattiva.", "entities": []}
+{"text": "Veniva il giorno che uno per toccare qualcosa, per farsi conoscere, strozzava una donna, le sparava nel sonno, le rompeva la testa con una chiave inglese.", "entities": []}
+{"text": "Nora mi chiamò dalla strada, per andare in città.", "entities": [{"entity_text": "Nora", "type": "PER"}]}
+{"text": "Aveva una voce, in distanza, come quella dei grilli.", "entities": []}
+{"text": "Mi scappò da ridere, all' idea se avesse saputo quel che pensavo.", "entities": []}
+{"text": "Ma queste cose non si dicono a nessuno, non serve.", "entities": []}
+{"text": "Un bel mattino non mi avrebbe piú visto, ecco tutto.", "entities": []}
+{"text": "Ma dove andare?", "entities": []}
+{"text": "Ero arrivato in capo al mondo, sull' ultima costa, e ne avevo abbastanza.", "entities": []}
+{"text": "Allora cominciai a pensare che potevo ripassare le montagne.", "entities": []}
+{"text": "Lo Statuto del Piemonte venne promulgato a tutto il Regno, e il 9 aprile il Parlamento deliberò che se ne celebrasse tutti gli anni la festa nazionale commemorativa nella prima domenica di Giugno.", "entities": [{"entity_text": "Piemonte", "type": "LOC"}, {"entity_text": "Parlamento", "type": "ORG"}]}
+{"text": "Ma quella festa, che per la prima volta doveva essere celebrata da tutta la Nazione, Camillo Cavour non la vide.", "entities": [{"entity_text": "Camillo Cavour", "type": "PER"}]}
+{"text": "Il 25 maggio, dopo una lunga seduta parlamentare, egli ammalò, e il 6 giugno morì fra la costernazione dell' Italia intera.", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "« Sarebbe stato minor danno per la Patria se fossi morto io! »", "entities": []}
+{"text": "ebbe a dire Vittorio Emanuele.", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}]}
+{"text": "Infatti il danno della scomparsa del grande uomo politico era per l' Italia gravissimo.", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Egli stava proprio allora pensando al modo di provvedere alle finanze dello Stato e alle grandi spese ch' erano necessarie, per lavori pubblici e per provvidenze speciali, affinché le popolazioni da poco unite al nuovo Regno toccassero con mano i benefizi di questa unione.", "entities": []}
+{"text": "Per di più era già acuta, e si sarebbe fatta maggiore in seguito, la questione di Roma, a cui bisognava che o presto o poi il Papa rinunziasse, senza che ciò provocasse difficoltà all' Italia da parte delle altre potenze.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Cavour aveva già proclamato, il 26 marzo, alla Camera, che intendeva risolvere la questione secondo la formula « libera Chiesa in libero Stato » e stava trattando segretamente con Napoleone III, perché richiamasse da Roma i soldati francesi che vi teneva dal 1849 a difesa del potere temporale.", "entities": [{"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Camera", "type": "ORG"}, {"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "La sua morte veniva dunque a compromettere il compimento dei migliori disegni;", "entities": []}
+{"text": "e pur troppo gli altri uomini politici d' allora, per quanto valenti, non erano tali da poter uguagliare la valentìa di Cavour.", "entities": [{"entity_text": "Cavour", "type": "PER"}]}
+{"text": "Nemmeno per la Madonna d' agosto Nuto ha voluto imboccare il clarino- dice che è come nel fumare, quando si smette bisogna smettere davvero.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Di sera veniva all' Angelo e stavamo a prendere il fresco sul poggiolo della mia stanza.", "entities": [{"entity_text": "Angelo", "type": "LOC"}]}
+{"text": "Il poggiolo dà sulla piazza e la piazza era un finimondo, ma noi guardavamo di là dai tetti le vigne bianche sotto la luna.", "entities": []}
+{"text": "Nuto che di tutto vuol darsi ragione mi parlava di che cos' è questo mondo, voleva sapere da me quel che si fa e quel che si dice, ascoltava col mento poggiato sulla ringhiera.", "entities": []}
+{"text": "- Se sapevo suonare come te, non andavo in America,- dissi.", "entities": [{"entity_text": "America", "type": "LOC"}]}
+{"text": "- Sai com' è a quell' età.", "entities": []}
+{"text": "Basta vedere una ragazza, prendersi a pugni con uno, tornare a casa sotto il mattino.", "entities": []}
+{"text": "Uno vuol fare, esser qualcosa, decidersi.", "entities": []}
+{"text": "Non ti rassegni a far la vita di prima.", "entities": []}
+{"text": "Andando sembra piú facile.", "entities": []}
+{"text": "Si sentono tanti discorsi.", "entities": []}
+{"text": "A quell' età una piazza come questa sembra il mondo.", "entities": []}
+{"text": "Uno crede che il mondo sia cosí ... Nuto taceva e guardava i tetti.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- ... Chi sa quanti dei ragazzi qui sotto,- dissi,- vorrebbero prendere la strada di Canelli ...- Ma non la prendono,- disse Nuto.", "entities": [{"entity_text": "Canelli", "type": "LOC"}, {"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Tu invece l' hai presa.", "entities": []}
+{"text": "Perché?", "entities": []}
+{"text": "Si sanno queste cose?", "entities": []}
+{"text": "Perché alla Mora mi dicevano anguilla?", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "Perché un mattino sul ponte di Canelli avevo visto un' automobile investire quel bue?", "entities": [{"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "Perché non sapevo suonare neanche la chitarra?", "entities": []}
+{"text": "Dissi:", "entities": []}
+{"text": "- Alla Mora stavo troppo bene.", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "Credevo che tutto il mondo fosse come la Mora.", "entities": [{"entity_text": "Mora", "type": "LOC"}]}
+{"text": "- No,- disse Nuto,- qui stanno male ma nessuno va via.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "È perché c' è un destino.", "entities": []}
+{"text": "Tu a Genova, in America, va' a sapere, dovevi far qualcosa, capire qualcosa che ti sarebbe toccato.", "entities": [{"entity_text": "Genova", "type": "LOC"}, {"entity_text": "America", "type": "LOC"}]}
+{"text": "- Proprio a me?", "entities": []}
+{"text": "Ma non c' era bisogno di andare fin là.", "entities": []}
+{"text": "- Magari è qualcosa di bello,- disse Nuto,- non hai fatto i soldi?", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Magari non te ne sei neanche accorto.", "entities": []}
+{"text": "Ma a tutti succede qualcosa.", "entities": []}
+{"text": "Parlava a testa bassa, la voce usciva storta contro la ringhiera.", "entities": []}
+{"text": "Fece scorrere i denti sulla ringhiera.", "entities": []}
+{"text": "Sembrava che giocasse.", "entities": []}
+{"text": "A un tratto alzò la testa.", "entities": []}
+{"text": "- Un giorno o l' altro ti racconto delle cose di qui,- disse.", "entities": []}
+{"text": "- A tutti qualcosa tocca.", "entities": []}
+{"text": "Vedi dei ragazzi, della gente che non è niente, non fanno nessun male, ma viene il giorno che anche loro ... Sentivo che faceva fatica.", "entities": []}
+{"text": "Trangugiò la saliva.", "entities": []}
+{"text": "Da quando ci eravamo rivisti non mi ero ancora abituato a considerarlo diverso da quel Nuto scavezzacollo e tanto in gamba che c' insegnava a tutti quanti e sapeva sempre dir la sua.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Mai che mi ricordassi che adesso l' avevo raggiunto e che avevamo la stessa esperienza.", "entities": []}
+{"text": "Nemmeno mi sembrava cambiato;", "entities": []}
+{"text": "era soltanto un po' piú spesso, un po' meno fantastico, quella faccia da gatto era piú tranquilla e sorniona.", "entities": []}
+{"text": "Aspettai che si facesse coraggio e si levasse quel peso.", "entities": []}
+{"text": "Ho sempre visto che la gente, a lasciarle tempo, vuota il sacco.", "entities": []}
+{"text": "Ma Nuto quella sera non vuotò il sacco.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Cambiò discorso.", "entities": []}
+{"text": "Disse:", "entities": []}
+{"text": "- Sentili, come saltano e come bestemmiano.", "entities": []}
+{"text": "Per farli venir a pregar la madonna il parroco bisogna che li lasci sfogare.", "entities": []}
+{"text": "E loro per potersi sfogare bisogna che accendano i lumi alla madonna.", "entities": []}
+{"text": "Chi dei due frega l' altro?", "entities": []}
+{"text": "- Si fregano a turno,- dissi.", "entities": []}
+{"text": "- No no,- disse Nuto,- la vince il parroco.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Chi è che paga l' illuminazione, i mortaretti, il priorato e la musica?", "entities": []}
+{"text": "E chi se la ride l' indomani della festa?", "entities": []}
+{"text": "Dannati, si rompono la schiena per quattro palmi di terra, e poi se li fanno mangiare.", "entities": []}
+{"text": "- Non dici che la spesa piú grossa tocca alle famiglie ambiziose?", "entities": []}
+{"text": "- E le famiglie ambiziose dove prendono i soldi?", "entities": []}
+{"text": "Fan lavorare il servitore, la donnetta, il contadino.", "entities": []}
+{"text": "E la terra, dove l' han presa?", "entities": []}
+{"text": "Perché dev' esserci chi ne ha molta e chi niente?", "entities": []}
+{"text": "- Cosa sei?", "entities": []}
+{"text": "comunista?", "entities": []}
+{"text": "Nuto mi guardo tra storto e allegro.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Lasciò che la banda si sfogasse, poi sbirciandomi sempre borbottò:", "entities": []}
+{"text": "- Siamo troppo ignoranti in questo paese.", "entities": []}
+{"text": "Comunista non è chi vuole.", "entities": []}
+{"text": "C' era uno, lo chiamavano il Ghigna, che si dava del comunista e vendeva i peperoni in piazza.", "entities": [{"entity_text": "Ghigna", "type": "PER"}]}
+{"text": "Beveva e poi gridava di notte.", "entities": []}
+{"text": "Questa gente fa piú male che bene.", "entities": []}
+{"text": "Ci vorrebbero dei comunisti non ignoranti, che non guastassero il nome.", "entities": []}
+{"text": "Il Ghigna han fatto presto a fregarlo, piú nessuno gli comprava i peperoni.", "entities": [{"entity_text": "Ghigna", "type": "PER"}]}
+{"text": "Ha dovuto andar via quest' inverno.", "entities": []}
+{"text": "Gli dissi che aveva ragione ma dovevano muoversi nel", "entities": []}
+{"text": "45 quando il ferro era caldo.", "entities": []}
+{"text": "Allora anche il Ghigna sarebbe stato un aiuto.", "entities": [{"entity_text": "Ghigna", "type": "PER"}]}
+{"text": "- Credevo tornando in Italia di trovarci qualcosa di fatto.", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Avevate il coltello dal manico ...- Io non avevo che una pialla e uno scalpello,- disse Nuto.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- Della miseria ne ho vista dappertutto,- dissi.", "entities": []}
+{"text": "- Ci sono dei paesi dove le mosche stanno meglio dei cristiani.", "entities": []}
+{"text": "Ma non basta per rivoltarsi.", "entities": []}
+{"text": "La gente ha bisogno di una spinta.", "entities": []}
+{"text": "Allora avevate la spinta e la forza ... C' eri anche tu sulle colline?", "entities": []}
+{"text": "Non gliel' avevo mai chiesto.", "entities": []}
+{"text": "Sapevo di diversi del paese- giovanotti venuti al mondo quando noi non avevamo vent' anni- che c' erano morti, su quelle strade, per quei boschi.", "entities": []}
+{"text": "Sapevo molte cose, gliele avevo chieste, ma non se lui avesse portato il fazzoletto rosso e maneggiato un fucile.", "entities": []}
+{"text": "Sapevo che quei boschi s' erano riempiti di gente di fuori, renitenti alla leva, scappati di città, teste calde- e Nuto non era di nessuno di questi.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Ma Nuto è Nuto e sa meglio di me quel che è giusto.", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Nuto", "type": "PER"}]}
+{"text": "- No,- disse Nuto,- se ci andavo, mi bruciavano la casa.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Nella riva del Salto Nuto aveva tenuto nascosto dentro una tana un partigiano ferito e gli portava da mangiare di notte.", "entities": [{"entity_text": "Salto", "type": "LOC"}, {"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Me lo aveva detto sua mamma.", "entities": []}
+{"text": "Ci credevo.", "entities": []}
+{"text": "Era Nuto.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Soltanto ieri per strada incontrando due ragazzi che tormentavano una lucertola gli aveva preso la lucertola.", "entities": []}
+{"text": "Vent' anni passano per tutti.", "entities": []}
+{"text": "- Se il sor Matteo ce l' avesse fatto a noi quando andavamo nella riva,- gli avevo detto,- cos' avresti risposto?", "entities": [{"entity_text": "Matteo", "type": "PER"}]}
+{"text": "Quante nidiate hai fatto fuori a quei tempi?", "entities": []}
+{"text": "- Sono gesti da ignoranti,- aveva detto.", "entities": []}
+{"text": "- Facevamo male tutt' e due.", "entities": []}
+{"text": "Lasciale vivere le bestie.", "entities": []}
+{"text": "Soffrono già la loro parte in inverno.", "entities": []}
+{"text": "- Dico niente.", "entities": []}
+{"text": "Hai ragione.", "entities": []}
+{"text": "- E poi, si comincia cosí, si finisce con scannarsi e bruciare i paesi.", "entities": []}
+{"text": "Architettura e monumenti.", "entities": []}
+{"text": "Città e paesi a poco a poco si abbellirono di case nuove e linde, di palazzi e di edifici pubblici sontuosi:", "entities": []}
+{"text": "quartieri dove la popolazione si addensava in casupole vecchie e malsane vennero, a Napoli, a Roma, a Milano, a Torino, a Palermo, atterrati e ricostruiti ampi, spaziosi, sani, belli.", "entities": [{"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Milano", "type": "LOC"}, {"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Palermo", "type": "LOC"}]}
+{"text": "E frammezzo ad essi giganteggiarono edifizi imponenti come la Mole Antonelliana di Torino, la Stazione Centrale di Milano, il Palazzo della Cassa di Risparmio di Bologna, il Teatro Massimo di Palermo, il Teatro Costanzi di Roma il palazzo del Ministero della Guerra, pure a Roma.", "entities": [{"entity_text": "Mole Antonelliana", "type": "LOC"}, {"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Milano", "type": "LOC"}, {"entity_text": "Cassa di Risparmio di Bologna", "type": "ORG"}, {"entity_text": "Teatro Massimo", "type": "ORG"}, {"entity_text": "Palermo", "type": "LOC"}, {"entity_text": "Teatro Costanzi", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Ministero della Guerra", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Notevoli opere della nostra architettura sono la piazza Statuto di Torino, il Fòro Bonaparte, la Galleria Vittorio Emanuele, il Cimitero Monumentale di Milano, la via Toledo e la Galleria di Napoli, la facciata di Santa Maria del Fiore di Firenze, il palazzo di Giustizia di Roma, e, pure a Roma, il colossale Monumento a Vittorio Emanuele, che si inaugura ora.", "entities": [{"entity_text": "piazza Statuto", "type": "LOC"}, {"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Fòro Bonaparte", "type": "LOC"}, {"entity_text": "Galleria Vittorio Emanuele", "type": "LOC"}, {"entity_text": "Milano", "type": "LOC"}, {"entity_text": "via Toledo", "type": "LOC"}, {"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Santa Maria del Fiore", "type": "LOC"}, {"entity_text": "Firenze", "type": "LOC"}, {"entity_text": "palazzo di Giustizia", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Vittorio Emanuele", "type": "PER"}]}
+{"text": "Scoperte scientifiche.", "entities": []}
+{"text": "La Patria nostra in questi cinquant' anni ebbe anche nel campo, della scienza luminose glorie.", "entities": []}
+{"text": "La trazione funicolare che permette di scalare in ferrovia le montagne, è dovuta all' italiano ingegnere Agudio( 1861);", "entities": [{"entity_text": "Agudio", "type": "PER"}]}
+{"text": "la invenzione e la prima applicazione delle perforatrici per traforare le montagne, è dovuta all' ingegnere G. B. Piatti( 1861).", "entities": [{"entity_text": "G. B. Piatti", "type": "PER"}]}
+{"text": "Nel 1866 il prof. Cantoni scopre che la tisi è dovuta ad un bacillo;", "entities": [{"entity_text": "Cantoni", "type": "PER"}]}
+{"text": "nel 1865 Galileo Ferraris fa scoperte elettriche da cui tutto il mondo civile ricava incomparabili benefizi;", "entities": [{"entity_text": "Galileo Ferraris", "type": "PER"}]}
+{"text": "nel 1900 Guglielmo Marconi, valendosi degli studi del fisico professore Righi, inventa la telegrafia senza fili;", "entities": [{"entity_text": "Guglielmo Marconi", "type": "PER"}, {"entity_text": "Righi", "type": "PER"}]}
+{"text": "nel 1900 il Duca degli Abruzzi( cugino del Re attuale) in una spedizione polare si spinge fino al punto più vicino al polo nord che mai piede d' uomo avesse fino allora toccato.", "entities": [{"entity_text": "Abruzzi", "type": "LOC"}]}
+{"text": "Il dottor Sanarelli scopre il microbo della febbre gialla;", "entities": [{"entity_text": "Sanarelli", "type": "PER"}]}
+{"text": "il conte Almerigo da Schio e l' ingegnere Forlanini recano un notevole contributo al problema della dirigibilità dei palloni;", "entities": [{"entity_text": "Almerigo", "type": "PER"}, {"entity_text": "Schio", "type": "LOC"}, {"entity_text": "Forlanini", "type": "PER"}]}
+{"text": "lo stesso Forlanini inventa l' idroplano.", "entities": [{"entity_text": "Forlanini", "type": "PER"}]}
+{"text": "Numerosi scienziati divulgano la scienza con pubblicazioni popolari:", "entities": []}
+{"text": "fra essi Michele Lessona, Cesare Lombroso e Paolo Mantegazza.", "entities": [{"entity_text": "Michele Lessona", "type": "PER"}, {"entity_text": "Cesare Lombroso", "type": "PER"}, {"entity_text": "Paolo Mantegazza", "type": "PER"}]}
+{"text": "Uomini politici, se non lo sapete, sono coloro che dedicano in particolar modo la vita alle questioni di interesse generale dello Stato, discutendo e approvando leggi( deputati e senatori) o governando( ministri) o sostenendo pubblicamente, con gli scritti e con la propaganda, idee di governo.", "entities": [{"entity_text": "Stato", "type": "ORG"}]}
+{"text": "Camillo Cavour, il più grande uomo politico italiano, morì, come vi ho già detto, proprio all' alba del Regno( 1861).", "entities": [{"entity_text": "Camillo Cavour", "type": "PER"}]}
+{"text": "Si può dire che nessuno degli uomini politici italiani del cinquantennio, lo abbia uguagliato nella potenza dell' ingegno e nell' arte di governare.", "entities": []}
+{"text": "Tuttavia a parecchi altri uomini politici notevoli l' Italia deve gratitudine ed ammirazione.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Di essi, una parte erano vissuti ed avevano operato, come Cavour, negli anni anteriori al 1861;", "entities": [{"entity_text": "Cavour", "type": "PER"}]}
+{"text": "altri e prima e dopo quest' anno;", "entities": []}
+{"text": "altri infine manifestarono la loro azione di uomini politici negli anni più a noi vicini.", "entities": []}
+{"text": "Ve ne ricorderò qui i più notevoli:", "entities": []}
+{"text": "Luigi Carlo Farini, morto nel 1866, patriota e medico, cospiratore in giovinezza, amico di Massimo d' Azeglio con cui era stato ministro nel 1850.", "entities": [{"entity_text": "Luigi Carlo Farini", "type": "PER"}, {"entity_text": "Massimo d' Azeglio", "type": "PER"}]}
+{"text": "Nel 1859 era stato Dittatore in nome di Vittorio Emanuele nell' Emilia.", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Emilia", "type": "LOC"}]}
+{"text": "Nel 1860 aveva favorito la spedizione dei Mille e, dopo questa, era stato mandato a Napoli come Luogotenente generale di Vittorio Emanuele II nelle province meridionali.", "entities": [{"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Vittorio Emanuele II", "type": "PER"}]}
+{"text": "Più tardi fu presidente dei Ministri.", "entities": []}
+{"text": "In vecchiaia, versava in miseria:", "entities": []}
+{"text": "la Nazione volle allora offrirgli una cospicua somma come dono per i servizi ch' egli le aveva resi.", "entities": []}
+{"text": "Ma Luigi Carlo Farini rifiutò, dicendo queste parole degne d' un romano antico:", "entities": [{"entity_text": "Luigi Carlo Farini", "type": "PER"}]}
+{"text": "Lasciatemi la gloria di morir povero.", "entities": []}
+{"text": "Nel 1873 morì Gabrio Casati, che nel 1848, aveva presieduto il Governo provvisorio lombardo e poi il Ministero piemontese.", "entities": [{"entity_text": "Gabrio Casati", "type": "PER"}, {"entity_text": "Governo provvisorio lombardo", "type": "ORG"}]}
+{"text": "Nel nuovo regno aveva avuto l' alto ufficio di Presidente del Senato.", "entities": [{"entity_text": "Senato", "type": "ORG"}]}
+{"text": "Anche Urbano Rattazzi morì nel 1873.", "entities": [{"entity_text": "Urbano Rattazzi", "type": "PER"}]}
+{"text": "Era stato Ministro con Cavour e poi con Lamarmora, indi Presidente della Camera dei Deputati;", "entities": [{"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Lamarmora", "type": "PER"}, {"entity_text": "Camera dei Deputati", "type": "ORG"}]}
+{"text": "più tardi Presidente dei Ministri.", "entities": []}
+{"text": "Sotto il suo Ministero avvennero i luttuosi fatti di Aspromonte, di Villa Glori e di Mentana, di cui vi ho parlato nella prima parte di questo libretto.", "entities": [{"entity_text": "Aspromonte", "type": "LOC"}, {"entity_text": "Villa Glori", "type": "LOC"}, {"entity_text": "Mentana", "type": "LOC"}]}
+{"text": "– Nel 1877 morì Antonio Scialoia, che nel 1860 era stato Ministro di Garibaldi a Napoli e, dopo, parecchie volte Ministro del Regno d' Italia.", "entities": [{"entity_text": "Antonio Scialoia", "type": "PER"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Regno d' Italia", "type": "ORG"}]}
+{"text": "– L' anno seguente, spirò Alfonso Lamarmora, a cui il piccolo Piemonte doveva la ricostituzione dell' esercito e ch' era stato comandante della famosa spedizione di Crimea( 1854-55) la quale tante felici conseguenze doveva avere per la nostra causa nazionale.", "entities": [{"entity_text": "Alfonso Lamarmora", "type": "PER"}, {"entity_text": "Piemonte", "type": "LOC"}, {"entity_text": "esercito", "type": "ORG"}, {"entity_text": "Crimea", "type": "LOC"}]}
+{"text": "Nelle guerre del 1859 e del 1866 il Lamarmora era capo dello Stato Maggiore.", "entities": [{"entity_text": "Lamarmora", "type": "PER"}, {"entity_text": "Stato Maggiore", "type": "ORG"}]}
+{"text": "Oltrechè soldato valentissimo fu uomo politico.", "entities": []}
+{"text": "Fu presidente dei Ministri ed a lui si deve l' alleanza fra il Piemonte e la Prussia, che condusse alla guerra del 1866.", "entities": [{"entity_text": "Piemonte", "type": "ORG"}, {"entity_text": "Prussia", "type": "ORG"}]}
+{"text": "Il toscano Bettino Ricasoli, morto nel 1880, che nel 1859 aveva governato la Toscana in nome di Vittorio Emanuele, era stato due volte presidente dei Ministri del nuovo Regno.", "entities": [{"entity_text": "Bettino Ricasoli", "type": "PER"}, {"entity_text": "Toscana", "type": "ORG"}, {"entity_text": "Vittorio Emanuele", "type": "PER"}]}
+{"text": "Nel 1882 morì Giovanni Lanza, già Ministro degli Interni nel 1865;", "entities": [{"entity_text": "Giovanni Lanza", "type": "PER"}]}
+{"text": "Presidente della Camera nel 1869;", "entities": [{"entity_text": "Camera", "type": "ORG"}]}
+{"text": "Presidente dei Ministri nel 1870.", "entities": []}
+{"text": "Egli aveva fatto votare dal Parlamento la Legge delle Guarentigie.", "entities": [{"entity_text": "Parlamento", "type": "ORG"}]}
+{"text": "Quintino Sella, più volte Ministro delle Finanze, moriva nel 1884.", "entities": [{"entity_text": "Quintino Sella", "type": "PER"}]}
+{"text": "Patriota integerrimo non esitò a riorganizzare il sistema delle tasse e ad imporne di nuove non appena, iniziatosi il nuovo regno, l' Italia si trovò in condizioni difficili.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "A chi gli diceva che l' Italia avrebbe ben potuto dichiarare di non poter pagare i debiti, egli rispose che la Patria non poteva macchiarsi della vergogna d' un fallimento.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Fu anche rinomato ingegnere e famoso alpinista.", "entities": []}
+{"text": "Fondò il Club Alpino Italiano per richiamare i compatrioti alle ardite imprese e all' amore fortificante della montagna.", "entities": [{"entity_text": "Club Alpino Italiano", "type": "ORG"}]}
+{"text": "Il 1886 vedeva scomparire Marco Minghetti, che nel 1864 aveva stipulato con Napoleone III la convenzione per lo sgombero dei Francesi da Roma e pel trasporto della capitale da Torino a Firenze.", "entities": [{"entity_text": "Marco Minghetti", "type": "PER"}, {"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Firenze", "type": "LOC"}]}
+{"text": "– Sebastiano Tecchio, che nel 1848 aveva fatto parte del governo provvisorio", "entities": [{"entity_text": "Sebastiano Tecchio", "type": "PER"}, {"entity_text": "governo provvisorio", "type": "ORG"}]}
+{"text": "Vicenza e nel 1849 era stato Ministro di Carlo Alberto, e più tardi Presidente della Camera dei Deputati, moriva nel 1886 presidente del Senato.", "entities": [{"entity_text": "Vicenza", "type": "LOC"}, {"entity_text": "Carlo Alberto", "type": "PER"}, {"entity_text": "Camera dei Deputati", "type": "ORG"}, {"entity_text": "Senato", "type": "ORG"}]}
+{"text": "– Nel 1887 moriva Agostino Deprètis patriota e uomo politico, ch' era stato prodittatore in Sicilia nel 1860, poi più volte ministro e per molti anni presidente dei Ministri.", "entities": [{"entity_text": "Agostino Deprètis", "type": "PER"}, {"entity_text": "Sicilia", "type": "LOC"}]}
+{"text": "Era ministro della Marina nel 1866 quando subimmo la sconfitta navale di Lissa.", "entities": [{"entity_text": "Marina", "type": "ORG"}, {"entity_text": "Lissa", "type": "LOC"}]}
+{"text": "Concluse l' alleanza fra l' Italia, la Germania e l' Austria, che dura tuttora.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Germania", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}]}
+{"text": "– Cesare Correnti, che aveva grandemente cooperato alla rivoluzione di Milano nel 1848 ed era stato segretario del Governo provvisorio, poi deputato al Parlamento piemontese e a quello Italiano, indi ministro, moriva nel 1888.", "entities": [{"entity_text": "Cesare Correnti", "type": "PER"}, {"entity_text": "Milano", "type": "LOC"}, {"entity_text": "Governo provvisorio", "type": "ORG"}, {"entity_text": "Parlamento piemontese", "type": "ORG"}]}
+{"text": "– Pure nel 1888 l' Italia perdeva Pasquale Stanislao Mancini, che in giovinezza aveva cospirato contro i Borboni di Napoli.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Pasquale Stanislao Mancini", "type": "PER"}, {"entity_text": "Napoli", "type": "LOC"}]}
+{"text": "A Torino, professore di Università e deputato, era stato maestro del Principe di Piemonte( Umberto I).", "entities": [{"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Piemonte", "type": "ORG"}, {"entity_text": "Umberto I", "type": "PER"}]}
+{"text": "Nel 1881, come ministro degli Esteri, iniziò la prima spedizione in Africa, da cui, pur troppo, originarono più tardi acerbi lutti per la Patria nostra.", "entities": [{"entity_text": "Africa", "type": "LOC"}]}
+{"text": "– L' anno seguente( 1889) tutta l' Italia piangeva la morte di Benedetto Cairoli, che aveva combattuto eroicamente nel 1848, nel 1859, nel 1860, nel 1866, ch' era stato per 30 anni deputato al Parlamento, che aveva salvato la vita in Napoli a Umberto I, e che come cittadino, soldato, deputato, Ministro, Presidente dei Ministri, aveva dato ognora immense prove di bontà e di amor di Patria.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Benedetto Cairoli", "type": "PER"}, {"entity_text": "Parlamento", "type": "ORG"}, {"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Umberto I", "type": "PER"}]}
+{"text": "– Giovanni Nicotera, che aveva provato da giovane le prigioni borboniche pel suo patriottismo, ed aveva combattuto nel 1857 e nel 1866 per la Patria, – deputato al Parlamento, ministro degli Interni, moriva nel 1894.", "entities": [{"entity_text": "Giovanni Nicotera", "type": "PER"}, {"entity_text": "Parlamento", "type": "ORG"}]}
+{"text": "Bernardino Grimaldi( morto nel 1897), oratore rapidissimo, fu quattro volte ministro, e specialmente come ministro delle Finanze rese grandi servigi al Paese;", "entities": [{"entity_text": "Bernardino Grimaldi", "type": "PER"}]}
+{"text": "come ne rese di grandissimi Benedetto Brin, insigne ingegnere navale, che fu cinque volte ministro della Marina italiana, e seppe condurla a grande potenza con l' ordinamento disciplinare e con le corazzate poderose da lui stesso disegnate.", "entities": [{"entity_text": "Benedetto Brin", "type": "PER"}, {"entity_text": "Marina italiana", "type": "ORG"}]}
+{"text": "Egli morì nel 1898.", "entities": []}
+{"text": "– Michele Coppino, di umilissimi natali( era figlio d' un ciabattino), letterato e uomo politico egregio, fu quattro volte ministro della P. Istruzione.", "entities": [{"entity_text": "Michele Coppino", "type": "PER"}]}
+{"text": "Morì nel 1901, e nello stesso anno morì Francesco Crispi.", "entities": [{"entity_text": "Francesco Crispi", "type": "PER"}]}
+{"text": "Cospiratore in giovinezza ed esule, fu poi nel 1860 segretario e ministro di Garibaldi durante la spedizione dei Mille, di cui era stato fra i più caldi promotori.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "Fu più tardi Ministro, e poi Presidente del Consiglio dei Ministri ripetutamente.", "entities": [{"entity_text": "Consiglio dei Ministri", "type": "ORG"}]}
+{"text": "Sotto il suo governo l' Italia ebbe a lamentare una dannosa tensione di rapporti con la Francia e le sconfitte d' Africa.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Africa", "type": "LOC"}]}
+{"text": "Come legislatore egli lasciò buona fama in parecchie buone leggi;", "entities": []}
+{"text": "ma non andò esente da gravi critiche per la sua vita privata.", "entities": []}
+{"text": "– Ascanio Branca moriva nel 1903, lasciando buona fama di patriota e di ministro.", "entities": [{"entity_text": "Ascanio Branca", "type": "PER"}]}
+{"text": "Nel 1904 moriva Giuseppe Zanardelli, patriota ardentissimo, giurista insigne, eloquentissimo oratore.", "entities": [{"entity_text": "Giuseppe Zanardelli", "type": "PER"}]}
+{"text": "Fu più volte ministro e poi Presidente dei Ministri in momenti difficilissimi.", "entities": []}
+{"text": "Governò liberalmente e condusse in porto la riconciliazione con la Francia.", "entities": [{"entity_text": "Francia", "type": "ORG"}]}
+{"text": "Diede all' Italia il Codice Penale, il Codice di Commercio e parecchie altre leggi importanti, di cui fu autore e che il Parlamento approvò.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Parlamento", "type": "ORG"}]}
+{"text": "– Emanuele Gianturco moriva nel 1907, lasciando largo rimpianto come uomo politico.", "entities": [{"entity_text": "Emanuele Gianturco", "type": "PER"}]}
+{"text": "Egli fu saggio ministro della P. Istruzione e di Grazia e Giustizia.", "entities": []}
+{"text": "– Nello stesso anno morivano Nicolò Gallo, già Ministro della P. Istruzione e Giuseppe Saracco insigne uomo politico, di grande probità pubblica e privata.", "entities": [{"entity_text": "Nicolò Gallo", "type": "PER"}, {"entity_text": "Giuseppe Saracco", "type": "PER"}]}
+{"text": "Fu più volte ministro.", "entities": []}
+{"text": "Era Presidente dei Ministri quando venne assassinato Umberto I, e governò con grandissimo senno e con non meno grande onestà.", "entities": [{"entity_text": "Umberto I", "type": "PER"}]}
+{"text": "Nel 1908 moriva Giuseppe Biancheri, che fu ministro della Marina e venne per ben 18 volte eletto Presidente della Camera dei Deputati.", "entities": [{"entity_text": "Giuseppe Biancheri", "type": "PER"}, {"entity_text": "Marina", "type": "ORG"}, {"entity_text": "Camera dei Deputati", "type": "ORG"}]}
+{"text": "– Nello stesso anno l' Italia perdeva Antonio Starabba Di Rudinì patriota e uomo politico notevole, più volte presidente dei Ministri, e Giulio Prinetti, insigne ingegnere, che fu ministro dei Lavori Pubblici e degli Esteri.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Antonio Starabba Di Rudinì", "type": "PER"}, {"entity_text": "Giulio Prinetti", "type": "PER"}]}
+{"text": "– Alessandro Fortis, patriota ardente, già soldato valoroso, poi deputato, indi Ministro e Presidente dei Ministri, morì nel 1909.", "entities": [{"entity_text": "Alessandro Fortis", "type": "PER"}]}
+{"text": "Fra i più notevoli uomini politici viventi, l' Italia conta Giovanni Giolitti, Sidney Sonnino, Luigi Luzzatti, Giuseppe Marcora, Vittorio Emanuele Orlando, Ferdinando Martini.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Giovanni Giolitti", "type": "PER"}, {"entity_text": "Sidney Sonnino", "type": "PER"}, {"entity_text": "Luigi Luzzatti", "type": "PER"}, {"entity_text": "Giuseppe Marcora", "type": "PER"}, {"entity_text": "Vittorio Emanuele Orlando", "type": "PER"}, {"entity_text": "Ferdinando Martini", "type": "PER"}]}
+{"text": "Fra gli uomini politici che non governarono, l' Italia ebbe pure notevolissimi ingegni, quali Aurelio Saffi, morto nel 1890;", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Aurelio Saffi", "type": "PER"}]}
+{"text": "Antonio Fratti, morto in Grecia nel 1897 combattendo contro la Turchia, che minacciava l' indipendenza di quella nazione;", "entities": [{"entity_text": "Antonio Fratti", "type": "PER"}, {"entity_text": "Grecia", "type": "LOC"}, {"entity_text": "Turchia", "type": "ORG"}]}
+{"text": "Felice Cavallotti, morto nel 1898;", "entities": [{"entity_text": "Felice Cavallotti", "type": "PER"}]}
+{"text": "Ettore Socci, morto nel 1905.", "entities": [{"entity_text": "Ettore Socci", "type": "PER"}]}
+{"text": "C' è una ragione perché sono tornato in questo paese, qui e non invece a Canelli, a Barbaresco o in Alba.", "entities": [{"entity_text": "Canelli", "type": "LOC"}, {"entity_text": "Barbaresco", "type": "LOC"}, {"entity_text": "Alba", "type": "LOC"}]}
+{"text": "Qui non ci sono nato, è quasi certo;", "entities": []}
+{"text": "dove son nato non lo so, non c' è da queste parti una casa né un pezzo di terra né delle ossa ch' io possa dire “ Ecco cos' ero prima di nascere ”.", "entities": []}
+{"text": "Non so se vengo dalla collina o dalla valle, dai boschi o da una casa di balconi.", "entities": []}
+{"text": "La ragazza che mi ha lasciato sugli scalini del duomo di Alba, magari non veniva neanche dalla campagna, magari era la figlia dei padroni di un palazzo, oppure mi ci hanno portato in un cavagno da vendemmia due povere donne da Monticello, da Neive o perché no da Cravanzana.", "entities": [{"entity_text": "Alba", "type": "LOC"}, {"entity_text": "Monticello", "type": "LOC"}, {"entity_text": "Neive", "type": "LOC"}, {"entity_text": "Cravanzana", "type": "LOC"}]}
+{"text": "Chi può dire di che carne sono fatto?", "entities": []}
+{"text": "Ho girato abbastanza il mondo da sapere che tutte le carni sono buone e si equivalgono, ma è per questo che uno si stanca e cerca di mettere radici, di farsi terra e paese, perché la sua carne valga e duri qualcosa di piú che un comune giro di stagione.", "entities": []}
+{"text": "Se sono cresciuto in questo paese, devo dir grazie alla Virgilia, a Padrino, tutta gente che non c' è piú, anche se loro mi hanno preso e allevato soltanto perché l' ospedale di Alessandria gli passava la mesata.", "entities": [{"entity_text": "Virgilia", "type": "PER"}, {"entity_text": "Padrino", "type": "PER"}, {"entity_text": "Alessandria", "type": "LOC"}]}
+{"text": "Su queste colline quarant' anni fa c' erano dei dannati che per vedere uno scudo d' argento si caricavano un bastardo dell' ospedale, oltre ai figli che avevano già.", "entities": []}
+{"text": "C' era chi prendeva una bambina per averci poi la servetta e comandarla meglio, la Virgilia volle me perché di figlie ne aveva già due, e quando fossi un po' cresciuto speravano di aggiustarsi in una grossa cascina e lavorare tutti quanti e star bene.", "entities": [{"entity_text": "Virgilia", "type": "PER"}]}
+{"text": "Padrino aveva allora il casotto di Gaminella- due stanze e una stalla-, la capra e quella riva dei noccioli.", "entities": [{"entity_text": "Padrino", "type": "PER"}, {"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "Io venni su con le ragazze, ci rubavamo la polenta, dormivamo sullo stesso saccone, Angiolina la maggiore aveva un anno piú di me;", "entities": [{"entity_text": "Angiolina", "type": "PER"}]}
+{"text": "e soltanto a dieci anni, nell' inverno quando morì la Virgilia, seppi per caso che non ero suo fratello.", "entities": [{"entity_text": "Virgilia", "type": "PER"}]}
+{"text": "Da quell' inverno Angiolina giudiziosa dovette smettere di girare con noi per la riva e per i boschi;", "entities": [{"entity_text": "Angiolina", "type": "PER"}]}
+{"text": "accudiva alla casa, faceva il pane e le robiole, andava lei a ritirare in municipio il mio scudo;", "entities": []}
+{"text": "io mi vantavo con Giulia di valere cinque lire, le dicevo che lei non fruttava niente e chiedevo a Padrino perché non prendevamo altri bastardi.", "entities": [{"entity_text": "Giulia", "type": "PER"}, {"entity_text": "Padrino", "type": "PER"}]}
+{"text": "Adesso sapevo ch' eravamo dei miserabili, perché soltanto i miserabili allevano i bastardi dell' ospedale.", "entities": []}
+{"text": "Prima, quando correndo a scuola gli altri mi dicevano bastardo, io credevo che fosse un nome come vigliacco o vagabondo e rispondevo per le rime.", "entities": []}
+{"text": "Ma ero già un ragazzo fatto e il municipio non ci pagava piú lo scudo, che io ancora non avevo ben capito che non essere figlio di Padrino e della Virgilia voleva dire non essere nato in Gaminella, non essere sbucato da sotto i noccioli o dall' orecchio della nostra capra come le ragazze.", "entities": [{"entity_text": "Padrino", "type": "PER"}, {"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "L' altr' anno, quando tornai la prima volta in paese, venni quasi di nascosto a rivedere i noccioli.", "entities": []}
+{"text": "La collina di Gaminella, un versante lungo e ininterrotto di vigne e di rive, un pendio così insensibile che alzando la testa non se ne vede la cima- e in cima, chi sa dove, ci sono altre vigne, altri boschi, altri sentieri-, era come scorticata dall' inverno, mostrava il nudo della terra e dei tronchi.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "La vedevo bene, nella luce asciutta digradare gigantesca verso Canelli dove la nostra valle finisce.", "entities": [{"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "Dalla straduccia che segue il Belbo arrivai alla spalliera del piccolo ponte e al canneto.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Vidi sul ciglione la parete del casotto di grosse pietre annerite, il fico storto, la finestretta vuota, e pensavo a quegli inverni terribili.", "entities": []}
+{"text": "Ma intorno gli alberi e la terra erano cambiati;", "entities": []}
+{"text": "la macchia dei noccioli sparita, ridotta una stoppia di meliga.", "entities": []}
+{"text": "Dalla stalla muggì un bue, e nel freddo della sera sentii l' odore del letame.", "entities": []}
+{"text": "Chi adesso stava nel casotto non era dunque piú cosi pezzente.", "entities": []}
+{"text": "come noi.", "entities": []}
+{"text": "M' ero sempre aspettato qualcosa di simile, o magari che il casotto fosse crollato;", "entities": []}
+{"text": "tante volte m' ero immaginato sulla spalletta del ponte a chiedermi com' era stato possibile passare tanti anni in quel buco, su quei pochi sentieri, pascolando la capra e cercando le mele rotolate in fondo alla riva, convinto che il mondo finisse alla svolta dove la strada strapiombava sul Belbo.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Ma non mi ero aspettato di non trovare piú i noccioli.", "entities": []}
+{"text": "Voleva dire ch' era tutto finito.", "entities": []}
+{"text": "La novità mi scoraggiò al punto che non chiamai, non entrai sull' aia.", "entities": []}
+{"text": "Capii lì per lì che cosa vuol dire non essere nato in un posto, non averlo nel sangue, non starci in mezzo sepolto insieme al vecchi, tanto che un cambiamento di colture non importi.", "entities": []}
+{"text": "Certamente, di macchie di noccioli ne restavano sulle colline, potevo ancora ritrovarmici;", "entities": []}
+{"text": "io stesso, se di quella riva fossi stato padrone, l' avrei magari roncata e messa a grano, ma intanto adesso mi faceva l' effetto di quelle stanze di città dove si affitta, si vive un giorno o degli anni, e poi quando si trasloca restano gusci vuoti, disponibili, morti.", "entities": []}
+{"text": "Meno male che quella sera voltando le spalle a Gaminella avevo di fronte la collina del Salto, oltre Belbo, con le creste, coi grandi prati che sparivano sulle cime.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}, {"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "E piú in basso anche questa era tutta vigne spoglie, tagliate da rive, e le macchie degli alberi, i sentieri, le cascine sparse erano come li avevo veduti giorno per giorno, anno per anno, seduto sul trave dietro il casotto o sulla spalletta del ponte.", "entities": []}
+{"text": "Poi, tutti quegli anni fino alla leva, ch' ero stato servitore alla cascina della Mora nella grassa piana oltre Belbo, e Padrino, venduto il casotto di Gaminella, se n' era andato con le figlie a Cossano, tutti quegli anni bastava che alzassi gli occhi dai campi per vedere sotto il cielo le vigne del Salto, e anche queste digradavano verso Canelli nel senso della ferrata, del fischio del treno che sera e mattina correva lungo il Belbo facendomi pensare a meraviglie, alle stazioni e alle città.", "entities": [{"entity_text": "Belbo", "type": "LOC"}, {"entity_text": "Padrino", "type": "PER"}, {"entity_text": "Gaminella", "type": "LOC"}, {"entity_text": "Cossano", "type": "LOC"}, {"entity_text": "Salto", "type": "LOC"}, {"entity_text": "Canelli", "type": "LOC"}, {"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Così questo paese, dove non sono nato, ho creduto per molto tempo che fosse tutto il mondo.", "entities": []}
+{"text": "Adesso che il mondo l' ho visto davvero e so che è fatto di tanti piccoli paesi, non so se da ragazzo mi sbagliavo poi di molto.", "entities": []}
+{"text": "Uno gira per mare e per terra, come i giovanotti dei miei tempi andavano sulle feste dei paesi intorno, e ballavano, bevevano, si picchiavano, portavano a casa la bandiera e i pugni rotti.", "entities": []}
+{"text": "Si fa l' uva e la si vende a Canelli;", "entities": [{"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "si raccolgono i tartufi e si portano in Alba.", "entities": [{"entity_text": "Alba", "type": "LOC"}]}
+{"text": "C' è Nuto il mio amico del Salto, che provvede di bigonce e di torchi tutta la valle fino a Camo.", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Salto", "type": "LOC"}, {"entity_text": "Camo", "type": "LOC"}]}
+{"text": "Che cosa vuol dire?", "entities": []}
+{"text": "Un paese ci vuole, non fosse che per il gusto di andarsene via.", "entities": []}
+{"text": "Un paese vuol dire non essere soli, sapere che nella gente, nelle piante, nella terra c' è qualcosa di tuo, che anche quando non ci sei resta ad aspettarti.", "entities": []}
+{"text": "Ma non è facile starci tranquillo.", "entities": []}
+{"text": "Da un anno che lo tengo d' occhio e quando posso ci scappo da Genova, mi sfugge di mano.", "entities": [{"entity_text": "Genova", "type": "LOC"}]}
+{"text": "Queste cose si capiscono col tempo e l' esperienza.", "entities": []}
+{"text": "Possibile che a quarant' anni, e con tutto il mondo che ho visto, non sappia ancora che cos' è il mio paese?", "entities": []}
+{"text": "C' è qualcosa che non mi capacita.", "entities": []}
+{"text": "Qui tutti hanno in mente che sono tornato per comprarmi una casa, e mi chiamano l' Americano, mi fanno vedere le figlie.", "entities": []}
+{"text": "Per uno che è partito senza nemmeno averci un nome, dovrebbe piacermi, e infatti mi piace.", "entities": []}
+{"text": "Ma non basta.", "entities": []}
+{"text": "Mi piace anche Genova, mi piace sapere che il mondo è rotondo e avere un piede sulle passerelle.", "entities": [{"entity_text": "Genova", "type": "LOC"}]}
+{"text": "Da quando, ragazzo, al cancello della Mora mi appoggiavo al badile e ascoltavo le chiacchiere dei perdigiorno di passaggio sullo stradone, per me le collinette di Canelli sono la porta del mondo.", "entities": [{"entity_text": "Mora", "type": "LOC"}, {"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "Nuto che, in confronto con me, non si è mai allontanato dal Salto, dice che per farcela a vivere in questa valle non bisogna mai uscirne.", "entities": [{"entity_text": "Nuto", "type": "PER"}, {"entity_text": "Salto", "type": "LOC"}]}
+{"text": "Proprio lui che da giovanotto è arrivato a suonare il clarino in banda oltre Canelli, fino a Spigno, fino a Ovada, dalla parte dove si leva il sole.", "entities": [{"entity_text": "Canelli", "type": "LOC"}, {"entity_text": "Spigno", "type": "LOC"}, {"entity_text": "Ovada", "type": "LOC"}]}
+{"text": "Ne parliamo ogni tanto, e lui ride.", "entities": []}
+{"text": "Fin dal principio di questa guerra, l' Italia s' era dichiarata neutrale.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Napoleone III, che ne aveva inutilmente sollecitato l' aiuto, aveva dovuto ritirare da Roma il presidio francese che vi teneva.", "entities": [{"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Il Parlamento italiano, radunatosi straordinariamente a Firenze, approvava il 21 e il 24 agosto 1870 la politica del Ministero e, ricordando e riaffermando le precedenti deliberazioni riguardo a Roma, incitava i Ministri ad agire in conformità delle aspirazioni nazionali.", "entities": [{"entity_text": "Parlamento italiano", "type": "ORG"}, {"entity_text": "Firenze", "type": "LOC"}, {"entity_text": "Ministero", "type": "ORG"}, {"entity_text": "Roma", "type": "ORG"}]}
+{"text": "Tosto il Ministro degli Esteri( Emilio Visconti Venosta) avvertiva le Potenze che, essendo imminente a Roma una rivoluzione, l' Italia era nella necessità di occupare il territorio pontificio per ristabilire la quiete e per dare alle popolazioni il diritto di provvedere a sè stesse.", "entities": [{"entity_text": "Emilio Visconti Venosta", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Vittorio Emanuele II scriveva nel tempo stesso al Papa( Pio IX) questa lettera:", "entities": [{"entity_text": "Vittorio Emanuele II", "type": "PER"}, {"entity_text": "Pio IX", "type": "PER"}]}
+{"text": "« Io veggo l' indeclinabile necessità, per la sicurezza dell' Italia e della Santa Sede, che le mie truppe, già poste a guardia dei confini, si inoltrino ad occupare quelle posizioni che saranno indispensabili per la sicurezza di Vostra Santità e pel mantenimento dell' ordine.", "entities": [{"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Santa Sede", "type": "ORG"}]}
+{"text": "Il Capo della cattolicità, circondato dalla devozione delle popolazioni italiane, conserverà sulla sponda del Tevere una sede gloriosa e indipendente da ogni umana sovranità, e, liberando Roma dalle truppe straniere, avrà dato compimento all' opera meravigliosa e restituita la Pace alla Chiesa. »", "entities": [{"entity_text": "Tevere", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Chiesa", "type": "ORG"}]}
+{"text": "La Francia, impegnata nella guerra contro la Germania, questa, l' Austria stessa e tutte l' altre potenze europee, consentirono al gran passo che l' Italia voleva movere.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Germania", "type": "ORG"}, {"entity_text": "Austria", "type": "ORG"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Ma il Papa non volle saperne di accordi amichevoli, sicchè il Governo italiano ordinò che l' occupazione di Roma avvenisse con la forza.", "entities": [{"entity_text": "Governo italiano", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Il 20 settembre infatti, i soldati italiani apersero a cannonate una breccia nella mura di Roma( a Porta Pia) e dopo breve combattimento vi entrarono.", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Porta Pia", "type": "LOC"}]}
+{"text": "I soldati del Papa cessarono subito il fuoco e si arresero prigionieri.", "entities": []}
+{"text": "L' Italia aveva così finalmente acquistato la sua Capitale naturale e storica, sogno di tanti anni, aspirazione di tanti patriotti e martiri.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Venne tosto indetto il plebiscito perchè la conquista di Roma fosse sanzionata dal voto del popolo degli Stati pontifici per l' unione all' Italia, e si ebbe questa votazione:", "entities": [{"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "In Roma 40.", "entities": [{"entity_text": "Roma", "type": "LOC"}]}
+{"text": "785 voti favorevoli e 46 contrari;", "entities": []}
+{"text": "in tutto lo Stato pontificio 133.", "entities": [{"entity_text": "Stato pontificio", "type": "LOC"}]}
+{"text": "681 voti favorevoli e 507 contrari.", "entities": []}
+{"text": "Vittorio Emanuele Il accettò il plebiscito e il 30 dicembre entrò in Roma;", "entities": [{"entity_text": "Vittorio Emanuele Il", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "ma vi entrò pietoso e modesto, in occasione d' uno straripamento del Tevere, recandosi tosto a confortare e a soccorrere chi abbisognava di conforto e di aiuto, e inaugurando così quell' opera di generosa assistenza, che i suoi successori seppero in ogni occasione continuare verso i sofferenti.", "entities": [{"entity_text": "Tevere", "type": "LOC"}]}
+{"text": "Il 18 febbraio 1861 Vittorio Emanuele II apriva a Torino il primo Parlamento Italiano, invitando i 443 deputati, ch' erano stati allora allora eletti a comporlo, a dare « alla Patria libera e unita quasi tutta, istituzioni comuni e stabile assetto. »", "entities": [{"entity_text": "Vittorio Emanuele II", "type": "PER"}, {"entity_text": "Torino", "type": "LOC"}, {"entity_text": "Parlamento Italiano", "type": "ORG"}]}
+{"text": "« Nell' attribuire le maggiori libertà amministrative ai popoli che ebbero consuetudini ed usi diversi, voi – diceva il Re – veglierete perché l' unità politica, sospiro di tanti secoli, non possa mai essere menomata. »", "entities": []}
+{"text": "Quei 443 deputati erano gli uomini migliori della Nazione:", "entities": []}
+{"text": "patrioti, scienziati, letterati del vecchio Piemonte e della Lombardia, profughi che avevano sopportato la prigionia e l' esilio austriaco, o napoletano o papale, reduci gloriosi delle antiche e delle recenti battaglie.", "entities": [{"entity_text": "Piemonte", "type": "LOC"}, {"entity_text": "Lombardia", "type": "LOC"}]}
+{"text": "Il 26 febbraio i Senatori e il 14 marzo i Deputati, approvavano la legge che proclamava costituito il nostro Regno, conferendo a Vittorio Emanuele e ai suoi successori il titolo di Re d' Italia, e quasi nel tempo stesso Senatori e Deputati( 25 e 27 marzo) affermavano, per iniziativa di Cavour, presidente del Consiglio dei Ministri, che Roma doveva essere la Capitale della Nazione.", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Italia", "type": "LOC"}, {"entity_text": "Cavour", "type": "PER"}, {"entity_text": "Consiglio dei Ministri", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Con questa affermazione solenne e coraggiosa( coraggiosa soprattutto, perché le varie potenze europee non avevano ancora riconosciuto il nuovo Regno) il Parlamento ammoniva il mondo intero che l' opera di resurrezione dell' Italia non poteva considerarsi compiuta e che non lo sarebbe stata se non quando, sicura dei suoi confini, l' Italia si fosse assisa in Campidoglio.", "entities": [{"entity_text": "Parlamento", "type": "ORG"}, {"entity_text": "Italia", "type": "LOC"}, {"entity_text": "Italia", "type": "LOC"}, {"entity_text": "Campidoglio", "type": "LOC"}]}
+{"text": "Napoleone III mantenne la promessa che aveva fatta, di ritirare cioè i soldati francesi da Roma.", "entities": [{"entity_text": "Napoleone III", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "L' Italia, che s' era costituita garante dell' integrità del territorio del Papa, si addossò una parte del debito pontificio, cioè 21.227.167 lire annue.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Però Napoleone concentrò 20 soldati fra Marsiglia e Tolone per tenerli pronti a tornare in Italia se lo Stato del Papa venisse minacciato.", "entities": [{"entity_text": "Napoleone", "type": "PER"}, {"entity_text": "Marsiglia", "type": "LOC"}, {"entity_text": "Tolone", "type": "LOC"}, {"entity_text": "Italia", "type": "LOC"}, {"entity_text": "Stato del Papa", "type": "ORG"}]}
+{"text": "Dal canto suo il Governo italiano mandò soldati nei più importanti posti ai confini dello Stato pontificio, per impedire che questo fosse invaso da bande di volontari.", "entities": [{"entity_text": "Governo italiano", "type": "ORG"}, {"entity_text": "Stato pontificio", "type": "ORG"}]}
+{"text": "Infatti tra i seguaci di Garibaldi era vivo il desiderio che Roma fosse acquistata alla Patria anche ad onta dei patti ch' erano stati stretti con la Francia.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Francia", "type": "ORG"}]}
+{"text": "A tal fine s' erano formati dovunque comitati di azione per raccogliere volontari.", "entities": []}
+{"text": "Garibaldi stesso andava ammonendo che non si doveva ritardare più oltre la liberazione della Città Eterna.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Città Eterna", "type": "LOC"}]}
+{"text": "Il Governo, ch' era allora retto da Urbano Rattazzi, dapprima tollerò questo movimento, anzi parve secondarlo segretamente, sperando che un moto rivoluzionario su Roma giustificasse l' intervento armato dell' Italia e l' occupazione della città, da cui poi non sarebbe più uscita.", "entities": [{"entity_text": "Governo", "type": "ORG"}, {"entity_text": "Urbano Rattazzi", "type": "PER"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Ma all' improvviso, per le rimostranze della Francia e di altre nazioni, mutò pensiero, sequestrò i depositi di armi fatti dai volontari lungo il confine, arrestò Garibaldi, che stava per oltrepassarlo, e lo fece condurre prima ad Alessandria e poi a Caprera.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Alessandria", "type": "LOC"}, {"entity_text": "Caprera", "type": "LOC"}]}
+{"text": "L' arresto di Garibaldi non fece però mutare pensiero ai volontari, che passarono ugualmente il confine e vinsero le milizie del Papa a Bagnorea e a Montelibretti.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Bagnorea", "type": "LOC"}, {"entity_text": "Montelibretti", "type": "LOC"}]}
+{"text": "Garibaldi allora fuggì da Caprera e corse a Firenze;", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Caprera", "type": "LOC"}, {"entity_text": "Firenze", "type": "LOC"}]}
+{"text": "fu di nuovo arrestato, ma, rilasciato in libertà poco dopo, raggiunse i volontari.", "entities": []}
+{"text": "Intanto Vittorio Emanuele aveva scritto a Napoleone perché gli consentisse di occupare lo Stato Pontificio per ristabilirvi l' ordine;", "entities": [{"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Napoleone", "type": "PER"}, {"entity_text": "Stato Pontificio", "type": "ORG"}]}
+{"text": "ma Napoleone aveva rifiutato perché si proponeva di rioccuparlo lui.", "entities": [{"entity_text": "Napoleone", "type": "PER"}]}
+{"text": "Infatti, mentre Garibaldi vinceva i soldati pontifici a Monte Rotondo( 26 ottobre), la flotta francese partiva da Tolone alla volta di Civitavecchia.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Monte Rotondo", "type": "LOC"}, {"entity_text": "Tolone", "type": "LOC"}, {"entity_text": "Civitavecchia", "type": "LOC"}]}
+{"text": "L' Italia nostra perdette in questi cinquant' anni parecchi suoi figli che la illustrarono nelle lettere e nelle arti.", "entities": [{"entity_text": "Italia", "type": "ORG"}]}
+{"text": "Nel 1866 morì Massimo D' Azeglio, che l' aveva onorata, oltrechè come soldato, patriota, uomo politico, pittore, anche come letterato coi romanzi Ettore Fieramosca e Nicolò de' Lapi.", "entities": [{"entity_text": "Massimo D' Azeglio", "type": "PER"}, {"entity_text": "Ettore Fieramosca", "type": "PER"}, {"entity_text": "Nicolò de' Lapi", "type": "PER"}]}
+{"text": "– Francesco Domenico Guerrazzi, anch' egli patriota, uomo politico e romanziere, morì nel 1873, e nello stesso anno spirò Alessandro Manzoni l' autore dell' immortale romanzo I promessi sposi, di bellissime tragedie e di inni magnifici.", "entities": [{"entity_text": "Francesco Domenico Guerrazzi", "type": "PER"}, {"entity_text": "Alessandro Manzoni", "type": "PER"}]}
+{"text": "– Appena dopo un anno, 1874, moriva Nicolò Tommaseo, grande patriota e letterato, cui l' Italia deve, oltre a pregevolissimi scritti, un gran Dizionario della lingua italiana e un assai pregevole Dizionario dei sinonimi.", "entities": [{"entity_text": "Nicolò Tommaseo", "type": "PER"}, {"entity_text": "Italia", "type": "ORG"}]}
+{"text": "– Aleardo Aleardi, patriota e poeta dolcissimo, che scrisse bellissimi versi, spirava nel 1878 e Giovanni Prati, altro insigne poeta, nel 1884.", "entities": [{"entity_text": "Aleardo Aleardi", "type": "PER"}, {"entity_text": "Giovanni Prati", "type": "PER"}]}
+{"text": "L' anno prima era morto Francesco De Sanctis letterato di grande fama;", "entities": [{"entity_text": "Francesco De Sanctis", "type": "PER"}]}
+{"text": "e nel 1880 moriva Pietro Fanfani, letterato, autore di parecchi bei libri e di dizionari apprezzatissimi fra cui il Vocabolario della lingua italiana.", "entities": [{"entity_text": "Pietro Fanfani", "type": "PER"}]}
+{"text": "– Terenzio Mamiani, poeta, filosofo, patriota e Ruggero Bonghi storico, letterato, uomo politico, oratore eloquente, morivano nel 1885;", "entities": [{"entity_text": "Terenzio Mamiani", "type": "PER"}, {"entity_text": "Ruggero Bonghi", "type": "PER"}]}
+{"text": "e nel 1888 Giannina Milli poetessa egregia, e Arnaldo Fusinato, che con le poesie patriottiche aveva in giovinezza infiammato gli Italiani all' amor patrio.", "entities": [{"entity_text": "Giannina Milli", "type": "PER"}, {"entity_text": "Arnaldo Fusinato", "type": "PER"}]}
+{"text": "Cesare Cantù, autore della Storia Universale, che fu tradotta in tutte le lingue, e di molti libri fra cui il romanzo Margherita Pusterla, moriva nel 1895, e Paolo Ferrari, scrittore di bellissime commedie, nel 1889.", "entities": [{"entity_text": "Cesare Cantù", "type": "PER"}, {"entity_text": "Margherita Pusterla", "type": "PER"}, {"entity_text": "Paolo Ferrari", "type": "PER"}]}
+{"text": "– Giacinto Gallina, altro insigne commediografo( 1897), Felice Cavallotti, poeta e commediografo rinomato( 1898), Vittorio Bersezio, storico, poeta e romanziere( 1900), Emilio De Marchi, romanziere( 1901), Riccardo Selvatico, commediografo( 1901), Giovanni Bovio, filosofo e drammaturgo( 1903), Luigi Rigutini, letterato e autore di apprezzati dizionari( 1901), Enrico Panzacchi, squisito poeta( 1904), Giuseppe Giacosa, letterato e commediografo( 1906) – furono anch' essi illustri figli d' Italia, che ne onorarono il nome al cospetto del mondo.", "entities": [{"entity_text": "Giacinto Gallina", "type": "PER"}, {"entity_text": "Felice Cavallotti", "type": "PER"}, {"entity_text": "Vittorio Bersezio", "type": "PER"}, {"entity_text": "Emilio De Marchi", "type": "PER"}, {"entity_text": "Riccardo Selvatico", "type": "PER"}, {"entity_text": "Giovanni Bovio", "type": "PER"}, {"entity_text": "Luigi Rigutini", "type": "PER"}, {"entity_text": "Enrico Panzacchi", "type": "PER"}, {"entity_text": "Giuseppe Giacosa", "type": "PER"}, {"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Ma chi la onorò più di tutti per l' altezza dell' ingegno fu Giosuè Carducci, il più grande poeta di questo cinquantennio, al cui genio immortale rese omaggio il mondo intero.", "entities": [{"entity_text": "Giosuè Carducci", "type": "PER"}]}
+{"text": "Egli morì nel 1907.", "entities": []}
+{"text": "Anton Giulio Barrili, scrittore di romanzi assai belli, morì nel 1908, e nello stesso anno l' Italia perdette un altro illustre suo figlio, Edmondo De Amicis, l' autore di magnifici libri, che hanno per titolo Cuore, Bozzetti militari, la Spagna, il Marocco, Sull' Oceano, La carrozza di tutti, Alle porte d' Italia ecc.", "entities": [{"entity_text": "Anton Giulio Barrili", "type": "PER"}, {"entity_text": "Italia", "type": "ORG"}, {"entity_text": "Edmondo De Amicis", "type": "PER"}, {"entity_text": "Spagna", "type": "LOC"}, {"entity_text": "Marocco", "type": "LOC"}, {"entity_text": "Oceano", "type": "LOC"}, {"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Nel 1909 spirò Antonio Caccianiga, novelliere e romanziere squisito, e nel 1910 morirono Gerolamo Rovetta, romanziere e commediografo rinomato, e Paolo Mantegazza, letterato e scrittore di bellissimi libri d' igiene;", "entities": [{"entity_text": "Antonio Caccianiga", "type": "PER"}, {"entity_text": "Gerolamo Rovetta", "type": "PER"}, {"entity_text": "Paolo Mantegazza", "type": "PER"}]}
+{"text": "nel 1911 Antonio Fogazzaro, autore di apprezzatissimi romanzi e di belle poesie.", "entities": [{"entity_text": "Antonio Fogazzaro", "type": "PER"}]}
+{"text": "I letterati viventi, che più onorano l' Italia nostra, sono:", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "Giovanni Pascoli, poeta;", "entities": [{"entity_text": "Giovanni Pascoli", "type": "PER"}]}
+{"text": "Gabriele D' Annunzio, poeta, romanziere e drammaturgo;", "entities": [{"entity_text": "Gabriele D' Annunzio", "type": "PER"}]}
+{"text": "Ferdinando Martini, storico e commediografo;", "entities": [{"entity_text": "Ferdinando Martini", "type": "PER"}]}
+{"text": "Roberto Bracco, commediografo.", "entities": [{"entity_text": "Roberto Bracco", "type": "PER"}]}
+{"text": "Nella musica la maggior gloria italiana del cinquantennio fu Giuseppe Verdi( morto nel 1901) che dalla giovinezza aveva con le sue melodie destato gli entusiasmi patriottici e fin nella tarda vecchiaia tenne alto il nome del genio artistico italiano con opere celebri, che corsero il mondo.", "entities": [{"entity_text": "Giuseppe Verdi", "type": "PER"}]}
+{"text": "Musicisti meno di lui valenti ma tuttavia insigni furono il Pacini, morto nel 1867, il Petrella, morto nel 1897, il Ponchielli, morto nel 1886, il Marenco, morto nel 1899, il Coronaro, morto nel 1908.", "entities": [{"entity_text": "Pacini", "type": "PER"}, {"entity_text": "Petrella", "type": "PER"}, {"entity_text": "Ponchielli", "type": "PER"}, {"entity_text": "Marenco", "type": "PER"}, {"entity_text": "Coronaro", "type": "PER"}]}
+{"text": "Fra i viventi, i più celebri sono Arrigo Boito, Pietro Mascagni, Giacomo Puccini, Alberto Franchetti, Umberto Giordano, Ruggero Leoncavallo.", "entities": [{"entity_text": "Arrigo Boito", "type": "PER"}, {"entity_text": "Pietro Mascagni", "type": "PER"}, {"entity_text": "Giacomo Puccini", "type": "PER"}, {"entity_text": "Alberto Franchetti", "type": "PER"}, {"entity_text": "Umberto Giordano", "type": "PER"}, {"entity_text": "Ruggero Leoncavallo", "type": "PER"}]}
+{"text": "Nella pittura e nella scultura onorarono l' Italia:", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "i pittori Domenico Induno( morto nel 1878), Tranquillo Cremona( 1878), Gerolamo Induno( 1890), Filippo Palizzi( 1899), Domenico Morelli( 1901), Bartolomeo Giuliano( 1909), Alberto Pasini( 1900), Mosè Bianchi( 1904), Giacomo Favretto( 1887), Giovanni Segantini( 1899), Nicolò Barabino( 1891), Telemaco Signorini( 1901) e gli scultori Giovanni Duprè( 1882), Vincenzo Vela( 1891), Odoardo Tabacchi( 1905), Ercole Rosa( 1893).", "entities": [{"entity_text": "Domenico Induno", "type": "PER"}, {"entity_text": "Tranquillo Cremona", "type": "LOC"}, {"entity_text": "Gerolamo Induno", "type": "PER"}, {"entity_text": "Filippo Palizzi", "type": "PER"}, {"entity_text": "Domenico Morelli", "type": "PER"}, {"entity_text": "Bartolomeo Giuliano", "type": "PER"}, {"entity_text": "Alberto Pasini", "type": "PER"}, {"entity_text": "Mosè Bianchi", "type": "PER"}, {"entity_text": "Giacomo Favretto", "type": "PER"}, {"entity_text": "Giovanni Segantini", "type": "PER"}, {"entity_text": "Nicolò Barabino", "type": "PER"}, {"entity_text": "Telemaco Signorini", "type": "PER"}, {"entity_text": "Giovanni Duprè", "type": "PER"}, {"entity_text": "Vincenzo Vela", "type": "PER"}, {"entity_text": "Odoardo Tabacchi", "type": "PER"}, {"entity_text": "Ercole Rosa", "type": "PER"}]}
+{"text": "Fra i viventi i più rinomati sono:", "entities": []}
+{"text": "Ernesto Bazzaro, Urbano Nono, Giulio Monteverde, Antonio Dal Zotto, Augusto Rivalta, il Galloni, lo Zocchi, Ettore Ferrari, Vincenzo Gemito, i fratelli Jerace, Mario Rutelli, ecc.", "entities": [{"entity_text": "Ernesto Bazzaro", "type": "PER"}, {"entity_text": "Urbano Nono", "type": "PER"}, {"entity_text": "Giulio Monteverde", "type": "PER"}, {"entity_text": "Antonio Dal Zotto", "type": "PER"}, {"entity_text": "Augusto Rivalta", "type": "PER"}, {"entity_text": "Galloni", "type": "PER"}, {"entity_text": "Zocchi", "type": "PER"}, {"entity_text": "Ettore Ferrari", "type": "PER"}, {"entity_text": "Vincenzo Gemito", "type": "PER"}, {"entity_text": "Jerace", "type": "PER"}, {"entity_text": "Mario Rutelli", "type": "PER"}]}
+{"text": "Sbarcati a Civitavecchia e occupata Roma, i soldati francesi mossero contro i garibaldini e li sconfissero a Mentana in forza non tanto del valore dimostrato quanto di fucili di nuova invenzione, micidialissimi per quel tempo, di cui erano armati.", "entities": [{"entity_text": "Civitavecchia", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Mentana", "type": "LOC"}]}
+{"text": "Garibaldi fu costretto a rientrare nel regno e fu di nuovo arrestato e ricondotto a Caprera.", "entities": [{"entity_text": "Garibaldi", "type": "PER"}, {"entity_text": "Caprera", "type": "LOC"}]}
+{"text": "Questa breve e sfortunata campagna dei volontari e la condotta della Francia a nostro riguardo, accesero vie più gli animi sia contro l' ex alleato del 1859, che si opponeva così crudelmente alle nostre aspirazioni nazionali, sia contro il Governo italiano, che aveva dovuto, per ragion di cose, osteggiare la spedizione garibaldina ed era retto da uomini, per quanto onesti, non sempre all' altezza dei tempi.", "entities": [{"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Governo italiano", "type": "ORG"}]}
+{"text": "Il governo francese dichiarò nel dicembre 1867, e ripetè nel gennaio 1868, che « giammai la Francia avrebbe permesso che Roma fosse tolta al Papa », e propose che si tenesse un congresso europeo;", "entities": [{"entity_text": "governo francese", "type": "ORG"}, {"entity_text": "Francia", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "il che inasprì gli animi ancor più.", "entities": []}
+{"text": "Fortuna che l' Inghilterra dichiarò subito che « nessun ministro inglese avrebbe potuto partecipare a un congresso che mirasse a garantire al Papa il dominio temporale » e perciò il congresso non ebbe luogo.", "entities": [{"entity_text": "Inghilterra", "type": "LOC"}]}
+{"text": "Ma altre cause destavano il malcontento degli italiani:", "entities": []}
+{"text": "Il governo era stato costretto, per necessità di maggiori entrate, a inasprire le tasse, a imporne una su tutte le granaglie che venivano macinate, a cedere a una società la confezione e la vendita dei tabacchi, e ad altri provvedimenti.", "entities": []}
+{"text": "Nelle città si verificarono perciò tumulti di popolo, che si accentuarono quando giunse notizia che il governo pontificio aveva processato, condannato e fatto uccidere – presenti i Francesi in Roma – alcuni patrioti, che nel 1867 s' erano sollevati per liberare Roma dal dominio papale.", "entities": [{"entity_text": "governo pontificio", "type": "ORG"}, {"entity_text": "Roma", "type": "LOC"}, {"entity_text": "Roma", "type": "LOC"}]}
+{"text": "Un intermezzo lieto in queste ansie, furono le nozze del principe Umberto, primogenito di Vittorio Emanuele II, con la principessa Margherita sua cugina( 22 aprile 1868) da cui nasceva l' 11 novembre 1869 il principe Vittorio Emanuele, attuale Re d' Italia.", "entities": [{"entity_text": "Umberto", "type": "PER"}, {"entity_text": "Vittorio Emanuele II", "type": "PER"}, {"entity_text": "Margherita", "type": "PER"}, {"entity_text": "Vittorio Emanuele", "type": "PER"}, {"entity_text": "Italia", "type": "LOC"}]}
+{"text": "A Vittorio Emanuele II succedette il suo primogenito Umberto, che, col nome di Umberto Primo, regnò dal 9 gennaio 1878 al 29 luglio 1900.", "entities": [{"entity_text": "Vittorio Emanuele II", "type": "PER"}, {"entity_text": "Umberto", "type": "PER"}, {"entity_text": "Umberto Primo", "type": "PER"}]}
+{"text": "Uomo leale e di grande bontà, amico dei sofferenti e dei miseri, egli si meritò il titolo di Buono.", "entities": []}
+{"text": "Fu tuttavia fatto segno a tre attentati contro la sua vita:", "entities": []}
+{"text": "l' uno a Napoli nel 1878, da cui lo salvò Benedetto Cairoli;", "entities": [{"entity_text": "Napoli", "type": "LOC"}, {"entity_text": "Benedetto Cairoli", "type": "PER"}]}
+{"text": "l' altro a Roma nel 1897;", "entities": [{"entity_text": "Roma", "type": "LOC"}]}
+{"text": "il terzo a Monza il 29 luglio 1900, e questo, pur troppo, gli troncò la vita.", "entities": [{"entity_text": "Monza", "type": "LOC"}]}
+{"text": "Durante il regno di Umberto I fu stretta e rinnovata la Triplice Alleanza, fu abolita l' imposta sul macinato, si fecero parecchie leggi in favore dei lavoratori, si abolì la pena di morte, si costruirono molte strade ferrate, si riformarono molte leggi e venne incrementata la scuola.", "entities": [{"entity_text": "Umberto I", "type": "PER"}, {"entity_text": "Triplice Alleanza", "type": "ORG"}]}
+{"text": "Ma non furono pur troppo molti gli avvenimenti belli e gloriosi;", "entities": []}
+{"text": "non pochi invece i lutti, le difficoltà, i pericoli.", "entities": []}
+{"text": "Le relazioni con la Francia si inasprirono, a tutto danno del commercio delle due nazioni;", "entities": [{"entity_text": "Francia", "type": "ORG"}]}
+{"text": "morì Garibaldi( il 2 giugno 1882);", "entities": [{"entity_text": "Garibaldi", "type": "PER"}]}
+{"text": "le finanze della Nazione attraversarono gravi momenti;", "entities": []}
+{"text": "fu iniziata e si svolse la politica coloniale, che ci indusse a occupare terre africane e a sostenere guerre sanguinose e disastrose( nell' ultima, – 1896 – in una sola battaglia, perdemmo 10.", "entities": []}
+{"text": "0 soldati);", "entities": []}
+{"text": "si sofferse gravi disagi economici e fallimenti di banche;", "entities": []}
+{"text": "si lamentarono, a cagione della miseria, rivolte gravi in varie parti d' Italia, che condussero a repressioni sanguinose;", "entities": [{"entity_text": "Italia", "type": "LOC"}]}
+{"text": "il commercio e l' industria ebbero momenti difficili;", "entities": []}
+{"text": "l' emigrazione dei nostri contadini all' estero aumentò, a danno della nostra agricoltura.", "entities": []}
+{"text": "Allora io dissi che, se il Valino tornava, lo aspettavo.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Risposero insieme che delle volte tardava.", "entities": []}
+{"text": "Delle due quella che aveva legato il cane- era scalza e cotta dal sole e aveva addirittura un po' di pelo sulla bocca- mi guardava con gli occhi scuri e circospetti del Valino.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Era la cognata, quella che adesso dormiva con lui;", "entities": []}
+{"text": "standogli insieme era venuta a somigliargli", "entities": []}
+{"text": "Entrai nell' aia( di nuovo il cane si avventò), dissi ch' io su quell' aia c' ero stato bambino.", "entities": []}
+{"text": "Chiesi se il pozzo era sempre là dietro.", "entities": []}
+{"text": "La vecchia, seduta adesso sulla soglia, borbottò inquieta;", "entities": []}
+{"text": "l' altra si chinò e raccolse il rastrello caduto davanti all' uscio, poi gridò al ragazzo di guardare dalla riva se vedeva il Pa.", "entities": [{"entity_text": "Pa", "type": "PER"}]}
+{"text": "Allora dissi che non ce n' era bisogno, passavo là sotto e mi era venuta voglia di rivedere la casa dov' ero cresciuto, ma conoscevo tutti i beni, la riva fino al noce, e potevo girarli da solo, trovarci uno.", "entities": []}
+{"text": "Poi chiesi:", "entities": []}
+{"text": "- E cos' ha questo ragazzo?", "entities": []}
+{"text": "è caduto su una zappa?", "entities": []}
+{"text": "Le due donne guardarono da me a lui, che si mise a ridere- rideva senza far voce e serrò subito gli occhi.", "entities": []}
+{"text": "Conoscevo questo gioco anch' io.", "entities": []}
+{"text": "Dissi:", "entities": []}
+{"text": "- Cos' hai?", "entities": []}
+{"text": "come ti chiami?", "entities": []}
+{"text": "Mi rispose la magra cognata.", "entities": []}
+{"text": "Disse che il medico aveva guardato la gamba di Cinto quell' anno ch' era morta Mentina, quando stavano ancora all' Orto- Mentina era in letto che esclamava e il dottore il giorno prima che morisse le aveva detto che questo qui non aveva le ossa buone per colpa di lei.", "entities": [{"entity_text": "Cinto", "type": "PER"}, {"entity_text": "Mentina", "type": "PER"}, {"entity_text": "Mentina", "type": "PER"}]}
+{"text": "Mentina gli aveva risposto che gli altri figli ch' eran morti soldati erano sani, ma che questo era nato cosí, lei lo sapeva che quel cane arrabbiato che voleva morderla le avrebbe fatto perdere anche il latte.", "entities": [{"entity_text": "Mentina", "type": "PER"}]}
+{"text": "Il dottore l' aveva strapazzata, aveva detto che non era mica il latte, ma le fascine, andare scalza nella pioggia, mangiare ceci e polenta, portar ceste.", "entities": []}
+{"text": "Bisognava pensarci prima, aveva detto il dottore, ma adesso non c' era piú tempo.", "entities": []}
+{"text": "E Mentina aveva detto che intanto gli altri erano venuti sani, e l' indomani era morta.", "entities": [{"entity_text": "Mentina", "type": "PER"}]}
+{"text": "Il ragazzo ci ascoltava appoggiato al muro, e mi accorsi che non era che ridesse- aveva le mascelle sporgenti e i denti radi e quella crosta sotto l' occhio-, sembrava che ridesse, e stava invece attento.", "entities": []}
+{"text": "Dissi alle donne:", "entities": []}
+{"text": "- Allora vado a cercare il Valino-.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Volevo starmene solo.", "entities": []}
+{"text": "Ma le donne gridarono al ragazzo:", "entities": []}
+{"text": "- Muoviti.", "entities": []}
+{"text": "Va' a vedere anche tu.", "entities": []}
+{"text": "Cosí mi misi per il prato e costeggiai la vigna, che tra i fì lari adesso era a stoppia di grano, cotta dal sole.", "entities": []}
+{"text": "Per quanto dietro la vigna, invece dell' ombra nera dei noccioli, la costa fosse una meliga bassa, tanto che l' occhio ci spaziava, quella campagna era ben minuscola, un fazzoletto.", "entities": []}
+{"text": "Cinto mi zoppicava dietro e in un momento fummo al noce.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Mi parve impossibile di averci tanto girato e giocato, di lí alla strada, di esser sceso nella riva a cercare le noci o le mele cadute, aver passato pomeriggi intieri con la capra e con le ragazze su quell' erba, avere aspettato nelle giornate d' inverno un po' di sereno per poterci tornare- neanche se questo fosse stato un paese intiero, il mondo.", "entities": []}
+{"text": "Se di qui non fossi uscito per caso a tredici anni, quando Padrino era andato a stare a Cossano, ancor adesso farei la vita del Valino, o di Cinto.", "entities": [{"entity_text": "Padrino", "type": "PER"}, {"entity_text": "Cossano", "type": "LOC"}, {"entity_text": "Valino", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Come avessimo potuto cavarci da mangiare, era un mistero.", "entities": []}
+{"text": "Allora rosicchiavamo delle mele, delle zucche, dei ceci.", "entities": []}
+{"text": "La Virgilia riusciva a sfamarci.", "entities": [{"entity_text": "Virgilia", "type": "PER"}]}
+{"text": "Ma adesso capivo la faccia scura del Valino che lavorava lavorava e ancora doveva spartire.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Se ne vedevano i frutti- quelle donne inferocite, quel ragazzo storpio.", "entities": []}
+{"text": "Chiesi a Cinto se i noccioli li aveva ancora conosciuti.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Piantato sul piede sano, mi guardò incredulo, e mi disse che in fondo alla riva ce n' era ancora qualche pianta.", "entities": []}
+{"text": "Voltandomi a parlare, avevo visto sopra le viti la donna nera che ci osservava dall' aia.", "entities": []}
+{"text": "Mi vergognai del mio vestito, della camicia, delle scarpe.", "entities": []}
+{"text": "Da quanto tempo non andavo piú scalzo?", "entities": []}
+{"text": "Per convincere Cinto che un tempo ero stato anch' io come lui, non bastava che gli parlassi cosí di Gaminella.", "entities": [{"entity_text": "Cinto", "type": "PER"}, {"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "Per lui Gaminella era il mondo e tutti gliene parlavano cosi.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "Che cosa avrei detto ai miei tempi se mi fosse comparso davanti un omone come me e io l' avessi accompagnato nei beni?", "entities": []}
+{"text": "Ebbi un momento l' illusione che a casa mi aspettassero le ragazze e la capra e che a loro avrei raccontato glorioso il grande fatto.", "entities": []}
+{"text": "Adesso Cinto mi veniva dietro interessato.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Lo portai fino in fondo alla vigna.", "entities": []}
+{"text": "Non riconobbi piú i filari;", "entities": []}
+{"text": "gli chiesi chi aveva fatto il trapianto.", "entities": []}
+{"text": "Lui cianciava, si dava importanza, mi disse che la madama della Villa era venuta solo ieri a raccogliere i pomodori.", "entities": []}
+{"text": "- Ve ne ha lasciati?", "entities": []}
+{"text": "- chiesi.", "entities": []}
+{"text": "- Noi li avevamo già raccolti,- mi disse.", "entities": []}
+{"text": "Dov' eravamo, dietro la vigna, c' era ancora dell' erba, la conca fresca della capra, e la collina continuava sul nostro capo.", "entities": []}
+{"text": "Gli feci dire chi abitava nelle case lontane, gli raccontai chi ci stava una volta, quali cani avevano, gli dissi che allora eravamo tutti ragazzi.", "entities": []}
+{"text": "Lui mi ascoltava e mi diceva che qualcuno ce n' era ancora.", "entities": []}
+{"text": "Poi gli chiesi se c' era sempre quel nido dei fringuelli sull' albero che spuntava ai nostri piedi dalla riva.", "entities": []}
+{"text": "Gli chiesi se andava mai nel Belbo a pescare con la cesta.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Era strano come tutto fosse cambiato eppure uguale.", "entities": []}
+{"text": "Nemmeno una vite era rimasta delle vecchie, nemmeno una bestia;", "entities": []}
+{"text": "adesso i prati erano stoppie e le stoppie filari, la gente era passata, cresciuta, morta;", "entities": []}
+{"text": "le radici franate, travolte in Belbo- eppure a guardarsi intorno, il grosso fianco di Gaminella, le stradette lontane sulle colline del Salto, le aie, i pozzi, le voci, le zappe, tutto era sempre uguale, tutto aveva quell' odore, quel gusto, quel colore d' allora.", "entities": [{"entity_text": "Belbo", "type": "LOC"}, {"entity_text": "Gaminella", "type": "LOC"}, {"entity_text": "Salto", "type": "LOC"}]}
+{"text": "Gli feci dire se sapeva i paesi intorno.", "entities": []}
+{"text": "Se era mai stato a Canelli.", "entities": [{"entity_text": "Canelli", "type": "LOC"}]}
+{"text": "C' era stato sul carro quando il Pa era andato a vendere l' uva da Gancia.", "entities": [{"entity_text": "Pa", "type": "PER"}, {"entity_text": "Gancia", "type": "PER"}]}
+{"text": "E certi giorni traversavano Belbo coi ragazzi del Piola e andavano sulla ferrata a veder passare il treno.", "entities": [{"entity_text": "Belbo", "type": "LOC"}, {"entity_text": "Piola", "type": "LOC"}]}
+{"text": "Gli raccontai che ai miei tempi questa valle era piú grande, c' era gente che la girava in carrozza e gli uomini avevano la catena d' oro al gilè e le donne del paese, della Stazione, portavano il parasole.", "entities": []}
+{"text": "Gli raccontai che facevano delle feste- dei matrimoni, dei battesimi, delle Madonne- e venivano da lontano, dalla punta delle colline, venivano i suonatori, i cacciatori, i sindaci.", "entities": []}
+{"text": "C' erano delle case- palazzine, come quella del Nido sulla collina di Canelli- che avevano delle stanze dove stavano in quindici, in venti, come all’ albergo dell' Angelo, e mangiavano, suonavano tutto il giorno.", "entities": [{"entity_text": "Canelli", "type": "LOC"}, {"entity_text": "Angelo", "type": "LOC"}]}
+{"text": "Anche noi ragazzi in quei giorni facevamo delle feste sulle aie, e giocavamo, d' estate, alla settimana;", "entities": []}
+{"text": "d' inverno, alla trottola sul ghiaccio.", "entities": []}
+{"text": "La settimana si faceva saltando su una gamba sola, come stava lui, su delle righe di sassolini senza toccare i sassolini.", "entities": []}
+{"text": "I cacciatori dopo la vendemmia giravano le colline, i boschi, andavano su da Gaminella, da San Grato, da Camo, tornavano infangati, morti, ma carichi di pernici, di lepri, di selvaggina.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}, {"entity_text": "San Grato", "type": "LOC"}, {"entity_text": "Camo", "type": "LOC"}]}
+{"text": "Noi dal casotto li vedevamo passare e poi fino a notte, nelle case del paese, si sentiva far festa, e nella palazzina del Nido laggiú- allora si vedeva, non c' erano quegli alberi- tutte le finestre facevano luce, sembrava il fuoco, e si vedevano passare le ombre degli invitati fino al mattino.", "entities": []}
+{"text": "Cinto ascoltava a bocca aperta, con la sua crosta sotto l' occhio, seduto contro la sponda- Ero un ragazzo come te,- gli dissi,- e stavo qui con Padrino, avevamo una capra.", "entities": [{"entity_text": "Cinto", "type": "PER"}, {"entity_text": "Padrino", "type": "PER"}]}
+{"text": "Io la portavo in pastura.", "entities": []}
+{"text": "D' inverno quando non passavano piú i cacciatori era brutto, perché non si poteva neanche andare nella riva, tant' acqua e galaverna che c' era, e una volta- adesso non ci sono piú- da Gaminella scendevano i lupi che nei boschi non trovavano piú da mangiare, e la mattina vedevamo i loro passi sulla neve.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "Sembrano di cane ma sono piú profondi.", "entities": []}
+{"text": "Io dormivo nella stanza là dietro con le ragazze e sentivamo di notte il lupo lamentarsi che aveva freddo nella riva ...- Nella riva l' altr' anno c' era un morto,- disse Cinto.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Mi fermai.", "entities": []}
+{"text": "Chiesi che morto.", "entities": []}
+{"text": "- Un tedesco,- mi disse.", "entities": []}
+{"text": "- Che l' avevano sepolto i partigiani in Gaminella.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "Era tutto scorticato ...- Cosí vicino alla strada?", "entities": []}
+{"text": "- dissi.", "entities": []}
+{"text": "- No, veniva da lassú, nella riva.", "entities": []}
+{"text": "L' acqua l' ha portato in basso e il Pa l' ha trovato sotto il fango e le pietre ... Intanto dalla riva veniva lo schianto di una roncola contro il legno, e a ogni colpo Cinto batteva le ciglia.", "entities": [{"entity_text": "Pa", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}]}
+{"text": "- È il Pa,- disse,- è qui sotto.", "entities": [{"entity_text": "Pa", "type": "PER"}]}
+{"text": "Io gli chiesi perché prima teneva chiusi gli occhi mentre io lo guardavo e le donne parlavano.", "entities": []}
+{"text": "Subito li richiuse d' istinto, e negò di averlo fatto.", "entities": []}
+{"text": "Mi misi a ridere e gli dissi che facevo anch' io questo gioco quand' ero ragazzo- cosí vedevo solamente le cose che volevo e quando poi riaprivo gli occhi mi divertivo a ritrovare le cose com' erano.", "entities": []}
+{"text": "Allora scoprí i denti contento e disse che facevano cosí anche i conigli.", "entities": []}
+{"text": "- Quel tedesco,- dissi,- sarà stato tutto mangiato dalle formiche.", "entities": []}
+{"text": "Un urlo della donna dall' aia, che chiamava Cinto, voleva Cinto, malediceva Cinto, ci fece sorridere.", "entities": [{"entity_text": "Cinto", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Si sente spesso questa voce sulle colline.", "entities": []}
+{"text": "- Non si capiva piú come l' avevano ammazzato,- disse lui.", "entities": []}
+{"text": "- È stato sottoterra due inverni", "entities": []}
+{"text": "Quando franammo tra le foglie grasse, i rovi e la menta del fondo, il Valino alzò appena la testa.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Stava troncando con la roncola sul capitozzo i rami rossi d' un salice.", "entities": []}
+{"text": "Come sempre, mentre fuori era agosto, quaggiú faceva freddo, quasi scuro.", "entities": []}
+{"text": "Qui la riva una volta portava dell' acqua, che d' estate faceva pozza.", "entities": []}
+{"text": "Gli chiesi dove metteva i salici a stagionare, quest' anno ch' era cosí asciutto.", "entities": []}
+{"text": "Lui si chinò a far su il fastello, poi cambiò idea.", "entities": []}
+{"text": "Rimase a guardarmi, rincalzando col piede i rami e attaccandosi dietro i calzoni la roncola.", "entities": []}
+{"text": "Aveva quei calzoni e quel cappello inzaccherati, quasi celesti, che si mettono per dare il verderame.", "entities": []}
+{"text": "- C' è un' uva bella quest' anno,- gli dissi,- manca solo un po' d' acqua.", "entities": []}
+{"text": "- Qualcosa manca sempre,- disse il Valino.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "- Aspettavo Nuto per quella tina.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Non viene?", "entities": []}
+{"text": "Allora gli spiegai ch' ero passato per caso da Gaminella e avevo voluto rivedere la campagna.", "entities": [{"entity_text": "Gaminella", "type": "LOC"}]}
+{"text": "Non la conoscevo piú, tant' era stata lavorata.", "entities": []}
+{"text": "La vigna era nuova di tre anni, no?", "entities": []}
+{"text": "E in casa- gli chiesi- anche in casa ci avevano lavorato?", "entities": []}
+{"text": "Quando ci stavo io, c' era il camino che non tirava piú- l’ avevano poi rotto quel muro?", "entities": []}
+{"text": "Il Valino mi disse che in casa stavano le donne.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Loro, ci devono pensare.", "entities": []}
+{"text": "Guardò su per la riva in mezzo alle foglioline delle albere.", "entities": []}
+{"text": "Disse che la campagna era come tutte le campagne, per farla fruttare ci sarebbero volute delle braccia che non c' erano piú.", "entities": []}
+{"text": "Allora parlammo della guerra e dei morti.", "entities": []}
+{"text": "Dei figli non disse niente.", "entities": []}
+{"text": "Borbottò.", "entities": []}
+{"text": "Quando parlai dei partigiani e dei tedeschi, alzò le spalle.", "entities": []}
+{"text": "Disse che allora stava all’ Orto e aveva visto bruciare la casa del Ciora.", "entities": [{"entity_text": "Ciora", "type": "PER"}]}
+{"text": "Per un anno piú nessuno aveva fatto niente in campagna, e se tutti quegli uomini se ne fossero invece tornati a casa- i tedeschi a casa loro, i ragazzi sui beni-, sarebbe stato un guadagno.", "entities": []}
+{"text": "Che facce, che gente- tanta gente forestiera non s' era mai vista, neanche sulle fiere di quand' era giovanotto.", "entities": []}
+{"text": "Cinto stava a sentirci, a bocca aperta.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Chi sa quanti, dissi, ce n' erano ancora sepolti nei boschi.", "entities": []}
+{"text": "Il Valino mi guardò con la faccia scura- gli occhi torbidi, duti.", "entities": []}
+{"text": "- Ce n' è,- disse,- ce n' è.", "entities": []}
+{"text": "Basta aver tempo di cercarli-.", "entities": []}
+{"text": "Non mise disgusto nella voce, né pietà.", "entities": []}
+{"text": "Sembrava parlasse di andare a funghi, o a fascine.", "entities": []}
+{"text": "Si animò per un momento, poi disse:", "entities": []}
+{"text": "- Non hanno fruttato da vivi.", "entities": []}
+{"text": "Non fruttano da morti.", "entities": []}
+{"text": "Ecco, pensai, Nuto gli darebbe dell' ignorante, del tapino, gli chiederebbe se il mondo dev' essere sempre com' era una volta.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Nuto che aveva visto tanti paesi e sapeva le miserie di tutti qui;", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "intorno, Nuto non avrebbe mai chiesto se quella guerra era servita a qualcosa.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Bisognava farla, era stato un destino cosí.", "entities": []}
+{"text": "Nuto l' ha molto quest' idea che una cosa che deve succedere interessa a tutti quanti, che il mondo è mal fatto e bisogna rifarlo.", "entities": [{"entity_text": "Nuto", "type": "PER"}]}
+{"text": "Il Valino non mi disse se salivo con lui a bere un bicchiere.", "entities": [{"entity_text": "Valino", "type": "PER"}]}
+{"text": "Raccolse il fastello dei salici e chiese a Cinto se era andato a far l' erba.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Cinto, scostandosi, guardava a terra e non rispose.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Allora il Valino fece un passo e con la mano libera menò un salice a frustata e Cinto saltò via e il Valino incespicò e si drizzò.", "entities": [{"entity_text": "Valino", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}, {"entity_text": "Valino", "type": "PER"}]}
+{"text": "Cinto, in fondo alla riva, adesso lo guardava.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Senza parlare, il vecchio s' incamminò per la costa, coi salici in braccio.", "entities": []}
+{"text": "Non si voltò nemmeno quando fu in cima.", "entities": []}
+{"text": "Mi parve d' essere un ragazzo venuto a giocare con Cinto, e che il vecchio avesse menato a lui non potendo prendersela con me.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Io e Cinto ci guardammo ridendo, senza parlare.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Scendemmo la riva sotto la volta fredda degli alberi, ma bastava passare nelle pozze scoperte, al sole, per sentire l' afa e il sudore.", "entities": []}
+{"text": "Io studiavo la parete di tufo, quella di fronte al nostro prato, che sosteneva la vigna del Morone.", "entities": [{"entity_text": "Morone", "type": "PER"}]}
+{"text": "Si vedevano in cima, sopra i rovi, sporgere le prime viti chiare e un bell' albero di pesco con certe foglie già rosse come quello che c' era ai miei tempi e qualche pesca cadeva allora nella riva e ci sembrava piú buona delle nostre.", "entities": []}
+{"text": "Queste piante di mele, di pesche, che d' estate hanno foglie rosse o gialle, mi mettono gola ancora adesso, perché la foglia sembra un frutto maturo e uno si fa sotto, felice.", "entities": []}
+{"text": "Per me tutte le piante dovrebbero essere a frutto;", "entities": []}
+{"text": "nella vigna è cosí.", "entities": []}
+{"text": "Con Cinto parlavamo dei giocatori di pallone, poi di quelli di carte;", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "e arrivammo alla strada, sotto il muretto della riva, in mezzo alle gaggie.", "entities": []}
+{"text": "Cinto aveva già visto un mazzo di carte in mano a uno che teneva banco in piazza e mi disse che aveva a casa un due di picche e un re di cuori che qualcuno aveva perduto sullo stradone.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Erano un po' sporche ma buone e se avesse poi trovato anche le altre potevano servire.", "entities": []}
+{"text": "Io gli dissi che c' era di quelli che giocavano per vivere e si giocavano le case e le terre.", "entities": []}
+{"text": "Ero stato in un paese, gli dissi, dove si giocava con la pila dei marenghi d' oro sul tavolo e la pistola nel gilè.", "entities": []}
+{"text": "E anche da noi una volata, quand' ero ragazzo, i padroni delle cascine, quando avevano venduta l' uva o il grano, attaccavano il cavallo e partivano sul fresco, andavano a Nizza, a Acqui, coi sacchetti di marenghi e giocavano tutta la notte, giocavano i marenghi, poi i boschi, poi i prati, poi la cascina, e il mattino dopo li trovavano morti sul letto dell’ osteria, sotto il quadro della Madonna e il ramulivo.", "entities": [{"entity_text": "Nizza", "type": "LOC"}, {"entity_text": "Acqui", "type": "LOC"}]}
+{"text": "Oppure partivano sul biroccio e piú nessuno ne sapeva niente.", "entities": []}
+{"text": "Qualcuno si giocava anche la moglie, e cosí i bambini restavano soli, li cacciavano di casa, e sono questi che si chiamano i bastardi.", "entities": []}
+{"text": "- Il figlio del Maurino,- disse Cinto,- è un bastardo.", "entities": [{"entity_text": "Maurino", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}]}
+{"text": "- C' è chi li raccoglie,- gli dissi,- è sempre la povera gente che raccoglie i bastardi.", "entities": []}
+{"text": "Si vede che il Maurino aveva bisogno di un ragazzo ...- Se glielo dicono, s' arrabbia,- disse Cinto.", "entities": [{"entity_text": "Maurino", "type": "PER"}, {"entity_text": "Cinto", "type": "PER"}]}
+{"text": "- Non devi dirglielo.", "entities": []}
+{"text": "Che colpa hai tu se tuo padre ti dà via?", "entities": []}
+{"text": "Basta che hai voglia di lavorare.", "entities": []}
+{"text": "Ho conosciuto dei bastardi che hanno comprato delle cascine.", "entities": []}
+{"text": "Eravamo sbucati dalla riva e Cinto, trottandomi avanti, s' era seduto sul muretto.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Dietro le albere dall' altra parte della strada c' era il Belbo.", "entities": [{"entity_text": "Belbo", "type": "LOC"}]}
+{"text": "Era qui che uscivamo a giocare, dopo che la capra ci aveva portati in giro tutto il pomeriggio per le coste e le rive.", "entities": []}
+{"text": "I sassolini della strada erano ancora gli stessi, e i fusti freschi delle albere avevano odore d’ acqua corrente.", "entities": []}
+{"text": "- Non vai a fare l' erba per i conigli?", "entities": []}
+{"text": "- dissi.", "entities": []}
+{"text": "Cinto mi disse che ci andava.", "entities": [{"entity_text": "Cinto", "type": "PER"}]}
+{"text": "Allora m' incamminai e fino alla svolta mi sentii quegli occhi addosso dal canneto.", "entities": []}
