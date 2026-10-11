@@ -12,10 +12,12 @@ matplotlib
 seaborn
 
 # Hugging Face
-datasets
-transformers
-tokenizers
+datasets==2.21.0
+transformers==4.46.3
+tokenizers==0.20.3
+huggingface-hub==0.26.2
 accelerate
+sentencepiece
 
 # Deep Learning
 torch
@@ -25,3 +27,6 @@ seqeval
 
 # Utilities
 scikit-learn
+
+# File system compatibility
+fsspec<=2026.7.0
