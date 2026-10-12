@@ -1,2 +1,28 @@
-models
-src/__pycache__
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Project-generated artifacts
+models/
+evaluation_output/
+
+# LaTeX build artifacts (keep only the source .tex/.bib files)
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.fdb_latexmk
+report/*.fls
+report/*.lof
+report/*.log
+report/*.lot
+report/*.nlo
+report/*.out
+report/*.pdf
+report/*.synctex.gz
+report/*.toc
+report/*.gz
+
+# Editor/system noise
+.DS_Store
