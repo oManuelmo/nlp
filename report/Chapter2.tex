@@ -2,9 +2,7 @@
 \section{The dataset}
 \label{sec:dataset}
 
-FALTA FALAR DO TIPO DE FICHEIRO E MOSTRAR UM EXEMPLO DE UMA FRASE
-
-The experiments in this project use the NERMuD 2023 dataset, developed as part of the EVALITA 2023 evaluation campaign for Italian Natural Language Processing. The dataset focuses on Named Entity Recognition across different types of Italian text, covering three entity categories: persons, organizations, and locations \cite{palmeroaprosio2023nermud}.
+The experiments in this project use the NERMuD 2023 dataset, developed as part of the EVALITA 2023 evaluation campaign for Italian Natural Language Processing (available on \href{https://huggingface.co/datasets/evalitahf/entity_recognition}{Hugging Face}). The dataset focuses on Named Entity Recognition across different types of Italian text, covering three entity categories: persons, organizations, and locations \cite{palmeroaprosio2023nermud}.
 
 The dataset contains documents from three domains: Wikinews (WN), fiction (FIC), and writings and speeches by Alcide De Gasperi (ADG). These domains represent different writing styles and contexts, providing a basis for evaluating NER systems across different types of text.
 
@@ -13,11 +11,13 @@ Wikinews contains journalistic texts, fiction consists of excerpts from Italian 
 \subsection{Dataset Organization}
 \label{subsec:data-org}
 
-The NERMuD 2023 dataset is organized into multiple files according to their domain and purpose. Each domain is divided into training, development, and test subsets. In this project, the corresponding subsets from the three domains are combined to create a single training set, a single development set, and a single test set. The domain information is retained to support further analysis of model performance across domains.
+The NERMuD 2023 dataset is organized into multiple JSONL files according to their domain and purpose. Each domain is divided into training, development, and test subsets. In this project, the corresponding subsets from the three domains are combined to create a single training set, a single development set, and a single test set. The domain information is retained to support further analysis of model performance across domains.
+
+The training set is used to fine-tune the models, while the development set is used to monitor their performance during training and select the best model checkpoint. The test set is reserved for the final evaluation, allowing the performance of both models to be compared on data that was not used for training or model selection.
 
 Table~\ref{tab:dataset-splits} presents the number of examples in each subset.
 
-\begin{table}[htbp]
+\begin{table}[H]
     \centering
     \caption{Number of examples in each NERMuD 2023 data split.}
     \label{tab:dataset-splits}
@@ -34,7 +34,14 @@ Table~\ref{tab:dataset-splits} presents the number of examples in each subset.
     \end{tabular}
 \end{table}
 
-The training set is used to fine-tune the models, while the development set is used to monitor their performance during training and select the best model checkpoint. The test set is reserved for the final evaluation, allowing the performance of both models to be compared on data that was not used for training or model selection.
+Each dataset entry contains the original text and a list of annotated named entities. Each entity is represented by its text span and entity type. For example, the following JSON entry contains a sentence in Italian in which extit{Trentino} is annotated as a location (exttt{LOC}):
+
+\begin{verbatim}
+{"text": "Nel nostro Trentino attraversiamo un momento storico importante.
+", "entities": [{"entity_text": "Trentino","type": "LOC"}]}
+\end{verbatim}
+
+This example illustrates how named entities are associated with their corresponding text and labels in the dataset.
 
 \subsection{Entity Categories and Annotation Scheme}
 \label{subsec:ent-cat}
