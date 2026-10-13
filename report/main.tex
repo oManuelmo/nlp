@@ -257,6 +257,8 @@
 \newcommand{\ThesisTitle}{Italian Named Entity Recognition with Transformer Models: A Comparative Evaluation of UmBERTo and XLM-RoBERTa on the NERMuD 2023 Benchmark}
 \newcommand{\CourseUniversity}{Natural Language Processing, Computer Science, University of Bologna}
 
+\newcommand{\origcleardoublepage}{}
+
 \setlength{\headheight}{14pt}
 
 % ===============================
@@ -316,31 +318,30 @@
 	\label{abstract_Eng}
 	\input{Abstract_Eng.tex}
 	\clearpage
-		
 	
 	%table of contents
     \tableofcontents
     \thispagestyle{chapterstar}
     \clearpage
     \pagestyle{fancy}
-    \cleardoublepage
 
     \addcontentsline{toc}{chapter}{List of Figures}
 	\listoffigures
     \thispagestyle{chapterstar}
-	\clearpage{\pagestyle{empty}\cleardoublepage}
+	\clearpage
 
     \listoftables
     \thispagestyle{chapterstar}
     \addcontentsline{toc}{chapter}{List of Tables}
-    \clearpage{\pagestyle{empty}\cleardoublepage}
+    \clearpage
 
-    \chapter*{Nomenclature}
-    \addcontentsline{toc}{chapter}{Nomenclature}
+    \let\origcleardoublepage\cleardoublepage
+    \let\cleardoublepage\clearpage
+    \chapter*{Acronyms}
+    \addcontentsline{toc}{chapter}{Acronyms}
     \thispagestyle{chapterstar}
-	\label{Nomencla}
-	\input{Nomenclature}
-    \clearpage{\pagestyle{empty}\cleardoublepage}
+	\label{Acronyms}
+	\input{Acronyms}
 
     \mainmatter 
     \pagestyle{chapternum}
@@ -353,6 +354,9 @@
     \thispagestyle{chapterplain}
 	\label{chap:introduction}
 	\input{Chapter1.tex}
+
+    \let\cleardoublepage\origcleardoublepage
+
 	\clearpage{\pagestyle{empty}\cleardoublepage}
 		
 			

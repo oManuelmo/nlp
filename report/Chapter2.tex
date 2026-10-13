@@ -1,33 +1,92 @@
-\section{Problem Formulation}
-\label{sec:problem-formulation}
 
-    \subsection{Formal Definition}
-    \label{subsec:formal-definition}
+\section{The dataset}
+\label{sec:dataset}
 
-    \subsection{Assumptions and Constraints}
-    \label{subsec:assumptions}
+FALTA FALAR DO TIPO DE FICHEIRO E MOSTRAR UM EXEMPLO DE UMA FRASE
+
+The experiments in this project use the NERMuD 2023 dataset, developed as part of the EVALITA 2023 evaluation campaign for Italian Natural Language Processing. The dataset focuses on Named Entity Recognition across different types of Italian text, covering three entity categories: persons, organizations, and locations \cite{palmeroaprosio2023nermud}.
+
+The dataset contains documents from three domains: Wikinews (WN), fiction (FIC), and writings and speeches by Alcide De Gasperi (ADG). These domains represent different writing styles and contexts, providing a basis for evaluating NER systems across different types of text.
+
+Wikinews contains journalistic texts, fiction consists of excerpts from Italian literary works, and the ADG domain contains political writings and speeches. These differences are relevant to NER because the frequency, distribution, and context of named entities may vary between domains.
+
+\subsection{Dataset Organization}
+\label{subsec:data-org}
+
+The NERMuD 2023 dataset is organized into multiple files according to their domain and purpose. Each domain is divided into training, development, and test subsets. In this project, the corresponding subsets from the three domains are combined to create a single training set, a single development set, and a single test set. The domain information is retained to support further analysis of model performance across domains.
+
+Table~\ref{tab:dataset-splits} presents the number of examples in each subset.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Number of examples in each NERMuD 2023 data split.}
+    \label{tab:dataset-splits}
+    \begin{tabular}{lrrr}
+        \hline
+        \textbf{Domain} & \textbf{Train} & \textbf{Dev} & \textbf{Test} \\
+        \hline
+        Wikinews (WN) & 10,912 & 2,594 & 2,088 \\
+        Fiction (FIC) & 11,423 & 1,051 & 1,517 \\
+        Alcide De Gasperi (ADG) & 5,147 & 1,122 & 521 \\
+        \hline
+        \textbf{Total} & \textbf{27,482} & \textbf{4,767} & \textbf{4,126} \\
+        \hline
+    \end{tabular}
+\end{table}
+
+The training set is used to fine-tune the models, while the development set is used to monitor their performance during training and select the best model checkpoint. The test set is reserved for the final evaluation, allowing the performance of both models to be compared on data that was not used for training or model selection.
+
+\subsection{Entity Categories and Annotation Scheme}
+\label{subsec:ent-cat}
+
+The dataset contains three named entity categories: persons (PER), organizations (ORG), and locations (LOC). These categories identify people, institutions or other organizations, and geographical places, respectively.
+
+The original annotations follow the Inside-Outside-Beginning (IOB) tagging scheme, commonly referred to as BIO. In this scheme, each token receives a label indicating whether it belongs to a named entity and, if so, whether it begins the entity or continues it. The labels used in this project are:
+
+\begin{itemize}
+\item \texttt{B-PER}, \texttt{B-ORG}, and \texttt{B-LOC}: the first token of a person, organization, or location entity.
+\item \texttt{I-PER}, \texttt{I-ORG}, and \texttt{I-LOC}: subsequent tokens belonging to the corresponding entity.
+\item \texttt{O}: a token that does not belong to any named entity.
+\end{itemize}
+
+For example, the sentence ``Umberto Guidoni visited Rome'' can be annotated as follows:
+
+\begin{table}[htbp]
+    \centering
+    \caption{Example of BIO annotation.}
+    \label{tab}
+    \begin{tabular}{ll}
+        \hline
+        \textbf{Token} & \textbf{Label} \\
+        \hline
+        Umberto & B-PER \\
+        Guidoni & I-PER \\
+        visited & O \\
+        Rome & B-LOC \\
+        \hline
+    \end{tabular}
+\end{table}
+
+This representation allows the models to perform token-level classification while preserving information about the boundaries and categories of named entities.
 
 
-\section{Proposed Approach}
-\label{sec:proposed-approach}
+\section{Data Preprocessing}
+\label{sec:preprocessing}
 
-    \subsection{System Architecture}
-    \label{subsec:architecture}
+Before training, the dataset is processed to ensure that the text tokens and their corresponding entity labels are correctly aligned. The original annotations are converted into a consistent representation containing the text tokens, their BIO labels, and their domain.
 
-    \subsection{Algorithm Design}
-    \label{subsec:algorithm}
+The preprocessing procedure includes tokenizing the text, locating the annotated entities, and assigning the appropriate BIO labels to the corresponding tokens. Particular attention is given to multi-word entities, whose first token receives a beginning label and whose subsequent tokens receive continuation labels.
 
-    \subsection{Mathematical Formulation}
-    \label{subsec:math-formulation}
+Whitespace and punctuation differences can make it difficult to match annotated entity strings exactly to their occurrences in the original text. To address these cases, normalized matching is used as a fallback when an exact match cannot be found. This procedure helps align the annotations without unnecessarily modifying the original text.
 
-\section{Implementation Details}
-\label{sec:implementation}
+After preprocessing, the resulting data is stored in a structured format for use in the subsequent training and evaluation stages. The same processed dataset splits are used for both models to maintain consistency in the experimental setup.
 
-    \subsection{Software and Hardware Setup}
-    \label{subsec:setup}
+\section{Experimental Setup}
+\label{sec:experimental-setup}
 
-    \subsection{Data Preprocessing}
-    \label{subsec:preprocessing}
+Two pretrained Transformer-based language models are evaluated: UmBERTo and XLM-RoBERTa. Both models are fine-tuned for token-level classification using the BIO labels described above.
 
-    \subsection{Model Training and Optimization}
-    \label{subsec:training}
+The experiments use the same training, development, and test splits. The development set is used to monitor performance and select the best checkpoint, whereas the test set is reserved for the final comparison. Keeping the data splits and evaluation procedure consistent helps ensure that differences in performance can be compared meaningfully.
+
+The following chapter presents the experimental results and discusses the performance of the two models.
+
