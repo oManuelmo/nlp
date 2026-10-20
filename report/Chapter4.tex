@@ -1,0 +1,20 @@
+This project investigated the performance of two pretrained Transformer models on Italian Named Entity Recognition: UmBERTo, an Italian-specific model, and XLM-RoBERTa, a multilingual model. Both models were fine-tuned on the NERMuD 2023 dataset under comparable experimental conditions, with the same data splits, the same effective batch size, the same learning rate, and the same evaluation procedure.
+
+The results show that UmBERTo outperforms XLM-RoBERTa on the test set, with a global F1-score of 0.8945 against 0.8743. The advantage of the Italian-specific model is consistent across all three entity types (PER, ORG, and LOC) and across two of the three domains (Wikinews and ADG). The only exception is the fiction domain, where XLM-RoBERTa obtains a slightly higher F1-score (0.8902 against 0.8828). These results suggest that language-specific pretraining provides an advantage for Italian NER, but that this advantage depends on the type of text being processed.
+
+The analysis also identified several patterns that are consistent across both models. Person entities are the easiest category to predict, organizations are the hardest, and the ADG domain is the most difficult of the three domains. These patterns are consistent with the distribution of entity types and training examples in the dataset, and they highlight the importance of considering the characteristics of the target text when choosing a NER model.
+
+\section{Future Work}
+\label{sec:future-work}
+
+Several directions for future work can be identified.
+
+\textbf{Multiple runs and statistical testing.} Training each model with multiple random seeds and reporting the mean and standard deviation of the F1-score would allow the robustness of the observed differences to be assessed. Statistical significance testing (for example, a paired bootstrap test on the test set) would help determine whether the domain-level differences, in particular the advantage of XLM-RoBERTa on fiction, are meaningful.
+
+\textbf{Additional checkpoints.} Comparing larger versions of the two models (for example, XLM-RoBERTa-large or other UmBERTo variants) would provide a more complete picture of the trade-off between language-specific and multilingual pretraining.
+
+\textbf{Domain-specific fine-tuning.} Since the results suggest that the advantage of each model depends on the domain, a natural extension would be to fine-tune separate models for each domain (the DSC subtask of NERMuD 2023) and compare them with a single domain-agnostic model (the DAC subtask). This would show whether the domain-level differences observed here persist when the models are specialized.
+
+\textbf{Other Italian datasets.} Evaluating the two models on other Italian NER datasets would help determine whether the conclusions generalize beyond NERMuD 2023.
+
+Overall, this project provides a controlled comparison between an Italian-specific and a multilingual Transformer for Italian NER, and shows that language-specific pretraining can provide a measurable advantage on this task, although the advantage is not uniform across domains. These findings contribute to a better understanding of when language-specific pretraining is worth the additional effort of training or selecting a dedicated model, and when a multilingual model may be sufficient.

@@ -152,6 +152,128 @@ Token-level labels were aligned with subword tokens using the standard \texttt{w
 \section{Model Evaluation}
 \label{sec:eval}
 
+Both models were evaluated on the test set using entity-level precision, recall, and F1-score computed with \texttt{seqeval} \cite{ramshaw1999conll,seqeval}. Entity-level metrics are preferred over token-level metrics for NER because they require the complete entity span to be predicted correctly, rather than rewarding partial matches token by token. Token-level accuracy is not reported, since the overwhelming majority of tokens belong to the \texttt{O} class, which makes accuracy a misleading measure of NER performance.
+
+\subsection{Global Performance}
+\label{subsec:eval-global}
+
+Table~\ref{tab:eval-global} reports the global precision, recall, and F1-score obtained by each model on the test set.
+
+\begin{table}[H]
+    \centering
+    \caption{Global NER performance on the test set.}
+    \label{tab:eval-global}
+    \begin{tabular}{lccc}
+        \hline
+        \textbf{Model} & \textbf{Precision} & \textbf{Recall} & \textbf{F1} \\
+        \hline
+        UmBERTo & 0.8956 & 0.8934 & \textbf{0.8945} \\
+        XLM-RoBERTa & 0.8786 & 0.8699 & 0.8743 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+UmBERTo outperforms XLM-RoBERTa on all three metrics, with a difference of approximately 2 F1 points (0.8945 vs. 0.8743). Both models obtain precision and recall values that are very close to each other, indicating that neither model is biased towards over-predicting or under-predicting entities. The gap between the two models is consistent across precision and recall, which suggests that the difference is not due to a particular threshold or decision rule, but to the quality of the learned representations.
+
+\subsection{Performance by Entity Type}
+\label{subsec:eval-entity}
+
+Table~\ref{tab:eval-entity} reports the F1-score obtained by each model for each entity type.
+
+\begin{table}[H]
+    \centering
+    \caption{Entity-level F1-score by entity type.}
+    \label{tab:eval-entity}
+    \begin{tabular}{lccc}
+        \hline
+        \textbf{Model} & \textbf{PER} & \textbf{ORG} & \textbf{LOC} \\
+        \hline
+        UmBERTo & \textbf{0.9496} & \textbf{0.8400} & \textbf{0.8677} \\
+        XLM-RoBERTa & 0.9320 & 0.8118 & 0.8515 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+Person entities are the easiest category for both models, with F1-scores above 0.93. This is consistent with the exploratory analysis in Section~\ref{subsec:eda-entities}, which showed that PER is the most frequent entity type in the training set, giving the models more examples to learn from. Organizations are the hardest category for both models, with F1-scores around 0.81--0.84. This is also expected, since organization names are often longer, more variable in form, and more ambiguous than person or location names (for example, abbreviations, acronyms, and nested organization names).
+
+The ranking between the two models is consistent across all three entity types: UmBERTo obtains a higher F1-score than XLM-RoBERTa in every category. The gap is largest for ORG (2.8 F1 points) and smallest for PER (1.8 F1 points). This suggests that the advantage of Italian-specific pretraining is not limited to a particular entity type, but is distributed across the task.
+
+\subsection{Performance by Domain}
+\label{subsec:eval-domain}
+
+Table~\ref{tab:eval-domain} reports the F1-score obtained by each model on each of the three domains in the test set.
+
+\begin{table}[H]
+    \centering
+    \caption{Entity-level F1-score by domain.}
+    \label{tab:eval-domain}
+    \begin{tabular}{lccc}
+        \hline
+        \textbf{Model} & \textbf{ADG} & \textbf{FIC} & \textbf{WN} \\
+        \hline
+        UmBERTo & \textbf{0.8239} & 0.8828 & \textbf{0.9051} \\
+        XLM-RoBERTa & 0.8167 & \textbf{0.8902} & 0.8799 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+The results by domain reveal a more nuanced picture than the global scores. UmBERTo performs better on Wikinews (0.9051 vs. 0.8799) and on the ADG domain (0.8239 vs. 0.8167), but XLM-RoBERTa performs better on fiction (0.8902 vs. 0.8828). This is the only domain in which the multilingual model outperforms the Italian-specific model.
+
+The advantage of UmBERTo on Wikinews is the largest single-domain difference (2.5 F1 points). Wikinews contains journalistic text with a relatively standard register and a high density of named entities, which may align well with the Italian corpus used to pretrain UmBERTo. The advantage of XLM-RoBERTa on fiction is smaller (0.7 F1 points) and may reflect the greater lexical and stylistic variety of literary text, which could benefit from the broader multilingual pretraining of XLM-RoBERTa.
+
+All domains obtain lower F1-scores than the global average, which is expected: the global score aggregates all domains, and each individual domain contains its own distribution of entity types and writing styles. The ADG domain is the hardest for both models, which is consistent with the exploratory analysis in Section~\ref{subsec:eda-domain}: ADG is the smallest domain in the training set and contains a high proportion of organization entities, which are the hardest entity type for both models.
+
+\subsection{Summary of Results}
+\label{subsec:eval-summary}
+
+Overall, the results show that UmBERTo outperforms XLM-RoBERTa on Italian NER under the experimental conditions described in this report. The advantage is consistent across entity types and across two of the three domains, and is reflected in all three global metrics. The only exception is the fiction domain, where XLM-RoBERTa obtains a slightly higher F1-score. These results are discussed further in Section~\ref{sec:disc}.
+
 \section{Discussion}
 \label{sec:disc}
+
+The results presented in Section~\ref{sec:eval} show that UmBERTo outperforms XLM-RoBERTa on Italian NER under the experimental conditions described in this report, with a global F1-score of 0.8945 against 0.8743. This section interprets these results, discusses the differences between the two models, and identifies the limitations of the study.
+
+\subsection{Language-Specific vs. Multilingual Pretraining}
+\label{subsec:disc-pretraining}
+
+The main goal of this project was to investigate whether language-specific pretraining provides an advantage over multilingual pretraining for Italian NER. The results suggest that it does, at least for the NERMuD 2023 dataset and the two checkpoints compared here. UmBERTo, which was pretrained exclusively on Italian text, obtains a higher F1-score than XLM-RoBERTa, which was pretrained on text from 100 languages, in the global evaluation and in two of the three domains.
+
+This result is consistent with the intuition that a model pretrained on a large corpus in the target language can learn language-specific patterns --- morphology, syntax, named-entity conventions --- more effectively than a multilingual model that must allocate capacity across many languages. Italian has particular characteristics that may benefit from dedicated pretraining, such as the relatively rich morphology and the presence of multi-word named entities with prepositions and articles (for example, \textit{Università di Bologna} or \textit{Regione Lombardia}).
+
+However, the advantage of UmBERTo is not uniform across domains, and this nuance is important. The multilingual model obtains a slightly higher F1-score on the fiction domain, which suggests that the benefit of language-specific pretraining is not absolute but depends on the characteristics of the text. Fiction contains a greater lexical and stylistic variety than news or political speeches, and may therefore benefit from the broader pretraining corpus of XLM-RoBERTa. This finding indicates that the choice between language-specific and multilingual models should take into account not only the target language but also the type of text that the model will process.
+
+\subsection{Difficulty by Entity Type}
+\label{subsec:disc-entity}
+
+Person entities are the easiest category for both models, with F1-scores above 0.93. This is consistent with the distribution of entity types in the training set, where PER is the most frequent category (9,391 training instances, compared to 6,302 for LOC and 6,122 for ORG). More training examples allow the models to learn the patterns that characterize person names more effectively.
+
+Organizations are the hardest category for both models, with F1-scores between 0.81 and 0.84. This is expected: organization names are often longer, more variable in form, and more ambiguous than person or location names. They may include abbreviations (\textit{ONU}, \textit{UE}), acronyms, nested organization names (\textit{Commissione alleata}), and names that overlap with locations or persons. The annotation of organization spans is therefore more error-prone, both for the annotators who produced the dataset and for the models that must predict them.
+
+Location entities fall between the two extremes, which is also consistent with their position in the training distribution. Location names are typically shorter than organization names and more conventional than person names, but they may still include multi-word expressions and nested structures.
+
+The gap between the two models is consistent across entity types: UmBERTo obtains a higher F1-score than XLM-RoBERTa in every category. This suggests that the advantage of Italian-specific pretraining is not limited to a particular type of entity, but is distributed across the task.
+
+\subsection{Difficulty by Domain}
+\label{subsec:disc-domain}
+
+The domain-level results reveal a more nuanced picture than the global scores. UmBERTo performs better on Wikinews and on the ADG domain, but XLM-RoBERTa performs better on fiction. The ADG domain is the hardest for both models, with F1-scores around 0.82. This is consistent with the exploratory analysis in Section~\ref{subsec:eda-domain}: ADG is the smallest domain in the training set (5,147 training instances, compared to 11,423 for FIC and 10,912 for WN) and contains a high proportion of organization entities, which are the hardest entity type for both models.
+
+The advantage of UmBERTo on Wikinews (2.5 F1 points) is the largest single-domain difference. Wikinews contains journalistic text with a relatively standard register and a high density of named entities, which may align well with the Italian corpus used to pretrain UmBERTo. The advantage of XLM-RoBERTa on fiction (0.7 F1 points) is smaller and may reflect the greater lexical and stylistic variety of literary text.
+
+Overall, the domain-level results suggest that the choice between the two models may depend on the target domain. For news and political speeches, UmBERTo appears to be the better choice. For fiction, XLM-RoBERTa obtains a slightly higher F1-score, although the difference is small and may not be statistically significant. A more detailed analysis with multiple random seeds would be necessary to confirm whether this difference is robust.
+
+\subsection{Limitations}
+\label{subsec:disc-limitations}
+
+This study has several limitations that should be taken into account when interpreting the results.
+
+\textbf{Single run per model.} Each model was trained once with a fixed random seed. NER results can vary between runs due to weight initialization, data shuffling, and dropout, and a single run does not allow the variability of the results to be estimated. A more robust comparison would require training each model with multiple seeds and reporting the mean and standard deviation of the F1-score.
+
+\textbf{One checkpoint per model.} The comparison uses a single pretrained checkpoint for each model family. Other checkpoints of the same family (for example, larger versions of XLM-RoBERTa or different UmBERTo variants) might produce different results. The conclusions should therefore be interpreted as applying to the specific checkpoints compared here, rather than to the model families in general.
+
+\textbf{Differences beyond language coverage.} The two models differ not only in pretraining language coverage but also in tokenizer vocabulary, pretraining corpus, and pretraining objective. Part of the observed difference in performance may therefore be attributable to these factors rather than to the language coverage of the pretraining data alone. The results should be interpreted as a comparison between two specific pretrained checkpoints under a shared training protocol, rather than as a controlled experiment isolating the effect of language-specific pretraining.
+
+\textbf{No statistical significance testing.} The differences between the two models were not tested for statistical significance. Given the size of the test set (4,126 examples) and the magnitude of the global difference (2 F1 points), the global difference is likely to be meaningful, but the domain-level differences (in particular the 0.7-point advantage of XLM-RoBERTa on fiction) may not be.
+
+\textbf{Evaluation on a single dataset.} The experiments use the NERMuD 2023 dataset, which covers three domains of Italian text. The results may not generalize to other Italian datasets or to other entity types beyond PER, ORG, and LOC.
 
