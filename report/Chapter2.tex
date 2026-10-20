@@ -1,16 +1,16 @@
 \section{The Dataset}
 \label{sec:dataset}
 
-The experiments in this project use the NERMuD 2023 dataset, developed as part of the EVALITA 2023 evaluation campaign for Italian Natural Language Processing (available on \href{https://huggingface.co/datasets/evalitahf/entity_recognition}{Hugging Face}). The dataset focuses on Named Entity Recognition across different types of Italian text, covering three entity categories: persons, organizations, and locations \cite{palmeroaprosio2023nermud}.
+The experiments in this project use the NERMuD 2023 dataset, developed as part of the EVALITA 2023 evaluation campaign for Italian Natural Language Processing (available on \href{https://huggingface.co/datasets/evalitahf/entity_recognition}{Hugging Face}). As introduced in Section~\ref{subsec:nermud}, the dataset covers three entity categories: persons, organizations, and locations \cite{palmeroaprosio2023nermud}.
 
-The dataset contains documents from three domains: Wikinews (WN), fiction (FIC), and writings and speeches by Alcide De Gasperi (ADG). These domains represent different writing styles and contexts, providing a basis for evaluating NER systems across different types of text. Wikinews contains journalistic texts, fiction consists of excerpts from Italian literary works, and the ADG domain contains political writings and speeches. These differences are relevant to NER because the frequency, distribution, and context of named entities may vary between domains.
+The dataset contains documents from three domains: Wikinews (WN), fiction (FIC), and writings and speeches by Alcide De Gasperi (ADG). Wikinews contains journalistic texts, fiction consists of excerpts from Italian literary works, and the ADG domain contains political writings and speeches. These domains differ in writing style and context, which is relevant to NER because the frequency, distribution, and context of named entities may vary between them.
 
 \subsection{Dataset Organization}
 \label{subsec:data-org}
 
-The NERMuD 2023 dataset is organized into multiple JSONL files according to their domain and purpose. Each domain is divided into training, development, and test subsets. In this project, the corresponding subsets from the three domains are combined to create a single training set, a single development set, and a single test set. The domain information is retained to support further analysis of model performance across domains.
+The dataset is organized into multiple JSONL files according to domain and purpose. Each domain is divided into training, development, and test subsets. In this project, the corresponding subsets from the three domains are combined to create a single training set, a single development set, and a single test set, while retaining domain information for later analysis.
 
-Table~\ref{tab:dataset-splits} presents the number of examples in each subset.
+Table~\ref{tab:dataset-splits} presents the number of examples in each subset. The training set is used to fine-tune the models, while the development set is used to monitor their performance during training and select the best model checkpoint. The test set is reserved for the final evaluation, allowing the performance of both models to be compared on data that was not used for training or model selection.
 
 \begin{table}[H]
     \centering
@@ -29,14 +29,12 @@ Table~\ref{tab:dataset-splits} presents the number of examples in each subset.
     \end{tabular}
 \end{table}
 
-The training set is used to fine-tune the models, while the development set is used to monitor their performance during training and select the best model checkpoint. The test set is reserved for the final evaluation, allowing the performance of both models to be compared on data that was not used for training or model selection.
-
 \subsection{Entity Categories and Annotation Scheme}
 \label{subsec:ent-cat}
 
-The dataset contains three named entity categories: persons (PER), organizations (ORG), and locations (LOC). These categories identify people, institutions or other organizations, and geographical places, respectively.
+The dataset contains three named entity categories: persons (PER), organizations (ORG), and locations (LOC), identifying people, institutions or other organizations, and geographical places, respectively.
 
-The original annotations follow the Inside-Outside-Beginning (IOB) tagging scheme, commonly referred to as BIO. In this scheme, each token receives a label indicating whether it belongs to a named entity and, if so, whether it begins the entity or continues it. The labels used in this project are:
+The original annotations follow the Inside-Outside-Beginning (IOB) tagging scheme, commonly referred to as BIO. Each token receives a label indicating whether it belongs to a named entity and, if so, whether it begins the entity or continues it:
 
 \begin{itemize}
 \item \texttt{B-PER}, \texttt{B-ORG}, and \texttt{B-LOC}: the first token of a person, organization, or location entity.
@@ -44,7 +42,7 @@ The original annotations follow the Inside-Outside-Beginning (IOB) tagging schem
 \item \texttt{O}: a token that does not belong to any named entity.
 \end{itemize}
 
-For example, the sentence ``Umberto Guidoni visited Rome'' can be annotated as follows:
+For example, the sentence ``Umberto Guidoni visited Rome'' is annotated as shown in Table~\ref{tab:bio-example}. This representation allows the models to perform token-level classification while preserving information about the boundaries and categories of named entities.
 
 \begin{table}[H]
     \centering
@@ -62,13 +60,10 @@ For example, the sentence ``Umberto Guidoni visited Rome'' can be annotated as f
     \end{tabular}
 \end{table}
 
-This representation allows the models to perform token-level classification while preserving information about the boundaries and categories of named entities.
-
-
 \section{Data Preprocessing}
 \label{sec:preprocessing}
 
-Before training, the dataset is processed to ensure that the text and its corresponding entity annotations can be converted into token-level labels. Each original entry contains the text and a list of annotated entities, represented by their text and entity type. For example, the following entry identifies \textit{Trentino} as a location (\texttt{LOC}):
+Before training, the dataset is processed so that the text and its annotations can be converted into token-level labels. Each original entry contains the text and a list of annotated entities, represented by their text and entity type. For example, the following entry identifies \textit{Trentino} as a location (\texttt{LOC}):
 
 \begin{verbatim}
 {"text": "Nel nostro Trentino attraversiamo un momento storico importante.
@@ -83,14 +78,6 @@ The annotations are then converted into a consistent representation containing t
 "O", "O", "O", "O"], "domain": "adg"}
 \end{verbatim}
 
-The preprocessing procedure includes tokenizing the text, locating the annotated entities, and assigning the appropriate BIO labels to the corresponding tokens. In this scheme, the prefix \texttt{B-} marks the beginning of an entity, while \texttt{I-} marks subsequent tokens belonging to the same entity. The label \texttt{O} is assigned to tokens that do not belong to any entity. For multi-word entities, the first token receives a beginning label and the remaining tokens receive continuation labels.
+The preprocessing procedure includes tokenizing the text, locating the annotated entities, and assigning the appropriate BIO labels to the corresponding tokens. For multi-word entities, the first token receives a beginning label and the remaining tokens receive continuation labels.
 
-Whitespace and punctuation differences can make it difficult to match annotated entity strings exactly to their occurrences in the original text. To address these cases, normalized matching is used as a fallback when an exact match cannot be found. This procedure helps align the annotations without unnecessarily modifying the original text.
-
-
-\section{Experimental Setup}
-\label{sec:experimental-setup}
-
-The experiments use the same training, development, and test splits for both models. The development set is used to monitor performance and select the best checkpoint, whereas the test set is reserved for the final comparison. The same preprocessing procedure is applied to both models to maintain consistency in the experimental setup.
-
-The following chapter presents the experimental results and discusses the performance of the two models.
+Whitespace and punctuation differences can make it difficult to match annotated entity strings exactly to their occurrences in the original text. To address these cases, normalized matching is used as a fallback when an exact match cannot be found, aligning the annotations without modifying the original text.

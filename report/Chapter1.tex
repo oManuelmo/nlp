@@ -20,7 +20,7 @@ The remainder of this report is organized as follows. Chapter 1 presents relevan
 \subsection{Named Entity Recognition}
 \label{subsec:ner}
 
-Named Entity Recognition (NER) is a NLP task that consists of identifying and classifying named entities in text into predefined categories \cite{mohit2014ner}. Common entity categories include persons, organizations, and locations.
+Named Entity Recognition (NER) is an NLP task that consists of identifying and classifying named entities in text into predefined categories \cite{mohit2014ner}. Common entity categories include persons, organizations, and locations.
 
 For example, consider the following sentence: ``The operation for Pope Leo will take place at the Agostino Gemelli Polyclinic Hospital in Rome.'' A NER system could identify \textit{Pope Leo} as a person, \textit{Agostino Gemelli Polyclinic Hospital} as an organization, and \textit{Rome} as a location. This process transforms unstructured text into structured information that can be used by other NLP applications.
 
@@ -31,7 +31,7 @@ However, identifying named entities can be challenging because the same word may
 \subsection{Transformer-based Language Models}
 \label{subsec:transformer}
 
-Before the introduction of Transformers, recurrent neural networks (RNNs), particularly Bidirectional Long Short-Term Memory networks (BLSTMs) combined with Conditional Random Fields (CRFs), were widely used for sequence labeling tasks such as Named Entity Recognition. However, the introduction of the Transformer architecture marked a significant development in NLP, enabling models to capture contextual relationships between words through a mechanism known as self-attention \cite{vaswani2017attention}.
+Before the introduction of Transformers, recurrent neural networks (RNNs), particularly Bidirectional Long Short-Term Memory networks (BLSTMs) combined with Conditional Random Fields (CRFs), were widely used for sequence labeling tasks such as Named Entity Recognition. The introduction of the Transformer architecture marked a significant development in NLP, enabling models to capture contextual relationships between words through a mechanism known as self-attention \cite{vaswani2017attention}.
 
 Unlike recurrent architectures, which process sequences step by step, Transformers can process tokens in parallel during training and model relationships between tokens regardless of their distance in a sequence. This allows them to learn contextual representations that are useful for a wide range of language understanding tasks.
 
